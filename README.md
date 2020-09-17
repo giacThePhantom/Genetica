@@ -1,5 +1,5 @@
 # Genetica
-Riassunto del corso di biologia molecolare della cellula tenuto dal professor Inga. Università di Trento 2020/2021
+Riassunto del corso di genetica tenuto dal professor Inga. Università di Trento 2020/2021
 
 ## Struttura dei file
 Il file latex Principal.tex deve contenere unicamente input al prefisso e ai capitoli i quali conterranno tutti i contenuti. Il 
