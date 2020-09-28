@@ -18,5 +18,8 @@
 \contentsline {subsubsection}{Terapia genica}{5}{section*.5}% 
 \contentsline {subsubsection}{Clonaggio}{6}{section*.6}% 
 \contentsline {subsubsection}{Editing genomico}{6}{section*.7}% 
-\contentsline {subsubsection}{Biologia sintetica}{6}{section*.8}% 
-\contentsline {subsection}{\numberline {1.2.4}Interazioni gene e ambiente}{6}{subsection.1.2.4}% 
+\contentsline {paragraph}{Prevenzione della distrofia muscolare nei topi attraverso editing del DNA germinale mediato da CRISPR/Cas9}{6}{section*.8}% 
+\contentsline {paragraph}{Utilizzo in medicina}{7}{section*.9}% 
+\contentsline {subsubsection}{Biologia sintetica}{7}{section*.10}% 
+\contentsline {subsection}{\numberline {1.2.4}Interazioni gene e ambiente}{7}{subsection.1.2.4}% 
+\contentsline {paragraph}{L'attivazione ambientale e genetica di un asse di segnalazione BDNF/Leptina causa remissione ed inibizione del cancro}{7}{section*.11}% 
