@@ -23,3 +23,36 @@
 \contentsline {subsubsection}{Biologia sintetica}{7}{section*.10}% 
 \contentsline {subsection}{\numberline {1.2.4}Interazioni gene e ambiente}{7}{subsection.1.2.4}% 
 \contentsline {paragraph}{L'attivazione ambientale e genetica di un asse di segnalazione BDNF/Leptina causa remissione ed inibizione del cancro}{7}{section*.11}% 
+\contentsline {chapter}{\numberline {2}Mitosi e meiosi}{9}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Cromosomi e ciclo cellulare}{9}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Cromosomi}{9}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Ciclo cellulare}{9}{subsection.2.1.2}% 
+\contentsline {subsubsection}{Interfase}{9}{section*.12}% 
+\contentsline {subsubsection}{Fase $\mathbf {M}$}{10}{section*.13}% 
+\contentsline {section}{\numberline {2.2}Mitosi}{10}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Fasi della mitosi}{10}{subsection.2.2.1}% 
+\contentsline {subsubsection}{Interfase}{10}{section*.14}% 
+\contentsline {subsubsection}{Profase}{10}{section*.15}% 
+\contentsline {subsubsection}{Prometafase}{10}{section*.16}% 
+\contentsline {subsubsection}{Metafase}{10}{section*.17}% 
+\contentsline {subsubsection}{Anafase}{10}{section*.18}% 
+\contentsline {subsubsection}{Telofase}{10}{section*.19}% 
+\contentsline {subsection}{\numberline {2.2.2}Attivazione della fase $\mathbf {M}$}{10}{subsection.2.2.2}% 
+\contentsline {subsubsection}{Fase $\mathbf {G_1}$}{11}{section*.20}% 
+\contentsline {subsubsection}{Fase $\mathbf {S}$}{11}{section*.21}% 
+\contentsline {subsubsection}{Fase $\mathbf {G_2}$}{11}{section*.22}% 
+\contentsline {subsubsection}{Metafase}{11}{section*.23}% 
+\contentsline {section}{\numberline {2.3}Meiosi}{11}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Meiosi $\mathbf {1}$}{11}{subsection.2.3.1}% 
+\contentsline {subsubsection}{Profase $\mathbf {I}$}{11}{section*.24}% 
+\contentsline {paragraph}{Profase $\mathbf {I}$ intermedia}{11}{section*.25}% 
+\contentsline {paragraph}{Profase $\mathbf {I}$ tardiva}{11}{section*.26}% 
+\contentsline {subsubsection}{Metafase $\mathbf {I}$}{12}{section*.27}% 
+\contentsline {subsubsection}{Anafase $\mathbf {I}$}{12}{section*.28}% 
+\contentsline {subsubsection}{Telofase $\mathbf {I}$}{12}{section*.29}% 
+\contentsline {subsection}{\numberline {2.3.2}Meiosi $\mathbf {2}$}{12}{subsection.2.3.2}% 
+\contentsline {subsubsection}{Profase $\mathbf {II}$}{12}{section*.30}% 
+\contentsline {subsubsection}{Metafase $\mathbf {II}$}{12}{section*.31}% 
+\contentsline {subsubsection}{Anafase $\mathbf {II}$}{12}{section*.32}% 
+\contentsline {subsubsection}{Telofase $\mathbf {II}$}{12}{section*.33}% 
+\contentsline {subsection}{\numberline {2.3.3}Confronto con mitosi}{12}{subsection.2.3.3}% 
