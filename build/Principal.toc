@@ -42,17 +42,28 @@
 \contentsline {subsubsection}{Fase $\mathbf {S}$}{11}{section*.21}% 
 \contentsline {subsubsection}{Fase $\mathbf {G_2}$}{11}{section*.22}% 
 \contentsline {subsubsection}{Metafase}{11}{section*.23}% 
-\contentsline {section}{\numberline {2.3}Meiosi}{11}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Meiosi $\mathbf {1}$}{11}{subsection.2.3.1}% 
-\contentsline {subsubsection}{Profase $\mathbf {I}$}{11}{section*.24}% 
-\contentsline {paragraph}{Profase $\mathbf {I}$ intermedia}{11}{section*.25}% 
-\contentsline {paragraph}{Profase $\mathbf {I}$ tardiva}{11}{section*.26}% 
-\contentsline {subsubsection}{Metafase $\mathbf {I}$}{12}{section*.27}% 
-\contentsline {subsubsection}{Anafase $\mathbf {I}$}{12}{section*.28}% 
-\contentsline {subsubsection}{Telofase $\mathbf {I}$}{12}{section*.29}% 
-\contentsline {subsection}{\numberline {2.3.2}Meiosi $\mathbf {2}$}{12}{subsection.2.3.2}% 
-\contentsline {subsubsection}{Profase $\mathbf {II}$}{12}{section*.30}% 
-\contentsline {subsubsection}{Metafase $\mathbf {II}$}{12}{section*.31}% 
-\contentsline {subsubsection}{Anafase $\mathbf {II}$}{12}{section*.32}% 
-\contentsline {subsubsection}{Telofase $\mathbf {II}$}{12}{section*.33}% 
-\contentsline {subsection}{\numberline {2.3.3}Confronto con mitosi}{12}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.2.3}Eventi drammatici nella mitosi}{11}{subsection.2.2.3}% 
+\contentsline {subsubsection}{Rotture del DNA e polverizzazione dei cromosomi da errori nella mitosi}{11}{section*.24}% 
+\contentsline {paragraph}{Esperimento}{11}{section*.25}% 
+\contentsline {subparagraph}{Sincronizzazione}{11}{section*.26}% 
+\contentsline {subparagraph}{Osservazione dei micronuclei}{12}{section*.27}% 
+\contentsline {subparagraph}{Rotture cromosomiche}{12}{section*.28}% 
+\contentsline {subparagraph}{Il destino dei cromosomi nei micronuclei}{12}{section*.29}% 
+\contentsline {subsubsection}{Cromotripsi causata dal danno del DNA nei micronuclei}{12}{section*.30}% 
+\contentsline {subsubsection}{Endoreplicazione, la poliploidia con uno scopo}{12}{section*.31}% 
+\contentsline {section}{\numberline {2.3}Meiosi}{12}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Meiosi $\mathbf {1}$}{12}{subsection.2.3.1}% 
+\contentsline {subsubsection}{Profase $\mathbf {I}$}{12}{section*.32}% 
+\contentsline {paragraph}{Profase $\mathbf {I}$ intermedia}{13}{section*.33}% 
+\contentsline {paragraph}{Profase $\mathbf {I}$ tardiva}{13}{section*.34}% 
+\contentsline {subsubsection}{Metafase $\mathbf {I}$}{13}{section*.35}% 
+\contentsline {subsubsection}{Anafase $\mathbf {I}$}{13}{section*.36}% 
+\contentsline {subsubsection}{Telofase $\mathbf {I}$}{13}{section*.37}% 
+\contentsline {subsection}{\numberline {2.3.2}Meiosi $\mathbf {2}$}{13}{subsection.2.3.2}% 
+\contentsline {subsubsection}{Profase $\mathbf {II}$}{13}{section*.38}% 
+\contentsline {subsubsection}{Metafase $\mathbf {II}$}{13}{section*.39}% 
+\contentsline {subsubsection}{Anafase $\mathbf {II}$}{13}{section*.40}% 
+\contentsline {subsubsection}{Telofase $\mathbf {II}$}{13}{section*.41}% 
+\contentsline {subsection}{\numberline {2.3.3}Confronto con mitosi}{13}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}Crossing-over}{14}{subsection.2.3.4}% 
+\contentsline {subsubsection}{\emph {PRDM9} organizza gli hotspot dei nucleosomi e limita la migrazione delle giunzioni di Holliday}{14}{section*.42}% 
