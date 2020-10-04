@@ -51,8 +51,7 @@ da fattori di attivazione determinando la frammentazione dell'involucro nucleare
 $M$. \`E pertanto il livello critico di \emph{MPF} attivo a causare la progressione della cellula attraverso il punto di controllo $G_2/M$ e l'ingresso in mitosi. 
 \subsubsection{Metafase}
 Verso la fine della metafase la degradazione della \emph{ciclina B} riduce la quantit\`a di \emph{MPF} attivo provocando l'anafase, la telofase, la cinetochinesi e l'interfase. 
-\subsection{Eventi drammatici nella mitosi}
-\subsubsection{Rotture del DNA e polverizzazione dei cromosomi da errori nella mitosi}
+
 In questo studio si tenta di identificare un meccanismo in cui errori nella segregazione dei cromosomi durante la mitosi genera rotture del DNA attraverso la formazione dei micronuclei. 
 I micronuclei si formano quando errori mitotici producono cromosomi lagging. Studiandoli si nota come subiscono una replicazione del DNA asincrona e difettiva risultando in danno al
 DNA e spesso frammentazione del cromosoma nel micronucleo. Il destino dei micronuclei \`e vario: possono persistere per molte generazioni o essere ridistribuiti in nuclei figli, pertanto
@@ -78,11 +77,49 @@ Per l'osservazione del danno si rilasciano le cellule sincronizzate in un medium
 nota come il micronucleo si colora di rosso in un momento successivo, confermando l'ipotesi che il danno al DNA venga acquisito a causa di un ritardo nella sintesi del DNA al suo interno
 rispetto ai cromosomi nei nuclei. 
 \subparagraph{Rotture cromosomiche}
-
+Successivamente si procede per testare la predizione che replicazione anormale del DNA nei micronuclei pu\`o generare rotture cromosomiche. Si preparano dalle cellule non trasformate
+del primo ciclo cellulare dopo il rilascio del nocodazolo o dai controlli trattati con $DMSO$. Si nota come il $7.6\%$ dei cromosomi esibisce cromosomi che appaiono frammentati 
+colorati attraverso $DAPI$. Il meccanismo di polverizzazione coinvolge compattamento di cromosomi parzialmente replicati indotto dall'attivit\`a di \emph{CDK} e viene detto compattazione
+cromosomica prematura. 
 \subparagraph{Il destino dei cromosomi nei micronuclei}
-
+Le aberrazioni cromosomi acquisite nei micronuclei possono essere reincorporate nel genoma. La maggior parte dei micronuclei sono stabilmente mantenuti durante l'interfase e nonostante
+alcuni micronuclei possono essere estrusi non ne sono stati individuati dall'esperimento. I micronuclei non erano degradati, non co-localizzano con i lisosomi e non si fondono con 
+il nucleo primario, ma dopo la rottura della membrana nucleare alcuni micronuclei possono unirsi ad altri cromosomi mitotici ed essere distribuiti alle cellule figlie. Si mostra
+pertanto come i micronuclei persistono in diverse generazioni e che il cromosoma contenuto in esso pu\`o essere segregato nei nuclei delle cellule figlie. Pertanto riarrangiamenti 
+del DNA e mutazioni nei micronuclei possono essere incorporati nel genoma di una cellula. Questo meccanismo potrebbe giustificare il fenomeno della cromotripsi. 
+\subparagraph{Cromotripsi}
+La cromotripsi \`e stata scoperta sequenziando il genoma delle cellule tumorali ed \`e definita da cambi del numero di copie del DNA in piccola scala e riarrangiamenti intracromosomiali 
+ristretti a un singolo cromosoma o a un suo braccio. Sono stati proposti due modelli non esclusivi per la cromotripsi:
+\begin{itemize}
+	\item La frammentazione di un cromosoma seguita da riunione attraverso unione di terminazioni non omologhe.
+	\item La replicazione del DNA aberrante risultante in stalli della forcella e cambio di stampo o replicazione indotta da rotture e mediata da micro-omologie.
+\end{itemize}
 \subsubsection{Cromotripsi causata dal danno del DNA nei micronuclei}
-
+La cromotripsi \`e caratterizzata da riarrangamenti genomici estensivi e un pattern oscillante di numero di copie di DNA ristretti a uno o pi\`u cromosomi. Il meccanismo non \`e 
+conosciuto ma potrebbe essere causato dall'isolamento di un cromosoma nei micronuclei. Nell'esperimento si dimostra come il meccanismo della cromotripsi pu\`o coinvolgere la 
+frammentazione e il riassemblaggio di un singolo cromatide da un micronucleo. Studi del genoma del cancro mostrano come esistano eventi di mutazione che generano mutazioni tutte in 
+una volta durante un singolo ciclo cellulare. Un esempio di questo \`e la cromostripsi, dove avviene un pattern unico di riarrangamenti raggruppati coinvolgendo uno o pochi cromosomi. 
+Si dimostra attraverso imaging di singole cellule con analisi ``Look-Seq" come la formazione di micronuclei pu\`o generare uno spettro di riarrangiamenti cromosomiali complesso, fornendo
+la prova per un meccanismo che porta alla cromotripsi. 
+\paragraph{Strategia look-seq}
+Per determinare le conseguenze genomiche del danno al DNA nei micronuclei si prendono cellule non trasformate \emph{RPE-1} sincronizzate dal rilascio di nocodazolo e poste in piastre
+a pozzetti. Si identificano i pozzetti contenenti una singola cellula micronucleata. Attraverso imaging delle cellule in vivo si identificano le cellule dove la membrana micronucleare
+si \`e rotta dopo l'inizio della fase $S$. Questi esperimenti sono stati utilizzando dopo attraverso eliminazione di \emph{p53} attraverso \emph{siRNA}. Dopo una divisione della cellula
+micronucleata si selezionano le figlie senza micronuclei indicando che il cromosoma micronucleare \`e stato reincorporato nel nucleo primario. Le cellule sono state selezionate in quanto
+la rottura disattiva processi di replicazione e trascrizione del DNA. Le cellule figlie sono state successivamente separate, amplificate (multistrand displacement amplification, 
+\emph{MDA}), sequenziate ed analizzate indipendentemente.
+\paragraph{Destino dei cromosomi}
+\subparagraph{Caso $\mathbf{1}$}
+Il cromosoma in ritardo viene correttamente segregato ma partizionato in un micronucleo in una cellula figlia. Il cromosoma in esse viene sotto replicato e segregato risultando in un
+rapporto tra le figlie di questa di $2:1$.
+\subparagraph{Caso $\mathbf{2}$}
+Il cromosoma in ritardo \`e mal segregato in un micronucleo in una cellula figlia. Il crsomosoma \`e sotto replicato e segregato asimmetricamente, risultando in un rapporto tra le figlie
+di questa di $3:2$.
+\paragraph{Conclusioni}
+La segregazione mitotica errata pu\`o essere altamente mutagenica, con importanti implicazioni per come questi errori e le aneploidie potrebbero aver contribuito al cancro o altre 
+malattie umane. La cromotripsi \`e presente in una piccola percentuale di cancri umani e altri disordini congenitali, ma il tasso di cromostripsi \`e probabilmente pi\`u alto in 
+quanto la maggior parte di questi eventi compromettono il fitness cellulare e potrebbero essere individuati solo da un'analisi unicellulare. I micronuclei potrebbero pertanto 
+essere un'importante fonte di variabilit\`a genetica. 
 \subsubsection{Endoreplicazione, la poliploidia con uno scopo}
 
 \section{Meiosi}
@@ -126,8 +163,6 @@ I processi di base della meiosi sono simili a quelli della mitosi a netto di:
 		potenzialmente unica. 
 \end{itemize}
 \subsection{Crossing-over}
-
+Il fenomeno di crossing-over \`e l'evento di ricombinazione meiotica.
 \subsubsection{\emph{PRDM9} organizza gli hotspot dei nucleosomi e limita la migrazione delle giunzioni di Holliday}
-
-
 
