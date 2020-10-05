@@ -42,32 +42,50 @@
 \contentsline {subsubsection}{Fase $\mathbf {S}$}{11}{section*.21}% 
 \contentsline {subsubsection}{Fase $\mathbf {G_2}$}{11}{section*.22}% 
 \contentsline {subsubsection}{Metafase}{11}{section*.23}% 
-\contentsline {paragraph}{Esperimento}{11}{section*.24}% 
-\contentsline {subparagraph}{Sincronizzazione}{11}{section*.25}% 
-\contentsline {subparagraph}{Osservazione dei micronuclei}{12}{section*.26}% 
-\contentsline {subparagraph}{Rotture cromosomiche}{12}{section*.27}% 
-\contentsline {subparagraph}{Il destino dei cromosomi nei micronuclei}{12}{section*.28}% 
-\contentsline {subparagraph}{Cromotripsi}{12}{section*.29}% 
-\contentsline {subsubsection}{Cromotripsi causata dal danno del DNA nei micronuclei}{13}{section*.30}% 
-\contentsline {paragraph}{Strategia look-seq}{13}{section*.31}% 
-\contentsline {paragraph}{Destino dei cromosomi}{13}{section*.32}% 
-\contentsline {subparagraph}{Caso $\mathbf {1}$}{13}{section*.33}% 
-\contentsline {subparagraph}{Caso $\mathbf {2}$}{13}{section*.34}% 
-\contentsline {paragraph}{Conclusioni}{13}{section*.35}% 
-\contentsline {subsubsection}{Endoreplicazione, la poliploidia con uno scopo}{13}{section*.36}% 
-\contentsline {section}{\numberline {2.3}Meiosi}{13}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Meiosi $\mathbf {1}$}{14}{subsection.2.3.1}% 
-\contentsline {subsubsection}{Profase $\mathbf {I}$}{14}{section*.37}% 
-\contentsline {paragraph}{Profase $\mathbf {I}$ intermedia}{14}{section*.38}% 
-\contentsline {paragraph}{Profase $\mathbf {I}$ tardiva}{14}{section*.39}% 
-\contentsline {subsubsection}{Metafase $\mathbf {I}$}{14}{section*.40}% 
-\contentsline {subsubsection}{Anafase $\mathbf {I}$}{14}{section*.41}% 
-\contentsline {subsubsection}{Telofase $\mathbf {I}$}{14}{section*.42}% 
-\contentsline {subsection}{\numberline {2.3.2}Meiosi $\mathbf {2}$}{14}{subsection.2.3.2}% 
-\contentsline {subsubsection}{Profase $\mathbf {II}$}{14}{section*.43}% 
-\contentsline {subsubsection}{Metafase $\mathbf {II}$}{14}{section*.44}% 
-\contentsline {subsubsection}{Anafase $\mathbf {II}$}{14}{section*.45}% 
-\contentsline {subsubsection}{Telofase $\mathbf {II}$}{15}{section*.46}% 
-\contentsline {subsection}{\numberline {2.3.3}Confronto con mitosi}{15}{subsection.2.3.3}% 
-\contentsline {subsection}{\numberline {2.3.4}Crossing-over}{15}{subsection.2.3.4}% 
-\contentsline {subsubsection}{\emph {PRDM9} organizza gli hotspot dei nucleosomi e limita la migrazione delle giunzioni di Holliday}{15}{section*.47}% 
+\contentsline {subsection}{\numberline {2.2.3}Eventi drammatici nella mitosi}{11}{subsection.2.2.3}% 
+\contentsline {subsubsection}{Rotture del DNA e polverizzazione dei cromosomi da errori nella mitosi}{11}{section*.24}% 
+\contentsline {paragraph}{Esperimento}{11}{section*.25}% 
+\contentsline {subparagraph}{Sincronizzazione}{11}{section*.26}% 
+\contentsline {subparagraph}{Osservazione dei micronuclei}{12}{section*.27}% 
+\contentsline {subparagraph}{Rotture cromosomiche}{12}{section*.28}% 
+\contentsline {subparagraph}{Il destino dei cromosomi nei micronuclei}{12}{section*.29}% 
+\contentsline {subparagraph}{Cromotripsi}{12}{section*.30}% 
+\contentsline {subsubsection}{Cromotripsi causata dal danno del DNA nei micronuclei}{13}{section*.31}% 
+\contentsline {paragraph}{Strategia look-seq}{13}{section*.32}% 
+\contentsline {paragraph}{Destino dei cromosomi}{13}{section*.33}% 
+\contentsline {subparagraph}{Caso $\mathbf {1}$}{13}{section*.34}% 
+\contentsline {subparagraph}{Caso $\mathbf {2}$}{13}{section*.35}% 
+\contentsline {paragraph}{Conclusioni}{13}{section*.36}% 
+\contentsline {subsubsection}{Endoreplicazione, la poliploidia con uno scopo}{13}{section*.37}% 
+\contentsline {paragraph}{Meccanismi di endoreplicazione}{14}{section*.38}% 
+\contentsline {subparagraph}{Endociti}{14}{section*.39}% 
+\contentsline {subparagraph}{Rereplicazione}{14}{section*.40}% 
+\contentsline {subparagraph}{Endomitosi}{14}{section*.41}% 
+\contentsline {paragraph}{Esempi di tessuti endociclanti}{14}{section*.42}% 
+\contentsline {subparagraph}{Embrione vegetale}{14}{section*.43}% 
+\contentsline {subparagraph}{Ovarie della Drosophila}{14}{section*.44}% 
+\contentsline {subparagraph}{\emph {TGC} dei roditori}{14}{section*.45}% 
+\contentsline {subparagraph}{Ipocotile}{14}{section*.46}% 
+\contentsline {paragraph}{Regolazione dell'endociclo della Drosophila}{14}{section*.47}% 
+\contentsline {paragraph}{Varianti dell'endociclo}{15}{section*.48}% 
+\contentsline {paragraph}{Il modello della soglia a \emph {CDK}}{15}{section*.49}% 
+\contentsline {section}{\numberline {2.3}Meiosi}{15}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Meiosi $\mathbf {1}$}{15}{subsection.2.3.1}% 
+\contentsline {subsubsection}{Profase $\mathbf {I}$}{15}{section*.50}% 
+\contentsline {paragraph}{Profase $\mathbf {I}$ intermedia}{15}{section*.51}% 
+\contentsline {paragraph}{Profase $\mathbf {I}$ tardiva}{15}{section*.52}% 
+\contentsline {subsubsection}{Metafase $\mathbf {I}$}{15}{section*.53}% 
+\contentsline {subsubsection}{Anafase $\mathbf {I}$}{15}{section*.54}% 
+\contentsline {subsubsection}{Telofase $\mathbf {I}$}{16}{section*.55}% 
+\contentsline {subsection}{\numberline {2.3.2}Meiosi $\mathbf {2}$}{16}{subsection.2.3.2}% 
+\contentsline {subsubsection}{Profase $\mathbf {II}$}{16}{section*.56}% 
+\contentsline {subsubsection}{Metafase $\mathbf {II}$}{16}{section*.57}% 
+\contentsline {subsubsection}{Anafase $\mathbf {II}$}{16}{section*.58}% 
+\contentsline {subsubsection}{Telofase $\mathbf {II}$}{16}{section*.59}% 
+\contentsline {subsection}{\numberline {2.3.3}Confronto con mitosi}{16}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}Crossing-over}{16}{subsection.2.3.4}% 
+\contentsline {subsubsection}{Organizzazione dei cromosomi e citologia durante la profase meiotica $\mathbf {I}$}{17}{section*.60}% 
+\contentsline {subsubsection}{Meccanismo di crossing over}{17}{section*.61}% 
+\contentsline {subsubsection}{Modello del ruolo di \emph {PRDM9} nella localizzazione meiotica di \emph {DSB}}{17}{section*.62}% 
+\contentsline {paragraph}{Struttura e funzione di \emph {PRDM9}}{17}{section*.63}% 
+\contentsline {subsubsection}{\emph {PRDM9} organizza gli hotspot dei nucleosomi e limita la migrazione delle giunzioni di Holliday}{17}{section*.64}% 
