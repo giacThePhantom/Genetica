@@ -102,3 +102,35 @@
 \contentsline {subsection}{\numberline {3.2.3}Secondo esperimento}{21}{subsection.3.2.3}% 
 \contentsline {subsubsection}{Assortimento indipendente}{22}{section*.68}% 
 \contentsline {section}{\numberline {3.3}Comprensione molecolare degli esperimenti di Mendel}{22}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Esempi di tratti mendeliani nell'uomo}{22}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Definizioni}{22}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Beta-Talassemia}{22}{subsection.3.4.2}% 
+\contentsline {subsubsection}{Descrizione}{23}{section*.69}% 
+\contentsline {subsubsection}{Caratteristiche cliniche}{23}{section*.70}% 
+\contentsline {paragraph}{Talassemia maggiore}{23}{section*.71}% 
+\contentsline {paragraph}{Talassemia intermedia}{23}{section*.72}% 
+\contentsline {paragraph}{Talassemia minore}{23}{section*.73}% 
+\contentsline {paragraph}{Caratteristiche geniche}{23}{section*.74}% 
+\contentsline {subsubsection}{Cluster genici della globina}{23}{section*.75}% 
+\contentsline {paragraph}{Cromosoma $\mathbf {11}$}{23}{section*.76}% 
+\contentsline {paragraph}{Cromosoma $\mathbf {16}$}{23}{section*.77}% 
+\contentsline {paragraph}{Composizione emoglobina}{23}{section*.78}% 
+\contentsline {paragraph}{Formazione del cluster genico}{24}{section*.79}% 
+\contentsline {subsubsection}{Gestione clinica}{24}{section*.80}% 
+\contentsline {paragraph}{Trattamento con \emph {5-azacitidina}}{24}{section*.81}% 
+\contentsline {paragraph}{Trapianto di midollo}{24}{section*.82}% 
+\contentsline {paragraph}{Terapia genica}{24}{section*.83}% 
+\contentsline {subparagraph}{Background}{24}{section*.84}% 
+\contentsline {subparagraph}{Metodi}{24}{section*.85}% 
+\contentsline {subparagraph}{Risultati}{24}{section*.86}% 
+\contentsline {paragraph}{Trattamento con CRISPR}{24}{section*.87}% 
+\contentsline {subsubsection}{Genetica della popolazione}{25}{section*.88}% 
+\contentsline {subsection}{\numberline {3.4.3}Anemia falciforme}{25}{subsection.3.4.3}% 
+\contentsline {subsubsection}{Descrizione}{25}{section*.89}% 
+\contentsline {subsubsection}{Caratteristiche cliniche}{25}{section*.90}% 
+\contentsline {subsubsection}{Gestione clinica}{25}{section*.91}% 
+\contentsline {paragraph}{Terapia genica}{25}{section*.92}% 
+\contentsline {paragraph}{CRISPR per combattere l'anemia falciforme}{25}{section*.93}% 
+\contentsline {paragraph}{Serendipity}{26}{section*.94}% 
+\contentsline {subparagraph}{meccanismo di azione dell'idrossiurea}{26}{section*.95}% 
+\contentsline {subsubsection}{Resistenza alla malaria}{26}{section*.96}% 
