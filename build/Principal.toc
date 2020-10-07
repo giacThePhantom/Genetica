@@ -134,3 +134,19 @@
 \contentsline {paragraph}{Serendipity}{26}{section*.94}% 
 \contentsline {subparagraph}{meccanismo di azione dell'idrossiurea}{26}{section*.95}% 
 \contentsline {subsubsection}{Resistenza alla malaria}{26}{section*.96}% 
+\contentsline {chapter}{\numberline {4}Estensione dell'analisi genetica mendeliana}{27}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Rapporti tra gli alleli}{27}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Dominanza incompleta}{27}{subsection.4.1.1}% 
+\contentsline {subsubsection}{Esempi}{27}{section*.97}% 
+\contentsline {subsection}{\numberline {4.1.2}Codominanza}{28}{subsection.4.1.2}% 
+\contentsline {subsubsection}{Esempi}{28}{section*.98}% 
+\contentsline {subsection}{\numberline {4.1.3}Allelismo multiplo}{28}{subsection.4.1.3}% 
+\contentsline {subsubsection}{Esempi}{28}{section*.99}% 
+\contentsline {paragraph}{Conigli}{28}{section*.100}% 
+\contentsline {paragraph}{Eterozigosi composita}{29}{section*.101}% 
+\contentsline {subsection}{\numberline {4.1.4}Alleli letali}{29}{subsection.4.1.4}% 
+\contentsline {subsubsection}{Esempi}{29}{section*.102}% 
+\contentsline {paragraph}{Gatto di Man}{29}{section*.103}% 
+\contentsline {paragraph}{Topo giallo}{29}{section*.104}% 
+\contentsline {subparagraph}{Letalit\`a di un gene responsabile della colorazione del pelo}{29}{section*.105}% 
+\contentsline {paragraph}{Alleli letali umani}{29}{section*.106}% 
