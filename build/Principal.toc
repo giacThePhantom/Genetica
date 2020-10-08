@@ -135,7 +135,7 @@
 \contentsline {subparagraph}{meccanismo di azione dell'idrossiurea}{26}{section*.95}% 
 \contentsline {subsubsection}{Resistenza alla malaria}{26}{section*.96}% 
 \contentsline {chapter}{\numberline {4}Estensione dell'analisi genetica mendeliana}{27}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Rapporti tra gli alleli}{27}{section.4.1}% 
+\contentsline {section}{\numberline {4.1}Interazioni tra alleli}{27}{section.4.1}% 
 \contentsline {subsection}{\numberline {4.1.1}Dominanza incompleta}{27}{subsection.4.1.1}% 
 \contentsline {subsubsection}{Esempi}{27}{section*.97}% 
 \contentsline {subsection}{\numberline {4.1.2}Codominanza}{28}{subsection.4.1.2}% 
@@ -149,4 +149,14 @@
 \contentsline {paragraph}{Gatto di Man}{29}{section*.103}% 
 \contentsline {paragraph}{Topo giallo}{29}{section*.104}% 
 \contentsline {subparagraph}{Letalit\`a di un gene responsabile della colorazione del pelo}{29}{section*.105}% 
-\contentsline {paragraph}{Alleli letali umani}{29}{section*.106}% 
+\contentsline {subsubsection}{Alleli letali umani}{29}{section*.106}% 
+\contentsline {paragraph}{Sindrome di Tay-Sachs}{30}{section*.107}% 
+\contentsline {subparagraph}{Genetica molecolare}{30}{section*.108}% 
+\contentsline {paragraph}{Interazioni geni-ambiente nella \emph {PKU}}{30}{section*.109}% 
+\contentsline {subsection}{\numberline {4.1.5}Letalit\`a sintetica}{30}{subsection.4.1.5}% 
+\contentsline {section}{\numberline {4.2}Interazioni geniche e rapporti mendeliani modificati}{31}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Esempi}{31}{subsection.4.2.1}% 
+\contentsline {subsubsection}{Polli}{31}{section*.110}% 
+\contentsline {subsubsection}{Peperoni}{31}{section*.111}% 
+\contentsline {subsubsection}{Lenticchie}{32}{section*.112}% 
+\contentsline {subsubsection}{Drosophila melanogaster}{32}{section*.113}% 
