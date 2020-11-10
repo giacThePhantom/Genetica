@@ -4,6 +4,14 @@ recessivit\`a e le loro interazioni come il mascheramento. La cellula verr\`a co
 attraverso somiglianze fenotipiche tra i mutanti che permettono di aggregare i geni secondo la loro funzione. Per fare questo uno studio analizza il Saccharomyces cerevisiae costruendo
 $23$ milioni di doppi mutanti e identificando \numprint{550000} interazioni positive e \numprint{350000} negative. I geni vengono poi raggruppati per funzione in un metagenoma che
 evidenzia come i geni essenziali sono densamente connessi. 
+\section{Pathway genetici}
+Si nota pertanto come i geni non lavorano in modo isolato: nascono delle interazioni complicate dalle diversit\`a tra gli alleli. Le collaborazioni tra i geni che portano alla
+creazione dei pathway possono essere di tipi diversi:
+\begin{itemize}
+	\item Pathway biosintetici: geni che producono pathway di enzimi che portano alla sintesi di un composto molecolare.
+	\item Pathway di trasduzione del segnale: geni che apportano piccole modifiche a molecole permettendo il loro trasporto e localizzazione creando vie di segnalazione.
+	\item Pathway di sviluppo: geni che influenzano aspetti di crescita e differenziamento di parti del corpo o strutture intercellulari.
+\end{itemize}
 \section{Interazioni tra alleli}
 L'estensione naturale dell'analisi genetica mendeliana \`e considerare che dato un certo locus non \`e detto che vi si trova un solo gene. Inoltre \`e naturale come i geni non 
 lavorano in modo isolato e per capire in un fenotipo si devono considerare pi\`u geni. I geni inoltre si confrontano con l'ambiente cellulare, extracellulare ed esterno. Questi tre
@@ -163,7 +171,7 @@ marrone. Incrociando $F_1$ si ottiene $F_2$ e si studia il fenotipo:
 	\item Verde $frac{1}{16}$, $aabb$.
 \end{itemize}
 \subsubsection{Drosophila melanogaster}
-Si consideri la pigmentazione dell'occhio composito della Drosophila: questo si presnta o rosso o bianco. Incrociando i due individui si nota come in $F_1$ tutta la progenie abbia
+Si consideri la pigmentazione dell'occhio composito della Drosophila: questo si presenta o rosso o bianco. Incrociando i due individui si nota come in $F_1$ tutta la progenie abbia
 occhi rossi. Incrociando un individuo di $F_1$ $Bw^+BwSt^+St$ e si incrocia con un individuo con gli occhi bianchi $BwBwStSt$. Si ottiene una $F_2$ in cui si notano nuovi fenotipi. 
 \begin{itemize}
 	\item Occhio rosso $frac{1}{4}$, $Bw^+St^+$.
@@ -173,3 +181,175 @@ occhi rossi. Incrociando un individuo di $F_1$ $Bw^+BwSt^+St$ e si incrocia con 
 \end{itemize}
 Si nota come il rapporto \`e di $\frac{1}{4}$ si lavora con due geni e quattro alleli e il fenotipo \`e guidato da un omozigosi di entrambi e nel fenotipo \`e guidato dal fenotipo 
 dell'individuo doppio eterozigote che quando incrociato con un doppio recessivo. 
+\subsection{Fenocopia}
+Si intende per fenocopia geni diversi che concorrono allo stesso fenotipo.
+\subsubsection{Esempi}
+\paragraph{Colorazione dell'occhio di Drosophila}
+Considerando l'esempio precedente sulla colorazione dell'occhio di Drosophila melanogaster si nota come oltre ai geni precedenti che producono il pigmento, detti $b$ e $v$, ne esiste
+un altro che controlla il suo trasporto all'occhio. Questo gene esiste in due forme alleliche: quella dominante o funzionale $w^+$ che mostra il fenotipo del colore prodotto dai primi
+due geni e quella recessiva o non funzionale $w$ che mostra un fenotipo di colore bianco. Si nota pertanto come i geni concorrono allo stesso fenotipo e si dicono pertanto fenocopie. 
+\section{Epistasi}
+Si intende per epistasi un esempio di interazione tra geni in base al quale un gene interferisce con l'espressione fenotipica di un altro gene non allelico per cui il fenotipo 
+viene determinato dal primo gene e non dal secondo pur essendo rappresentati entrambi in un genotipo. 
+
+
+
+\subsection{Epistassi recessiva doppia}
+Nell'epistassi recessiva doppia 
+\subsubsection{Esempi}
+\paragraph{Fiori}
+Si considerino due fiori con fenotipo recessivo bianco e nell'ipotesi pi\`u semplice mendeliana, una generazione parentale bianca indica un'omozigosi recessiva per l'allele responsabile
+del fenotipo. L'incrocio dovrebbe creare solo figli bianchi. Si nota come invece un'incrocio tra fiori bianchi in $F_1$ si ottiene una popolazione con colorazione selvatica viola. 
+Questo \`e un fenomeno di complementazione: due genomi incrociati con fenotipo recessivo porta alla comparsa del fenotipo dominante. Si pu\`o interpretare proponendo che i due recessivi
+siano fenocopie, con genetica complementare: un fiore \`e $C/C$ e $p/p$, mentre il partner \`e $c/c$ e $P/P$. Accettando questa ipotesi si nota come in $F_1$ tutta la popolazione
+sia eterozigota doppia: la presenza di un allele dominante assicura la presenza di un fenotipo selvatico di un fiore colorato. Incrociando ora $F_1\times F_1$ i risultati seguono la
+regola dell'incrocio di-ibrido con assortimento indipendente. Scomponendo l'incrocio di-ibrido si attende in $F_2$:
+\begin{itemize}
+	\item $\frac{3}{4}$ $C/-$:
+		\begin{itemize}
+			\item $\frac{3}{4}$ $P/-$: $\frac{9}{16}$ $C/-\ P/-$ selvatico
+			\item $\frac{1}{4}$ $p/p$: $\frac{3}{16}$ $C/-\ p/p$ bianco.
+		\end{itemize}
+	\item $\frac{1}{4}$ $c/c$:
+		\begin{itemize}
+			\item $\frac{3}{4}$ $P/-$: $\frac{3}{16}$ $c/c\ P/-$ bianco.
+			\item $\frac{1}{4}$ $p/p$: $\frac{1}{16}$ $c/c\ p/p$ bianco.
+		\end{itemize}
+\end{itemize}
+Osservando le classi fenotipiche si nota come queste stanno in rapporto $9:7$. Questo a causa dell'interazione funzionale di geni diversi. Interpretando questo fenomeno come un 
+mascheramento in cui un gene maschera un fenotipo dell'altro si pu\`o determinare qual \`e il gene che maschera l'altro: non \`e facie capire qual \`e che viene mascherato in quanto 
+ci si trova in un caso di epistasi recessiva doppia. Senza una comprensione molecolare del percorso biosintetico non si \`e in grado di decidere quale gene determina sull'altro. 
+\subparagraph{Pathway biosintetico}
+Si nota come nella via biosintetico ci sia un precursore su cui agisce $C$ che forma un intermedio incolore e un prodotto finale che da il colore sintetizzato da $P$. Con uno dei
+due geni non presente il pathway \`e bloccato e si trova assenza di antocianina. In questo caso in $c/c$ la via biosintetica si interrompe con accumulo di precursore. In questa 
+interpretazione l'allele $c$ maschera in omozigosi recessiva. Questa si osserva nella condizione di omozigosi di un gene $C$ che essendo a monte della via biosintetica rende il 
+genotipo di $P$ irrilevante in quanto l'assenza dell'intermedio porta alla sua incapacit\`a di esprimere la sua funzione. \`E anche doppia in quanto l'assenza di $P$ ha la stessa
+conseguenza. L'epistasi recessiva doppia: il gene epistatico \`e $C$ e quello mascherato si dice ipostatico $P$. 
+\paragraph{Lumache d'acqua}
+Il guscio della conchiglia che pu\`o essere marrone o non colorato \`e legato alla genetica di una via biosintetica di un composto colorato dove vengono identificati due enzimi 
+codificati da due geni in cui un precursore viene convertito da un enzima in un intermedio che viene ancora elaborato da un altro che porta alla formazione del pigmento. L'assenza 
+del primo gene maschera la funzione del secondo. La combinazione $aabb$ blocca tutto e in questo contesto, nel caso $A$ epistatico sia funzionante e il $b$ in omozigosi 
+recessiva si avrebbe un guscio bianco. In $F_2$ con incrocio di-ibrido si avrebbe un rapporto atteso $9:7$.
+
+
+\subsection{Epistasi recessiva} 
+Nell'epistasi recessiva l'omozigote recessivo di un gene maschera gli effetti di entrambi gli alleli di un altro.
+\subsubsection{Esempi}
+\paragraph{Labrador}
+Si consideri il colore del pelo del labrador: 
+\begin{itemize}
+	\item $B-E$ nero.
+	\item $bbE-$ marrone.
+	\item $--ee$ biondo.
+\end{itemize}
+Si incroci ora una generazione parentale nero $BBEE$ con biondo $bbee$. Si nota come si forma una $F_1$ \`e tutta nera con $BbEe$. Con un incrocio stile mendeliano tra $F_1$ eterozigoti
+si nota come compare un nuovo colore: nero, marrone e giallo in rapporto $9:3:4$. Si nota come si ha un'interazione tra gli alleli del gene $E$ e $B$. I biondi sono $4$ e uno dei 
+geni maschera l'altro. Si nota come il biondo compare con doppia omozigosi recessiva e con tutte le combinazioni possibili dello stato allelico di $B$: $ee$ causa biondo. Questo vuol
+dire che omozigosi recessiva di $e$ nasconde la genetica di $B$. Questa \`e un'epistasi recessiva in quanto il mascheramento \`e attuato da un'omozigosi recessiva. $e$ \`e epistatico 
+e quello ipostatico \`e $b$. Con epistasi rotta: non omozigosi recessiva per $E$ l'omozigosi $bb$ porta a una colorazione intermedia marrone. I nove casi \`e quella dove con un 
+allele dominante per $B$ ed $E$ in assenza di mascheramento e la funzionalit\`a di $B$ raggiunga l'intensit\`a maggiore. Questa \`e un'epistasi recessiva semplice in quanto si 
+distingue il mascheramento da un secondo gruppo fenotipico dove il mascheramento non ci sarebbe ma l'omozigosi recessiva del gene ipostatico fa si che il fenotipo si differenzi da quello
+selvatico legato alla presenza di un allele dominante per entrambi i geni.
+\paragraph{Gruppo sanguigno \emph{AB0}}
+Si nota come sulla membrana del globulo pu\`o essere presente uno dei lipidi con una coda che protrude e degli zuccheri. Una struttura zuccherina ancorata alla membrana e presenta
+segnali a due colori. Questi corrispondono ad antigeni del sistema AB, serie allelica con tre alleli, uno recessivo $i$, uno $I_A$ e uno $I_B$ dominanti su $i$ e codominanti tra di 
+loro. Si considerino due genitori di gruppo sanguigno $0$. Per quello che si sa ha una genetica determinata $ii$. Pertanto si prevede il gruppo sanguigno dei due figli: possono
+avere solo $ii$ a meno di mutazioni de novo. Ma in questo caso pu\`o nascere un figlio di gruppo $A$ o $B$. Forse l'errore \`e attribuire ad un fenotipo un genotipo certo. Alla luce
+del discorso sull'epistasi un'altra ipotesi \`e che il fenotipo $0$ contiene un genotipo con allele dominante mascherato. Per mascherare $I_A$ o $I_B$ si nota come l'allele $I$ \`e
+responsabile della decorazione dei glicolipide di un ultimo zucchero variante di galattosio, differenziandosi tra di loro per piccola variazione: galattosio e galattosammina. Si 
+ipotizza che la possibilit\`a di esprimere la funzione dominante \`e legata alla presenza del substrato della presenza della prima decorazione glicolipidica interessata all'attacco
+dell'ultimo esamero di zucchero. In caso di genetica che preclude la formazione della prima ancora glicolipidica la funzionalit\`a di $I$ viene resa invisibile. Questa \`e recessiva
+in quanto si deve perdere l'espressione dell'ancora. Il gene responsabile della sintesi della coda \`e il gene $H$ e $hh$ pu\`o mascherare la presenza di un allele dominante $I$. 
+Questo \`e il fenotipo Bombay ed \`e legato a un gene la cui omozigosi recessiva maschera la funzionalit\`a del gruppo genico \emph{AB0}: $hh$ \`e la situazione epistatica. 
+
+\subsection{Epistasi dominante I}
+Nell'epistasi dominante I l'allele dominante di un gene nasconde gli effetti di entrambi gli alleli di un altro.
+\subsubsection{Esempio}
+\paragraph{Zucchina}
+Si nota il colore verde in omozigosi $aabb$ con assenza di vie che producono pigmenti che lo degradano facendo sparire la colorazione e bianco $AABB$. Incrociando questi due individui
+si ottengono una $F_1$ $AaBb$ doppia eterozigote. Fenotipicamente si nota l'assenza di colore in $F_1$, pertanto il bianco \`e legato alla presenza di un allele per il gene $A$ e $B$ 
+con dominanza completa nelle rispettive coppie alleliche. Incrociando ora $F_1$ con s\`e stessa. Si nota"
+\begin{itemize}
+	\item $12$: $9$ $A-B-$ bianchi.
+	\item $3$: $A-bb$ giallo.
+	\item $1$: $aabb$ verde.
+\end{itemize}
+Si nota come i numeri si assestano a un rapporto $12:3:1$. Il giallo \`e omozigosi di $bb$ e un allele dominante per $A$ mentre tutti gli altri casi sono bianchi. Questo \`e una
+deviazione dei rapporti mendeliani che sembra risultare dalla combinazione di due classi fenotipiche e genotipiche previste. Guardando complessivamente le condizioni la presenza
+di almeno un allele dominante di $B$ controlla il fenotipo che ha colorazione bianca. $b$ in omozigosi recessiva il fenotipo varia con allele $A$ dominante si ha colore giallo e con
+entrambi inattivi si ha verde. Questa pu\`o essere considerata un esempio di epistasi, ma il mascheramento \`e reso possibile dalla presenza di un allele dominante: epistasi dominante
+che pu\`o essere rivelata da un rapporto $12:3:1$. Quella pi\`u abbondante riflette il mascheramento. Colorazione legata all'accumulo di un pigmento in quanto non viene prodotto uno
+dei due geni che li converte. Per rompere l'epistasi dominante si rende necessario omozigosi recessiva. 
+\paragraph{Colore dei fiori foxglove}
+Questi fiori possono avere colorazione punteggiata bianca, rossa o rosso leggero. Si ottiene una $F_1$ con incrocio di linee pure doppi eterozigoti per due geni coinvolti per il 
+fenotipo di cui si valuta la genetica: $DdWw$. Si autoincrocia $F_1$ e si ha una relazione tra genotipo e fenotipo. Si ha un precursore non colorato convertito dai prodotti del gene 
+$D$ che produce un pigmento colorato che deve raggiungere il posto corretto: il gene $W$ si occupa di tale trasporto quando dominante la pigmentazione viene confinata nei throat 
+spots, di fatto fiore bianco con macchie rosse. In omozigosi di $dd$ l'assenza di funzione dovuta ad essa porta ad una colorazione light molto pi\`u leggero ma $W$ condiziona il 
+trasporto. I conti suggeriscono che i rapporti sono ancora in $12:3:1$. Quando l'epistasi in omozigosi recessiva di $w$ si ha l'effetto del gene $D$: in dominanza il pigmento scuro
+diffuso con fiore rosso, con combinazione di omozigosi recessiva di $dd$ si ha una diffusione di un colore pi\`u sbiadito. 
+\subsection{Epistasi dominante II}
+Nell'epistasi dominante II l'allele dominante di un gene nasconde gli effetti dell'allele dominante di un altro gene.
+\subsubsection{Esempi}
+\paragraph{Galline livornesi}
+Si valuti la pigmentazione delle galline con $P$ livornese bianca $AABB$ e americana colorata $aabb$. Si ottiene una $F_1$ $AaBb$ e il suo auto incrocio porta alla formazione di 
+prodotti fenotipici $13:3$: il rapporto \`e complicato da interazioni tra geni. CI sono due fenotipi ma compaiono in proporzioni $13:3$ questo in quanto il colore si ha solo 
+per $A-bb$. Il mascheramento \`e operato dalla presenza di un allele dominante $B$, con epistasi dominante e recessiva in quanto in questo caso la rottura dell'epistasi nella 
+contemporaneit\`a dell'omozigosi porta anch'essa all'assenza di colore. L'assenza del gene ipostatico copia il fenomeno di epistasi. 
+\subsection{Complementariet\`a}
+Nella complementetariet\`a per la produzione del fenotipo \`e necessario un allele dominante per ciascuno dei due geni. 
+
+\subsection{Ridondanza genica}
+Nella ridondanza genica i rapporti mendeliani sono modificati $15:1$: un fenotipo compare unicamente in doppia omozigosi recessiva. La ridondanza genetica pu\`o dipendere dalla
+duplicazione genica. Il gene $A$ e $B$ potrebbero essere geni paraloghi, forse con antenato comune con duplicazione eptopica (su cromosomi diversi) in modo che segreghino in modo
+indipendente. In questo caso la distanza dalla nascita dei paraloghi non \`e abbastanza ambia per aver diversificato la loro funzione. Sono ridondanti per la funzione biochimica che
+per essere persa si devono perdere $4$ alleli. 
+\subsubsection{Esempi}
+\paragraph{Capsula della pianta borsa del pastore}
+Si consideri che questo oggetto ha una forma ovale e una triangolare. Si possono ottenere linee pure e triangolare \`e $TTVV$, mentre l'altro $ttvv$. Si ottiene una $F_1$ doppia 
+eterozigote che si incrocia con s\`e stessa: il fenotipo ovale compare solo in doppia omozigosi recessiva. Questo vuol dire che il gene $T$ e quello $V$ interagiscono sullo stesso
+punto del pathway, pertanto per perdere il passaggio morfogenetico si rende necessario disattivare entrambe le coppie.
+\subsection{Interazione genetica dominante}
+L'interazione genica dominante \`e caratterizzata da un tasso di-ibrido $9:6:1$. 
+\subsubsection{Esempi}
+\paragraph{Zucche} 
+Si consideri la forma a disco o allungata o a sfera e si nota come la deviazione come l'omozigosi recessiva per un gene con dominante per l'altro e il complementare possiedono lo 
+stesso fenotipo. 
+\subsection{Sovradominanza o vantaggio dell'eterozigote}
+Si consideri un globulo rosso con forma normale e antigeni se gene $H$ funzionante e stato allelico \emph{AB0}. Nell'altro si trova una forma a falce legata alla presenza di una
+mutazione specifica nel gene della beta-globina. A valle di una meiosi si nota come la frequenza dei portatori e dei casi e la distribuzione della malaria: nei residenti in regioni
+affette dalla malaria gli eterozigoti sembrano avere un vantaggio sugli omozigoti selvatici. Questo \`e un esempio di sovradominanza: un allele di per s\`e negativo in omozigosi 
+diventa vantaggioso nello stato di eterozigosi o vantaggio dell'eterozigote. Il vantaggio \`e legato a un'interazione con l'ambiente in quanto resistenza alla riproduzine del 
+plasmodio falciparum. 
+\subsection{Un soppressore extragenico pu\`o cancellare gli effetti fenotipici di una mutazione}
+Si osservano due proteine una hairless $S$ e una soppressore di hairless \emph{SoH} che possono interagire: quando l'interazione avviene il soppressore sopprime il gene e permette
+che in Drosophila si formino setole. Nel caso in cui la genetica cambi nel caso: nella cellula ci saranno a causa dell'eterozigosi sia interazioni con il soppressore che uno 
+squilibrio della stechiometria in quanto hairless \`e ridotta a causa di eterozigosi e questo fa si che ci sia un'alterazione dei rapporti che porta alla formazione delle setole che 
+non si formano. Inoltre con un doppio mutante con eterozigosi per $H$ che per \emph{SoH} che ripristina il rapporto stechiometrico che non crea un eccesso che ripresenta il 
+fenotipo selvatico. 
+\section{Complementazione}
+Si era gi\`a notata la complementazione con i fiori bianchi e viola. Considerando fenotipi regessivi con genetica complessa, un incrocio smaschera se un individuo \`e affetto dal 
+fenotipo per una regione genetica equivalente o distinta: con complementazione geni diversi, altrimenti difetto sullo stesso gene.
+\subsection{Drosophila}
+In Drosophila sono stati fatti molti esperimenti di complementazione. Si osserva il colore del corpo di colore nero, mentre quello selvatico sul marroncino. Incrociando due 
+Drosophila con colorazione atipico porta al fenotipo selvatico. Si \`e in complementazione in quanto i fenotipi recessivi sono fenocopie: hanno genetica diversa e complementare:
+$ee$ $BB$ $EE$ $bb$. SI ha il corpo nero per omozigosi recessiva di $e$ o $b$, ma si ha un rapporto di dominanza completa all'interno della coppia allelica di $B$ o $E$ e il doppio 
+eterozigote ripristina la colorazione selvatica. Si nota come la complementazione \`e intergenica. 
+\subsection{Analisi di complementazione}
+Nell'analisi di complementazione sono svolti incroci multipli lungo mutanti recessivi per detereminare quanti geni contribuiscono al fenotipo. Le mutazioni che falliscono nel 
+complementarsi sono dette gruppo di complementazione che, in questo contesto, si riferisce a un gene. 
+\section{Lievito gemmante S. cerevisiea}
+Si nota come i lieviti possono esistere sia in forma aploide che diploide, nella seconda sono in grado di fare meiosi per produrre spore resistenti ad ambienti difficili. S. 
+cereviisae la meiosi dei funghi \`e particolare in quanto i quattro prodotti delle cellule aploidi sono confinati in un asco. Micromanipolando gli aschi si pu\`o seguire la meiosi
+in diretta, cosa non possibile nei mammiferi in quanto i gameti si trovano in un pool. Nello sporacrassa fa una meiosi equivalente ma molto ordinato spazialmente: le cellule si 
+organizzano in un astuccio compatto e le cellule occupano posizioni specifiche si ha una mitosi dopo la seconda meiosi e le cellule si trovano in un ordine particolare. Appoggiando 
+le spore in un terreno di crescita singolarmente e valutando lo stato allelico delle cellule in quanto questi funghi possono vivere come aploidi. Si nota come l'ottade ordinata
+consente di dedurre eventi di crossing over dalla disposizione delle spore. SI ha alternanza di alleli dominanti e recessivi in modo ordinato. Con Neurospora crassa un esperimento
+fatto da Beadle e Tatum ha a che fare con la possibilit\`a di mappare la genetica di un percorso biosintetico legato alla produzione e sintesi di un amminoacido. In una protevva
+con Neurospora si utilizzano raggi X per mutagenizzare e nella zona dei corpi fruttiferi dove avvengono le meiosi. Dopo questo fanno degli incroci, meiosi e quando si arriva 
+all'ottade si cerca di fare microdissezione, le si mette in terreno di coltura e osservare se sono vive e che tipo di caratteristiche possono avere. Si interessano alla via che
+produce arginina: se sono in grado sno in grado di crescere in assenza di arginina. Si isola un mutante \emph{arg}: molte provette di terreno completo dove si fanno germinare le
+spore aploidi a valle del passo precedente. Siccome il terreno \`e completo crescono le spore che non hanno subito mutazioni in geni essenziali. Da questo pool di potenziali mutanti
+si trasferiscono gli apolidi in un terreno minimo per notare qualcuno di questi che non riesce pi\`u a crescere. Crescono tutti tranne uno, un mutante nel gene essenziale, hanno un
+difetto genetico in quanto non crescono sul terreno minimo. Partendo dalla riserva si vuole capire dove \`e il difetto: si prendono quattro terreni: uno di controllo e tre uno \`e
+il terreno minimo  e uno \`e terreno minimo con tutti amminoacidi (crescita) uno con vitamine ma non amminoacidi (non cresce). Mutazione di un gene non essenziale coinvolto nella
+produzione di amminoacidi. Ora si tenta di determinare quale amminoacido non si riesce a sintetizzare. 
