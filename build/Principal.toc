@@ -1,226 +1,244 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Introduzione}{3}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Il DNA come base molecolare dell'ereditariet\`a}{3}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Isolamento del DNA}{4}{subsection.1.1.1}% 
-\contentsline {subsection}{\numberline {1.1.2}Caratterizzazione chimica e prima teorizzazione della struttura}{4}{subsection.1.1.2}% 
-\contentsline {subsection}{\numberline {1.1.3}Determinazione del rapporto tra le basi}{4}{subsection.1.1.3}% 
-\contentsline {subsection}{\numberline {1.1.4}Studi del pneumococco}{4}{subsection.1.1.4}% 
-\contentsline {subsubsection}{Griffith}{4}{section*.2}% 
-\contentsline {subsubsection}{Dawson e Sia}{5}{section*.3}% 
-\contentsline {subsubsection}{Avery}{5}{section*.4}% 
-\contentsline {subsection}{\numberline {1.1.5}Studi dei batteriofagi}{5}{subsection.1.1.5}% 
-\contentsline {subsection}{\numberline {1.1.6}Alternative al DNA a doppio filamento}{5}{subsection.1.1.6}% 
-\contentsline {section}{\numberline {1.2}La rivoluzione del DNA}{6}{section.1.2}% 
-\contentsline {subsection}{\numberline {1.2.1}Leggere il DNA}{6}{subsection.1.2.1}% 
-\contentsline {subsection}{\numberline {1.2.2}Contare il DNA}{6}{subsection.1.2.2}% 
-\contentsline {subsection}{\numberline {1.2.3}Scrivere il DNA}{6}{subsection.1.2.3}% 
-\contentsline {subsubsection}{Terapia genica}{6}{section*.5}% 
-\contentsline {subsubsection}{Clonaggio}{7}{section*.6}% 
-\contentsline {subsubsection}{Editing genomico}{7}{section*.7}% 
-\contentsline {paragraph}{Prevenzione della distrofia muscolare nei topi attraverso editing del DNA germinale mediato da CRISPR/Cas9}{7}{section*.8}% 
-\contentsline {paragraph}{Utilizzo in medicina}{8}{section*.9}% 
-\contentsline {subsubsection}{Biologia sintetica}{8}{section*.10}% 
-\contentsline {subsection}{\numberline {1.2.4}Interazioni gene e ambiente}{8}{subsection.1.2.4}% 
-\contentsline {paragraph}{L'attivazione ambientale e genetica di un asse di segnalazione BDNF/Leptina causa remissione ed inibizione del cancro}{8}{section*.11}% 
-\contentsline {chapter}{\numberline {2}Mitosi e meiosi}{10}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Cromosomi e ciclo cellulare}{10}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Cromosomi}{10}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Ciclo cellulare}{10}{subsection.2.1.2}% 
-\contentsline {subsubsection}{Interfase}{10}{section*.12}% 
-\contentsline {subsubsection}{Fase $\mathbf {M}$}{11}{section*.13}% 
-\contentsline {section}{\numberline {2.2}Mitosi}{11}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Fasi della mitosi}{11}{subsection.2.2.1}% 
-\contentsline {subsubsection}{Interfase}{11}{section*.14}% 
-\contentsline {subsubsection}{Profase}{11}{section*.15}% 
-\contentsline {subsubsection}{Prometafase}{11}{section*.16}% 
-\contentsline {subsubsection}{Metafase}{11}{section*.17}% 
-\contentsline {subsubsection}{Anafase}{11}{section*.18}% 
-\contentsline {subsubsection}{Telofase}{11}{section*.19}% 
-\contentsline {subsection}{\numberline {2.2.2}Attivazione della fase $\mathbf {M}$}{11}{subsection.2.2.2}% 
-\contentsline {subsubsection}{Fase $\mathbf {G_1}$}{12}{section*.20}% 
-\contentsline {subsubsection}{Fase $\mathbf {S}$}{12}{section*.21}% 
-\contentsline {subsubsection}{Fase $\mathbf {G_2}$}{12}{section*.22}% 
-\contentsline {subsubsection}{Metafase}{12}{section*.23}% 
-\contentsline {subsection}{\numberline {2.2.3}Eventi drammatici nella mitosi}{12}{subsection.2.2.3}% 
-\contentsline {subsubsection}{Rotture del DNA e polverizzazione dei cromosomi da errori nella mitosi}{12}{section*.24}% 
-\contentsline {paragraph}{Esperimento}{12}{section*.25}% 
-\contentsline {subparagraph}{Sincronizzazione}{12}{section*.26}% 
-\contentsline {subparagraph}{Osservazione dei micronuclei}{13}{section*.27}% 
-\contentsline {subparagraph}{Rotture cromosomiche}{13}{section*.28}% 
-\contentsline {subparagraph}{Il destino dei cromosomi nei micronuclei}{13}{section*.29}% 
-\contentsline {subparagraph}{Cromotripsi}{13}{section*.30}% 
-\contentsline {subsubsection}{Cromotripsi causata dal danno del DNA nei micronuclei}{14}{section*.31}% 
-\contentsline {paragraph}{Strategia look-seq}{14}{section*.32}% 
-\contentsline {paragraph}{Destino dei cromosomi}{14}{section*.33}% 
-\contentsline {subparagraph}{Caso $\mathbf {1}$}{14}{section*.34}% 
-\contentsline {subparagraph}{Caso $\mathbf {2}$}{14}{section*.35}% 
-\contentsline {paragraph}{Conclusioni}{14}{section*.36}% 
-\contentsline {subsubsection}{Endoreplicazione, la poliploidia con uno scopo}{14}{section*.37}% 
-\contentsline {paragraph}{Meccanismi di endoreplicazione}{15}{section*.38}% 
-\contentsline {subparagraph}{Endociti}{15}{section*.39}% 
-\contentsline {subparagraph}{Rereplicazione}{15}{section*.40}% 
-\contentsline {subparagraph}{Endomitosi}{15}{section*.41}% 
-\contentsline {paragraph}{Esempi di tessuti endociclanti}{15}{section*.42}% 
-\contentsline {subparagraph}{Embrione vegetale}{15}{section*.43}% 
-\contentsline {subparagraph}{Ovarie della Drosophila}{15}{section*.44}% 
-\contentsline {subparagraph}{\emph {TGC} dei roditori}{15}{section*.45}% 
-\contentsline {subparagraph}{Ipocotile}{15}{section*.46}% 
-\contentsline {paragraph}{Regolazione dell'endociclo della Drosophila}{15}{section*.47}% 
-\contentsline {paragraph}{Varianti dell'endociclo}{16}{section*.48}% 
-\contentsline {paragraph}{Il modello della soglia a \emph {CDK}}{16}{section*.49}% 
-\contentsline {section}{\numberline {2.3}Meiosi}{16}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Meiosi $\mathbf {1}$}{16}{subsection.2.3.1}% 
-\contentsline {subsubsection}{Profase $\mathbf {I}$}{16}{section*.50}% 
-\contentsline {paragraph}{Profase $\mathbf {I}$ intermedia}{16}{section*.51}% 
-\contentsline {paragraph}{Profase $\mathbf {I}$ tardiva}{16}{section*.52}% 
-\contentsline {subsubsection}{Metafase $\mathbf {I}$}{16}{section*.53}% 
-\contentsline {subsubsection}{Anafase $\mathbf {I}$}{16}{section*.54}% 
-\contentsline {subsubsection}{Telofase $\mathbf {I}$}{17}{section*.55}% 
-\contentsline {subsection}{\numberline {2.3.2}Meiosi $\mathbf {2}$}{17}{subsection.2.3.2}% 
-\contentsline {subsubsection}{Profase $\mathbf {II}$}{17}{section*.56}% 
-\contentsline {subsubsection}{Metafase $\mathbf {II}$}{17}{section*.57}% 
-\contentsline {subsubsection}{Anafase $\mathbf {II}$}{17}{section*.58}% 
-\contentsline {subsubsection}{Telofase $\mathbf {II}$}{17}{section*.59}% 
-\contentsline {subsection}{\numberline {2.3.3}Confronto con mitosi}{17}{subsection.2.3.3}% 
-\contentsline {subsection}{\numberline {2.3.4}Crossing-over}{17}{subsection.2.3.4}% 
-\contentsline {subsubsection}{Organizzazione dei cromosomi e citologia durante la profase meiotica $\mathbf {I}$}{18}{section*.60}% 
-\contentsline {subsubsection}{Meccanismo di crossing over}{18}{section*.61}% 
-\contentsline {subsubsection}{Modello del ruolo di \emph {PRDM9} nella localizzazione meiotica di \emph {DSB}}{18}{section*.62}% 
-\contentsline {paragraph}{Struttura e funzione di \emph {PRDM9}}{18}{section*.63}% 
-\contentsline {subsubsection}{\emph {PRDM9} organizza gli hotspot dei nucleosomi e limita la migrazione delle giunzioni di Holliday}{18}{section*.64}% 
-\contentsline {chapter}{\numberline {3}Mendel}{19}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Vita}{19}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Esperiment}{19}{subsection.3.1.1}% 
-\contentsline {subsection}{\numberline {3.1.2}L'eredit\`a Mendeliana}{20}{subsection.3.1.2}% 
-\contentsline {section}{\numberline {3.2}Principi mendeliani}{20}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Primo esperimento}{20}{subsection.3.2.1}% 
-\contentsline {subsubsection}{Reintrerpretazione in tempi moderni}{21}{section*.65}% 
-\contentsline {subsubsection}{Quadrati di Punnet}{21}{section*.66}% 
-\contentsline {subsubsection}{Ipotesi di Mendel}{21}{section*.67}% 
-\contentsline {subsection}{\numberline {3.2.2}Reincrocio}{21}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}Secondo esperimento}{21}{subsection.3.2.3}% 
-\contentsline {subsubsection}{Assortimento indipendente}{22}{section*.68}% 
-\contentsline {section}{\numberline {3.3}Comprensione molecolare degli esperimenti di Mendel}{22}{section.3.3}% 
-\contentsline {section}{\numberline {3.4}Esempi di tratti mendeliani nell'uomo}{22}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Definizioni}{22}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}Beta-Talassemia}{22}{subsection.3.4.2}% 
-\contentsline {subsubsection}{Descrizione}{23}{section*.69}% 
-\contentsline {subsubsection}{Caratteristiche cliniche}{23}{section*.70}% 
-\contentsline {paragraph}{Talassemia maggiore}{23}{section*.71}% 
-\contentsline {paragraph}{Talassemia intermedia}{23}{section*.72}% 
-\contentsline {paragraph}{Talassemia minore}{23}{section*.73}% 
-\contentsline {paragraph}{Caratteristiche geniche}{23}{section*.74}% 
-\contentsline {subsubsection}{Cluster genici della globina}{23}{section*.75}% 
-\contentsline {paragraph}{Cromosoma $\mathbf {11}$}{23}{section*.76}% 
-\contentsline {paragraph}{Cromosoma $\mathbf {16}$}{23}{section*.77}% 
-\contentsline {paragraph}{Composizione emoglobina}{23}{section*.78}% 
-\contentsline {paragraph}{Formazione del cluster genico}{24}{section*.79}% 
-\contentsline {subsubsection}{Gestione clinica}{24}{section*.80}% 
-\contentsline {paragraph}{Trattamento con \emph {5-azacitidina}}{24}{section*.81}% 
-\contentsline {paragraph}{Trapianto di midollo}{24}{section*.82}% 
-\contentsline {paragraph}{Terapia genica}{24}{section*.83}% 
-\contentsline {subparagraph}{Background}{24}{section*.84}% 
-\contentsline {subparagraph}{Metodi}{24}{section*.85}% 
-\contentsline {subparagraph}{Risultati}{24}{section*.86}% 
-\contentsline {paragraph}{Trattamento con CRISPR}{24}{section*.87}% 
-\contentsline {subsubsection}{Genetica della popolazione}{25}{section*.88}% 
-\contentsline {subsection}{\numberline {3.4.3}Anemia falciforme}{25}{subsection.3.4.3}% 
-\contentsline {subsubsection}{Descrizione}{25}{section*.89}% 
-\contentsline {subsubsection}{Caratteristiche cliniche}{25}{section*.90}% 
-\contentsline {subsubsection}{Gestione clinica}{25}{section*.91}% 
-\contentsline {paragraph}{Terapia genica}{25}{section*.92}% 
-\contentsline {paragraph}{CRISPR per combattere l'anemia falciforme}{25}{section*.93}% 
-\contentsline {paragraph}{Serendipity}{26}{section*.94}% 
-\contentsline {subparagraph}{meccanismo di azione dell'idrossiurea}{26}{section*.95}% 
-\contentsline {subsubsection}{Resistenza alla malaria}{26}{section*.96}% 
-\contentsline {chapter}{\numberline {4}Estensione dell'analisi genetica mendeliana}{27}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Pathway genetici}{27}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Interazioni tra alleli}{27}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Dominanza incompleta}{28}{subsection.4.2.1}% 
-\contentsline {subsubsection}{Esempi}{28}{section*.97}% 
-\contentsline {subsection}{\numberline {4.2.2}Codominanza}{28}{subsection.4.2.2}% 
-\contentsline {subsubsection}{Esempi}{28}{section*.98}% 
-\contentsline {subsection}{\numberline {4.2.3}Allelismo multiplo}{28}{subsection.4.2.3}% 
-\contentsline {subsubsection}{Esempi}{29}{section*.99}% 
-\contentsline {paragraph}{Conigli}{29}{section*.100}% 
-\contentsline {paragraph}{Eterozigosi composita}{29}{section*.101}% 
-\contentsline {subsection}{\numberline {4.2.4}Alleli letali}{29}{subsection.4.2.4}% 
-\contentsline {subsubsection}{Esempi}{29}{section*.102}% 
-\contentsline {paragraph}{Gatto di Man}{29}{section*.103}% 
-\contentsline {paragraph}{Topo giallo}{29}{section*.104}% 
-\contentsline {subparagraph}{Letalit\`a di un gene responsabile della colorazione del pelo}{30}{section*.105}% 
-\contentsline {subsubsection}{Alleli letali umani}{30}{section*.106}% 
-\contentsline {paragraph}{Sindrome di Tay-Sachs}{30}{section*.107}% 
-\contentsline {subparagraph}{Genetica molecolare}{30}{section*.108}% 
-\contentsline {paragraph}{Interazioni geni-ambiente nella \emph {PKU}}{30}{section*.109}% 
-\contentsline {subsection}{\numberline {4.2.5}Letalit\`a sintetica}{31}{subsection.4.2.5}% 
-\contentsline {section}{\numberline {4.3}Interazioni geniche e rapporti mendeliani modificati}{31}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Esempi}{31}{subsection.4.3.1}% 
-\contentsline {subsubsection}{Polli}{31}{section*.110}% 
-\contentsline {subsubsection}{Peperoni}{32}{section*.111}% 
-\contentsline {subsubsection}{Lenticchie}{32}{section*.112}% 
-\contentsline {subsubsection}{Drosophila melanogaster}{33}{section*.113}% 
-\contentsline {subsection}{\numberline {4.3.2}Fenocopia}{33}{subsection.4.3.2}% 
-\contentsline {subsubsection}{Esempi}{33}{section*.114}% 
-\contentsline {paragraph}{Colorazione dell'occhio di Drosophila}{33}{section*.115}% 
-\contentsline {section}{\numberline {4.4}Epistasi}{33}{section.4.4}% 
-\contentsline {subsection}{\numberline {4.4.1}Epistassi recessiva doppia}{33}{subsection.4.4.1}% 
-\contentsline {subsubsection}{Esempi}{33}{section*.116}% 
-\contentsline {paragraph}{Fiori}{33}{section*.117}% 
-\contentsline {subparagraph}{Pathway biosintetico}{34}{section*.118}% 
-\contentsline {paragraph}{Lumache d'acqua}{34}{section*.119}% 
-\contentsline {subsection}{\numberline {4.4.2}Epistasi recessiva}{34}{subsection.4.4.2}% 
-\contentsline {subsubsection}{Esempi}{34}{section*.120}% 
-\contentsline {paragraph}{Labrador}{34}{section*.121}% 
-\contentsline {paragraph}{Gruppo sanguigno \emph {AB0}}{35}{section*.122}% 
-\contentsline {subsection}{\numberline {4.4.3}Epistasi dominante I}{35}{subsection.4.4.3}% 
-\contentsline {subsubsection}{Esempio}{35}{section*.123}% 
-\contentsline {paragraph}{Zucchina}{35}{section*.124}% 
-\contentsline {paragraph}{Colore dei fiori foxglove}{36}{section*.125}% 
-\contentsline {subsection}{\numberline {4.4.4}Epistasi dominante II}{36}{subsection.4.4.4}% 
-\contentsline {subsubsection}{Esempi}{36}{section*.126}% 
-\contentsline {paragraph}{Galline livornesi}{36}{section*.127}% 
-\contentsline {subsection}{\numberline {4.4.5}Complementariet\`a}{36}{subsection.4.4.5}% 
-\contentsline {subsection}{\numberline {4.4.6}Ridondanza genica}{37}{subsection.4.4.6}% 
-\contentsline {subsubsection}{Esempi}{37}{section*.128}% 
-\contentsline {paragraph}{Capsula della pianta borsa del pastore}{37}{section*.129}% 
-\contentsline {subsection}{\numberline {4.4.7}Interazione genetica dominante}{37}{subsection.4.4.7}% 
-\contentsline {subsubsection}{Esempi}{37}{section*.130}% 
-\contentsline {paragraph}{Zucche}{37}{section*.131}% 
-\contentsline {subsection}{\numberline {4.4.8}Sovradominanza o vantaggio dell'eterozigote}{37}{subsection.4.4.8}% 
-\contentsline {subsection}{\numberline {4.4.9}Un soppressore extragenico pu\`o cancellare gli effetti fenotipici di una mutazione}{37}{subsection.4.4.9}% 
-\contentsline {section}{\numberline {4.5}Complementazione}{38}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Drosophila}{38}{subsection.4.5.1}% 
-\contentsline {subsection}{\numberline {4.5.2}Analisi di complementazione}{38}{subsection.4.5.2}% 
-\contentsline {section}{\numberline {4.6}Lievito gemmante S. cerevisiea}{38}{section.4.6}% 
-\contentsline {subsection}{\numberline {4.6.1}Studio dei mutanti}{39}{subsection.4.6.1}% 
-\contentsline {subsubsection}{Pathway dell'arginina in S. cerevisiae}{39}{section*.132}% 
-\contentsline {chapter}{\numberline {5}Interazioni gene ambiente}{40}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Definizioni}{40}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}Penetranza}{40}{subsection.5.1.1}% 
-\contentsline {subsubsection}{Esempi}{40}{section*.133}% 
-\contentsline {paragraph}{Polidattilia penetranza incompleta}{40}{section*.134}% 
-\contentsline {paragraph}{Hungtington e SLA}{40}{section*.135}% 
-\contentsline {subsection}{\numberline {5.1.2}Espressivit\`a}{41}{subsection.5.1.2}% 
-\contentsline {subsubsection}{Esempi}{41}{section*.136}% 
-\contentsline {paragraph}{Bracco}{41}{section*.137}% 
-\contentsline {paragraph}{Mascella Asburgo}{41}{section*.138}% 
-\contentsline {paragraph}{Sindrome di Waardenburg}{41}{section*.139}% 
-\contentsline {section}{\numberline {5.2}Caratteri autosomici limitati/influenzati dal sesso}{41}{section.5.2}% 
-\contentsline {subsection}{\numberline {5.2.1}Esempi}{41}{subsection.5.2.1}% 
-\contentsline {subsubsection}{Barba nelle capre}{41}{section*.140}% 
-\contentsline {subsubsection}{Calvizie}{41}{section*.141}% 
-\contentsline {subsection}{\numberline {5.2.2}Limitato al sesso}{42}{subsection.5.2.2}% 
-\contentsline {subsubsection}{Occhio di Drosophila}{42}{section*.142}% 
-\contentsline {subsubsection}{Conchiglie}{42}{section*.143}% 
-\contentsline {subsubsection}{Ereditariet\`a extranucleare}{42}{section*.144}% 
-\contentsline {paragraph}{Eredit\`a citomplasmatica nella pianta bella di notte}{43}{section*.145}% 
-\contentsline {paragraph}{Confermare l'ipotesi}{43}{section*.146}% 
-\contentsline {section}{\numberline {5.3}Probabilit\`a}{43}{section.5.3}% 
-\contentsline {section}{\numberline {5.4}Pleiotropia}{44}{section.5.4}% 
-\contentsline {subsection}{\numberline {5.4.1}Singed - mutante di Drosophila}{44}{subsection.5.4.1}% 
-\contentsline {subsection}{\numberline {5.4.2}Pleiotropia nell'anemia falciforme}{44}{subsection.5.4.2}% 
-\contentsline {subsection}{\numberline {5.4.3}Pleiotropia antagonistica}{44}{subsection.5.4.3}% 
-\contentsline {chapter}{\numberline {6}Pedigree}{46}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Simboli dei pedigree}{46}{section.6.1}% 
+\contentsline {chapter}{\numberline {1}Introduzione}{4}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Il DNA come base molecolare dell'ereditariet\`a}{4}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Isolamento del DNA}{5}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Caratterizzazione chimica e prima teorizzazione della struttura}{5}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}Determinazione del rapporto tra le basi}{5}{subsection.1.1.3}% 
+\contentsline {subsection}{\numberline {1.1.4}Studi del pneumococco}{5}{subsection.1.1.4}% 
+\contentsline {subsubsection}{Griffith}{5}{section*.2}% 
+\contentsline {subsubsection}{Dawson e Sia}{6}{section*.3}% 
+\contentsline {subsubsection}{Avery}{6}{section*.4}% 
+\contentsline {subsection}{\numberline {1.1.5}Studi dei batteriofagi}{6}{subsection.1.1.5}% 
+\contentsline {subsection}{\numberline {1.1.6}Alternative al DNA a doppio filamento}{6}{subsection.1.1.6}% 
+\contentsline {section}{\numberline {1.2}La rivoluzione del DNA}{7}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Leggere il DNA}{7}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Contare il DNA}{7}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}Scrivere il DNA}{7}{subsection.1.2.3}% 
+\contentsline {subsubsection}{Terapia genica}{7}{section*.5}% 
+\contentsline {subsubsection}{Clonaggio}{8}{section*.6}% 
+\contentsline {subsubsection}{Editing genomico}{8}{section*.7}% 
+\contentsline {paragraph}{Prevenzione della distrofia muscolare nei topi attraverso editing del DNA germinale mediato da CRISPR/Cas9}{8}{section*.8}% 
+\contentsline {paragraph}{Utilizzo in medicina}{9}{section*.9}% 
+\contentsline {subsubsection}{Biologia sintetica}{9}{section*.10}% 
+\contentsline {subsection}{\numberline {1.2.4}Interazioni gene e ambiente}{9}{subsection.1.2.4}% 
+\contentsline {paragraph}{L'attivazione ambientale e genetica di un asse di segnalazione BDNF/Leptina causa remissione ed inibizione del cancro}{9}{section*.11}% 
+\contentsline {chapter}{\numberline {2}Mitosi e meiosi}{11}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Riproduzione cellulare}{11}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Riproduzione procariote}{11}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Riproduzione eucariote}{11}{subsection.2.1.2}% 
+\contentsline {section}{\numberline {2.2}Cromosomi}{11}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Struttura}{12}{subsection.2.2.1}% 
+\contentsline {subsubsection}{Centromero}{12}{section*.12}% 
+\contentsline {subsubsection}{Telomeri}{12}{section*.13}% 
+\contentsline {subsubsection}{Origini di replicazione}{12}{section*.14}% 
+\contentsline {section}{\numberline {2.3}Ciclo cellulare e mitosi}{12}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Ciclo cellulare}{12}{subsection.2.3.1}% 
+\contentsline {subsubsection}{Interfase}{13}{section*.15}% 
+\contentsline {subsubsection}{Fase $\mathbf {M}$}{13}{section*.16}% 
+\contentsline {subsection}{\numberline {2.3.2}Mitosi}{13}{subsection.2.3.2}% 
+\contentsline {subsubsection}{Fasi della mitosi}{13}{section*.17}% 
+\contentsline {paragraph}{Interfase}{13}{section*.18}% 
+\contentsline {paragraph}{Profase}{13}{section*.19}% 
+\contentsline {paragraph}{Prometafase}{13}{section*.20}% 
+\contentsline {paragraph}{Metafase}{13}{section*.21}% 
+\contentsline {paragraph}{Anafase}{14}{section*.22}% 
+\contentsline {paragraph}{Telofase}{14}{section*.23}% 
+\contentsline {subsubsection}{Attivazione della fase $\mathbf {M}$}{14}{section*.24}% 
+\contentsline {paragraph}{Fase $\mathbf {G_1}$}{14}{section*.25}% 
+\contentsline {paragraph}{Fase $\mathbf {S}$}{14}{section*.26}% 
+\contentsline {paragraph}{Fase $\mathbf {G_2}$}{14}{section*.27}% 
+\contentsline {paragraph}{Metafase}{14}{section*.28}% 
+\contentsline {section}{\numberline {2.4}Eventi drammatici nella mitosi}{14}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Rotture del DNA e polverizzazione dei cromosomi da errori nella mitosi}{14}{subsection.2.4.1}% 
+\contentsline {subsubsection}{Esperimento}{15}{section*.29}% 
+\contentsline {paragraph}{Sincronizzazione}{15}{section*.30}% 
+\contentsline {paragraph}{Osservazione dei micronuclei}{15}{section*.31}% 
+\contentsline {paragraph}{Rotture cromosomiche}{15}{section*.32}% 
+\contentsline {paragraph}{Il destino dei cromosomi nei micronuclei}{15}{section*.33}% 
+\contentsline {paragraph}{Cromotripsi}{16}{section*.34}% 
+\contentsline {subsection}{\numberline {2.4.2}Cromotripsi causata dal danno del DNA nei micronuclei}{16}{subsection.2.4.2}% 
+\contentsline {subsubsection}{Strategia look-seq}{16}{section*.35}% 
+\contentsline {subsubsection}{Destino dei cromosomi}{16}{section*.36}% 
+\contentsline {paragraph}{Caso $\mathbf {1}$}{16}{section*.37}% 
+\contentsline {paragraph}{Caso $\mathbf {2}$}{16}{section*.38}% 
+\contentsline {subsubsection}{Conclusioni}{17}{section*.39}% 
+\contentsline {subsection}{\numberline {2.4.3}Endoreplicazione, la poliploidia con uno scopo}{17}{subsection.2.4.3}% 
+\contentsline {subsubsection}{Meccanismi di endoreplicazione}{17}{section*.40}% 
+\contentsline {paragraph}{Endociti}{17}{section*.41}% 
+\contentsline {paragraph}{Rereplicazione}{17}{section*.42}% 
+\contentsline {paragraph}{Endomitosi}{17}{section*.43}% 
+\contentsline {subsubsection}{Esempi di tessuti endociclanti}{17}{section*.44}% 
+\contentsline {paragraph}{Embrione vegetale}{17}{section*.45}% 
+\contentsline {paragraph}{Ovarie della Drosophila}{17}{section*.46}% 
+\contentsline {paragraph}{\emph {TGC} dei roditori}{18}{section*.47}% 
+\contentsline {paragraph}{Ipocotile}{18}{section*.48}% 
+\contentsline {subsubsection}{Regolazione dell'endociclo della Drosophila}{18}{section*.49}% 
+\contentsline {subsubsection}{Varianti dell'endociclo}{18}{section*.50}% 
+\contentsline {subsubsection}{Il modello della soglia a \emph {CDK}}{18}{section*.51}% 
+\contentsline {section}{\numberline {2.5}La riproduzione sessuata - Meiosi}{18}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Meiosi $\mathbf {1}$}{18}{subsection.2.5.1}% 
+\contentsline {subsubsection}{Profase $\mathbf {I}$}{19}{section*.52}% 
+\contentsline {paragraph}{Leptotene}{19}{section*.53}% 
+\contentsline {paragraph}{Zigotene}{19}{section*.54}% 
+\contentsline {paragraph}{Pachitene}{19}{section*.55}% 
+\contentsline {paragraph}{Diplotene}{19}{section*.56}% 
+\contentsline {paragraph}{Diacinesi}{19}{section*.57}% 
+\contentsline {subsubsection}{Metafase $\mathbf {I}$}{19}{section*.58}% 
+\contentsline {subsubsection}{Anafase $\mathbf {I}$}{19}{section*.59}% 
+\contentsline {subsubsection}{Telofase $\mathbf {I}$}{19}{section*.60}% 
+\contentsline {subsection}{\numberline {2.5.2}Intercinesi}{19}{subsection.2.5.2}% 
+\contentsline {subsection}{\numberline {2.5.3}Meiosi $\mathbf {II}$}{19}{subsection.2.5.3}% 
+\contentsline {subsubsection}{Profase $\mathbf {II}$}{19}{section*.61}% 
+\contentsline {subsubsection}{Metafase $\mathbf {II}$}{19}{section*.62}% 
+\contentsline {subsubsection}{Anafase $\mathbf {II}$}{20}{section*.63}% 
+\contentsline {subsubsection}{Telofase $\mathbf {II}$}{20}{section*.64}% 
+\contentsline {subsection}{\numberline {2.5.4}Confronto con mitosi}{20}{subsection.2.5.4}% 
+\contentsline {subsection}{\numberline {2.5.5}Fonti di variazione genetica nella meiosi}{20}{subsection.2.5.5}% 
+\contentsline {subsubsection}{Crossing-over}{20}{section*.65}% 
+\contentsline {paragraph}{Organizzazione dei cromosomi e citologia durante la profase meiotica $\mathbf {I}$}{20}{section*.66}% 
+\contentsline {paragraph}{Meccanismo di crossing over}{21}{section*.67}% 
+\contentsline {paragraph}{Modello del ruolo di \emph {PRDM9} nella localizzazione meiotica di \emph {DSB}}{21}{section*.68}% 
+\contentsline {subparagraph}{Struttura e funzione di \emph {PRDM9}}{21}{section*.69}% 
+\contentsline {paragraph}{\emph {PRDM9} organizza gli hotspot dei nucleosomi e limita la migrazione delle giunzioni di Holliday}{21}{section*.70}% 
+\contentsline {subsubsection}{La separazione casuale dei cromosomi omologhi}{21}{section*.71}% 
+\contentsline {subsection}{\numberline {2.5.6}La meiosi nel ciclo vitale di animali e piante}{21}{subsection.2.5.6}% 
+\contentsline {subsubsection}{Animali}{21}{section*.72}% 
+\contentsline {paragraph}{Maschio}{21}{section*.73}% 
+\contentsline {paragraph}{Femmina}{22}{section*.74}% 
+\contentsline {subsubsection}{Piante}{22}{section*.75}% 
+\contentsline {chapter}{\numberline {3}Mendel}{23}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Vita}{23}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Esperiment}{23}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}L'eredit\`a Mendeliana}{24}{subsection.3.1.2}% 
+\contentsline {section}{\numberline {3.2}Principi mendeliani}{24}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Primo esperimento}{24}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Reintrerpretazione in tempi moderni}{25}{section*.76}% 
+\contentsline {subsubsection}{Quadrati di Punnet}{25}{section*.77}% 
+\contentsline {subsubsection}{Ipotesi di Mendel}{25}{section*.78}% 
+\contentsline {subsection}{\numberline {3.2.2}Reincrocio}{25}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Secondo esperimento}{25}{subsection.3.2.3}% 
+\contentsline {subsubsection}{Assortimento indipendente}{26}{section*.79}% 
+\contentsline {section}{\numberline {3.3}Comprensione molecolare degli esperimenti di Mendel}{26}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Esempi di tratti mendeliani nell'uomo}{26}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Definizioni}{26}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Beta-Talassemia}{26}{subsection.3.4.2}% 
+\contentsline {subsubsection}{Descrizione}{27}{section*.80}% 
+\contentsline {subsubsection}{Caratteristiche cliniche}{27}{section*.81}% 
+\contentsline {paragraph}{Talassemia maggiore}{27}{section*.82}% 
+\contentsline {paragraph}{Talassemia intermedia}{27}{section*.83}% 
+\contentsline {paragraph}{Talassemia minore}{27}{section*.84}% 
+\contentsline {paragraph}{Caratteristiche geniche}{27}{section*.85}% 
+\contentsline {subsubsection}{Cluster genici della globina}{27}{section*.86}% 
+\contentsline {paragraph}{Cromosoma $\mathbf {11}$}{27}{section*.87}% 
+\contentsline {paragraph}{Cromosoma $\mathbf {16}$}{27}{section*.88}% 
+\contentsline {paragraph}{Composizione emoglobina}{27}{section*.89}% 
+\contentsline {paragraph}{Formazione del cluster genico}{28}{section*.90}% 
+\contentsline {subsubsection}{Gestione clinica}{28}{section*.91}% 
+\contentsline {paragraph}{Trattamento con \emph {5-azacitidina}}{28}{section*.92}% 
+\contentsline {paragraph}{Trapianto di midollo}{28}{section*.93}% 
+\contentsline {paragraph}{Terapia genica}{28}{section*.94}% 
+\contentsline {subparagraph}{Background}{28}{section*.95}% 
+\contentsline {subparagraph}{Metodi}{28}{section*.96}% 
+\contentsline {subparagraph}{Risultati}{28}{section*.97}% 
+\contentsline {paragraph}{Trattamento con CRISPR}{28}{section*.98}% 
+\contentsline {subsubsection}{Genetica della popolazione}{29}{section*.99}% 
+\contentsline {subsection}{\numberline {3.4.3}Anemia falciforme}{29}{subsection.3.4.3}% 
+\contentsline {subsubsection}{Descrizione}{29}{section*.100}% 
+\contentsline {subsubsection}{Caratteristiche cliniche}{29}{section*.101}% 
+\contentsline {subsubsection}{Gestione clinica}{29}{section*.102}% 
+\contentsline {paragraph}{Terapia genica}{29}{section*.103}% 
+\contentsline {paragraph}{CRISPR per combattere l'anemia falciforme}{29}{section*.104}% 
+\contentsline {paragraph}{Serendipity}{30}{section*.105}% 
+\contentsline {subparagraph}{meccanismo di azione dell'idrossiurea}{30}{section*.106}% 
+\contentsline {subsubsection}{Resistenza alla malaria}{30}{section*.107}% 
+\contentsline {chapter}{\numberline {4}Estensione dell'analisi genetica mendeliana}{31}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Pathway genetici}{31}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Interazioni tra alleli}{31}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Dominanza incompleta}{32}{subsection.4.2.1}% 
+\contentsline {subsubsection}{Esempi}{32}{section*.108}% 
+\contentsline {subsection}{\numberline {4.2.2}Codominanza}{32}{subsection.4.2.2}% 
+\contentsline {subsubsection}{Esempi}{32}{section*.109}% 
+\contentsline {subsection}{\numberline {4.2.3}Allelismo multiplo}{32}{subsection.4.2.3}% 
+\contentsline {subsubsection}{Esempi}{33}{section*.110}% 
+\contentsline {paragraph}{Conigli}{33}{section*.111}% 
+\contentsline {paragraph}{Eterozigosi composita}{33}{section*.112}% 
+\contentsline {subsection}{\numberline {4.2.4}Alleli letali}{33}{subsection.4.2.4}% 
+\contentsline {subsubsection}{Esempi}{33}{section*.113}% 
+\contentsline {paragraph}{Gatto di Man}{33}{section*.114}% 
+\contentsline {paragraph}{Topo giallo}{33}{section*.115}% 
+\contentsline {subparagraph}{Letalit\`a di un gene responsabile della colorazione del pelo}{34}{section*.116}% 
+\contentsline {subsubsection}{Alleli letali umani}{34}{section*.117}% 
+\contentsline {paragraph}{Sindrome di Tay-Sachs}{34}{section*.118}% 
+\contentsline {subparagraph}{Genetica molecolare}{34}{section*.119}% 
+\contentsline {paragraph}{Interazioni geni-ambiente nella \emph {PKU}}{34}{section*.120}% 
+\contentsline {subsection}{\numberline {4.2.5}Letalit\`a sintetica}{35}{subsection.4.2.5}% 
+\contentsline {section}{\numberline {4.3}Interazioni geniche e rapporti mendeliani modificati}{35}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Esempi}{35}{subsection.4.3.1}% 
+\contentsline {subsubsection}{Polli}{35}{section*.121}% 
+\contentsline {subsubsection}{Peperoni}{36}{section*.122}% 
+\contentsline {subsubsection}{Lenticchie}{36}{section*.123}% 
+\contentsline {subsubsection}{Drosophila melanogaster}{37}{section*.124}% 
+\contentsline {subsection}{\numberline {4.3.2}Fenocopia}{37}{subsection.4.3.2}% 
+\contentsline {subsubsection}{Esempi}{37}{section*.125}% 
+\contentsline {paragraph}{Colorazione dell'occhio di Drosophila}{37}{section*.126}% 
+\contentsline {section}{\numberline {4.4}Epistasi}{37}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Epistassi recessiva doppia}{37}{subsection.4.4.1}% 
+\contentsline {subsubsection}{Esempi}{37}{section*.127}% 
+\contentsline {paragraph}{Fiori}{37}{section*.128}% 
+\contentsline {subparagraph}{Pathway biosintetico}{38}{section*.129}% 
+\contentsline {paragraph}{Lumache d'acqua}{38}{section*.130}% 
+\contentsline {subsection}{\numberline {4.4.2}Epistasi recessiva}{38}{subsection.4.4.2}% 
+\contentsline {subsubsection}{Esempi}{38}{section*.131}% 
+\contentsline {paragraph}{Labrador}{38}{section*.132}% 
+\contentsline {paragraph}{Gruppo sanguigno \emph {AB0}}{39}{section*.133}% 
+\contentsline {subsection}{\numberline {4.4.3}Epistasi dominante I}{39}{subsection.4.4.3}% 
+\contentsline {subsubsection}{Esempio}{39}{section*.134}% 
+\contentsline {paragraph}{Zucchina}{39}{section*.135}% 
+\contentsline {paragraph}{Colore dei fiori foxglove}{40}{section*.136}% 
+\contentsline {subsection}{\numberline {4.4.4}Epistasi dominante II}{40}{subsection.4.4.4}% 
+\contentsline {subsubsection}{Esempi}{40}{section*.137}% 
+\contentsline {paragraph}{Galline livornesi}{40}{section*.138}% 
+\contentsline {subsection}{\numberline {4.4.5}Complementariet\`a}{40}{subsection.4.4.5}% 
+\contentsline {subsection}{\numberline {4.4.6}Ridondanza genica}{41}{subsection.4.4.6}% 
+\contentsline {subsubsection}{Esempi}{41}{section*.139}% 
+\contentsline {paragraph}{Capsula della pianta borsa del pastore}{41}{section*.140}% 
+\contentsline {subsection}{\numberline {4.4.7}Interazione genetica dominante}{41}{subsection.4.4.7}% 
+\contentsline {subsubsection}{Esempi}{41}{section*.141}% 
+\contentsline {paragraph}{Zucche}{41}{section*.142}% 
+\contentsline {subsection}{\numberline {4.4.8}Sovradominanza o vantaggio dell'eterozigote}{41}{subsection.4.4.8}% 
+\contentsline {subsection}{\numberline {4.4.9}Un soppressore extragenico pu\`o cancellare gli effetti fenotipici di una mutazione}{41}{subsection.4.4.9}% 
+\contentsline {section}{\numberline {4.5}Complementazione}{42}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Drosophila}{42}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}Analisi di complementazione}{42}{subsection.4.5.2}% 
+\contentsline {section}{\numberline {4.6}Lievito gemmante S. cerevisiea}{42}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}Studio dei mutanti}{43}{subsection.4.6.1}% 
+\contentsline {subsubsection}{Pathway dell'arginina in S. cerevisiae}{43}{section*.143}% 
+\contentsline {chapter}{\numberline {5}Interazioni gene ambiente}{44}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Definizioni}{44}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Penetranza}{44}{subsection.5.1.1}% 
+\contentsline {subsubsection}{Esempi}{44}{section*.144}% 
+\contentsline {paragraph}{Polidattilia penetranza incompleta}{44}{section*.145}% 
+\contentsline {paragraph}{Hungtington e SLA}{44}{section*.146}% 
+\contentsline {subsection}{\numberline {5.1.2}Espressivit\`a}{45}{subsection.5.1.2}% 
+\contentsline {subsubsection}{Esempi}{45}{section*.147}% 
+\contentsline {paragraph}{Bracco}{45}{section*.148}% 
+\contentsline {paragraph}{Mascella Asburgo}{45}{section*.149}% 
+\contentsline {paragraph}{Sindrome di Waardenburg}{45}{section*.150}% 
+\contentsline {section}{\numberline {5.2}Caratteri autosomici limitati/influenzati dal sesso}{45}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}Esempi}{45}{subsection.5.2.1}% 
+\contentsline {subsubsection}{Barba nelle capre}{45}{section*.151}% 
+\contentsline {subsubsection}{Calvizie}{45}{section*.152}% 
+\contentsline {subsection}{\numberline {5.2.2}Limitato al sesso}{46}{subsection.5.2.2}% 
+\contentsline {subsubsection}{Occhio di Drosophila}{46}{section*.153}% 
+\contentsline {subsubsection}{Conchiglie}{46}{section*.154}% 
+\contentsline {subsubsection}{Ereditariet\`a extranucleare}{46}{section*.155}% 
+\contentsline {paragraph}{Eredit\`a citomplasmatica nella pianta bella di notte}{47}{section*.156}% 
+\contentsline {paragraph}{Confermare l'ipotesi}{47}{section*.157}% 
+\contentsline {section}{\numberline {5.3}Probabilit\`a}{47}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Pleiotropia}{48}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}Singed - mutante di Drosophila}{48}{subsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.4.2}Pleiotropia nell'anemia falciforme}{48}{subsection.5.4.2}% 
+\contentsline {subsection}{\numberline {5.4.3}Pleiotropia antagonistica}{48}{subsection.5.4.3}% 
+\contentsline {chapter}{\numberline {6}Pedigree}{50}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Simboli dei pedigree}{50}{section.6.1}% 
