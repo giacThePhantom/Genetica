@@ -184,91 +184,99 @@
 \contentsline {subsubsection}{Resistenza alla malaria}{33}{section*.126}% 
 \contentsline {chapter}{\numberline {4}Estensione dell'analisi genetica mendeliana}{34}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Pathway genetici}{34}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Interazioni tra alleli}{34}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Dominanza incompleta}{35}{subsection.4.2.1}% 
-\contentsline {subsubsection}{Esempi}{35}{section*.127}% 
-\contentsline {subsection}{\numberline {4.2.2}Codominanza}{35}{subsection.4.2.2}% 
-\contentsline {subsubsection}{Esempi}{35}{section*.128}% 
-\contentsline {subsection}{\numberline {4.2.3}Allelismo multiplo}{35}{subsection.4.2.3}% 
-\contentsline {subsubsection}{Esempi}{36}{section*.129}% 
-\contentsline {paragraph}{Conigli}{36}{section*.130}% 
-\contentsline {paragraph}{Eterozigosi composita}{36}{section*.131}% 
-\contentsline {subsection}{\numberline {4.2.4}Alleli letali}{36}{subsection.4.2.4}% 
-\contentsline {subsubsection}{Esempi}{36}{section*.132}% 
-\contentsline {paragraph}{Gatto di Man}{36}{section*.133}% 
-\contentsline {paragraph}{Topo giallo}{36}{section*.134}% 
-\contentsline {subparagraph}{Letalit\`a di un gene responsabile della colorazione del pelo}{37}{section*.135}% 
-\contentsline {subsubsection}{Alleli letali umani}{37}{section*.136}% 
-\contentsline {paragraph}{Sindrome di Tay-Sachs}{37}{section*.137}% 
-\contentsline {subparagraph}{Genetica molecolare}{37}{section*.138}% 
-\contentsline {paragraph}{Interazioni geni-ambiente nella \emph {PKU}}{37}{section*.139}% 
-\contentsline {subsection}{\numberline {4.2.5}Letalit\`a sintetica}{38}{subsection.4.2.5}% 
-\contentsline {section}{\numberline {4.3}Interazioni geniche e rapporti mendeliani modificati}{38}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Esempi}{38}{subsection.4.3.1}% 
-\contentsline {subsubsection}{Polli}{38}{section*.140}% 
-\contentsline {subsubsection}{Peperoni}{39}{section*.141}% 
-\contentsline {subsubsection}{Lenticchie}{39}{section*.142}% 
-\contentsline {subsubsection}{Drosophila melanogaster}{40}{section*.143}% 
-\contentsline {subsection}{\numberline {4.3.2}Fenocopia}{40}{subsection.4.3.2}% 
-\contentsline {subsubsection}{Esempi}{40}{section*.144}% 
-\contentsline {paragraph}{Colorazione dell'occhio di Drosophila}{40}{section*.145}% 
-\contentsline {section}{\numberline {4.4}Epistasi}{40}{section.4.4}% 
-\contentsline {subsection}{\numberline {4.4.1}Epistassi recessiva doppia}{40}{subsection.4.4.1}% 
-\contentsline {subsubsection}{Esempi}{40}{section*.146}% 
-\contentsline {paragraph}{Fiori}{40}{section*.147}% 
-\contentsline {subparagraph}{Pathway biosintetico}{41}{section*.148}% 
-\contentsline {paragraph}{Lumache d'acqua}{41}{section*.149}% 
-\contentsline {subsection}{\numberline {4.4.2}Epistasi recessiva}{41}{subsection.4.4.2}% 
-\contentsline {subsubsection}{Esempi}{41}{section*.150}% 
-\contentsline {paragraph}{Labrador}{41}{section*.151}% 
-\contentsline {paragraph}{Gruppo sanguigno \emph {AB0}}{42}{section*.152}% 
-\contentsline {subsection}{\numberline {4.4.3}Epistasi dominante I}{42}{subsection.4.4.3}% 
-\contentsline {subsubsection}{Esempio}{42}{section*.153}% 
-\contentsline {paragraph}{Zucchina}{42}{section*.154}% 
-\contentsline {paragraph}{Colore dei fiori foxglove}{43}{section*.155}% 
-\contentsline {subsection}{\numberline {4.4.4}Epistasi dominante II}{43}{subsection.4.4.4}% 
-\contentsline {subsubsection}{Esempi}{43}{section*.156}% 
-\contentsline {paragraph}{Galline livornesi}{43}{section*.157}% 
-\contentsline {subsection}{\numberline {4.4.5}Complementariet\`a}{43}{subsection.4.4.5}% 
-\contentsline {subsection}{\numberline {4.4.6}Ridondanza genica}{44}{subsection.4.4.6}% 
-\contentsline {subsubsection}{Esempi}{44}{section*.158}% 
-\contentsline {paragraph}{Capsula della pianta borsa del pastore}{44}{section*.159}% 
-\contentsline {subsection}{\numberline {4.4.7}Interazione genetica dominante}{44}{subsection.4.4.7}% 
-\contentsline {subsubsection}{Esempi}{44}{section*.160}% 
-\contentsline {paragraph}{Zucche}{44}{section*.161}% 
-\contentsline {subsection}{\numberline {4.4.8}Sovradominanza o vantaggio dell'eterozigote}{44}{subsection.4.4.8}% 
-\contentsline {subsection}{\numberline {4.4.9}Un soppressore extragenico pu\`o cancellare gli effetti fenotipici di una mutazione}{44}{subsection.4.4.9}% 
-\contentsline {section}{\numberline {4.5}Complementazione}{45}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Drosophila}{45}{subsection.4.5.1}% 
-\contentsline {subsection}{\numberline {4.5.2}Analisi di complementazione}{45}{subsection.4.5.2}% 
-\contentsline {section}{\numberline {4.6}Lievito gemmante S. cerevisiea}{45}{section.4.6}% 
-\contentsline {subsection}{\numberline {4.6.1}Studio dei mutanti}{46}{subsection.4.6.1}% 
-\contentsline {subsubsection}{Pathway dell'arginina in S. cerevisiae}{46}{section*.162}% 
-\contentsline {chapter}{\numberline {5}Interazioni gene ambiente}{47}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Definizioni}{47}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}Penetranza}{47}{subsection.5.1.1}% 
-\contentsline {subsubsection}{Esempi}{47}{section*.163}% 
-\contentsline {paragraph}{Polidattilia penetranza incompleta}{47}{section*.164}% 
-\contentsline {paragraph}{Hungtington e SLA}{47}{section*.165}% 
-\contentsline {subsection}{\numberline {5.1.2}Espressivit\`a}{48}{subsection.5.1.2}% 
-\contentsline {subsubsection}{Esempi}{48}{section*.166}% 
-\contentsline {paragraph}{Bracco}{48}{section*.167}% 
-\contentsline {paragraph}{Mascella Asburgo}{48}{section*.168}% 
-\contentsline {paragraph}{Sindrome di Waardenburg}{48}{section*.169}% 
-\contentsline {section}{\numberline {5.2}Caratteri autosomici limitati/influenzati dal sesso}{48}{section.5.2}% 
-\contentsline {subsection}{\numberline {5.2.1}Esempi}{48}{subsection.5.2.1}% 
-\contentsline {subsubsection}{Barba nelle capre}{48}{section*.170}% 
-\contentsline {subsubsection}{Calvizie}{48}{section*.171}% 
-\contentsline {subsection}{\numberline {5.2.2}Limitato al sesso}{49}{subsection.5.2.2}% 
-\contentsline {subsubsection}{Occhio di Drosophila}{49}{section*.172}% 
-\contentsline {subsubsection}{Conchiglie}{49}{section*.173}% 
-\contentsline {subsubsection}{Ereditariet\`a extranucleare}{49}{section*.174}% 
-\contentsline {paragraph}{Eredit\`a citomplasmatica nella pianta bella di notte}{50}{section*.175}% 
-\contentsline {paragraph}{Confermare l'ipotesi}{50}{section*.176}% 
-\contentsline {section}{\numberline {5.3}Probabilit\`a}{50}{section.5.3}% 
-\contentsline {section}{\numberline {5.4}Pleiotropia}{51}{section.5.4}% 
-\contentsline {subsection}{\numberline {5.4.1}Singed - mutante di Drosophila}{51}{subsection.5.4.1}% 
-\contentsline {subsection}{\numberline {5.4.2}Pleiotropia nell'anemia falciforme}{51}{subsection.5.4.2}% 
-\contentsline {subsection}{\numberline {5.4.3}Pleiotropia antagonistica}{51}{subsection.5.4.3}% 
-\contentsline {chapter}{\numberline {6}Pedigree}{53}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Simboli dei pedigree}{53}{section.6.1}% 
+\contentsline {section}{\numberline {4.2}Fattori addizionali su un singolo locus}{34}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Tipi di dominanza}{35}{subsection.4.2.1}% 
+\contentsline {subsubsection}{Dominanza incompleta}{35}{section*.127}% 
+\contentsline {paragraph}{Esempi}{35}{section*.128}% 
+\contentsline {subsubsection}{Codominanza}{35}{section*.129}% 
+\contentsline {paragraph}{Esempi}{35}{section*.130}% 
+\contentsline {subsubsection}{Allelismo multiplo}{36}{section*.131}% 
+\contentsline {paragraph}{Esempi}{36}{section*.132}% 
+\contentsline {subparagraph}{Conigli}{36}{section*.133}% 
+\contentsline {subparagraph}{Eterozigosi composita}{36}{section*.134}% 
+\contentsline {subsubsection}{Il livello di fenotipo osservato pu\`o influenzare la dominanza}{36}{section*.135}% 
+\contentsline {paragraph}{Fibrosi cistica}{36}{section*.136}% 
+\contentsline {subparagraph}{Effetti}{36}{section*.137}% 
+\contentsline {subparagraph}{Analisi molecolare}{37}{section*.138}% 
+\contentsline {subsubsection}{Caratteristiche della dominanza}{37}{section*.139}% 
+\contentsline {subsection}{\numberline {4.2.2}Penetranza ed espressivit\`a}{37}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Penetranza}{37}{subsection.4.2.3}% 
+\contentsline {subsubsection}{Esempi}{37}{section*.140}% 
+\contentsline {paragraph}{Polidattilia}{37}{section*.141}% 
+\contentsline {paragraph}{Hungtington e SLA}{37}{section*.142}% 
+\contentsline {subsection}{\numberline {4.2.4}Espressivit\`a}{37}{subsection.4.2.4}% 
+\contentsline {subsubsection}{Esempi}{37}{section*.143}% 
+\contentsline {paragraph}{Polidattilia}{37}{section*.144}% 
+\contentsline {paragraph}{Gradazioni di pezzatura del mantello del Bracco}{37}{section*.145}% 
+\contentsline {paragraph}{Mascella Asburgo}{38}{section*.146}% 
+\contentsline {paragraph}{Sindrome di Waardenburg}{38}{section*.147}% 
+\contentsline {subsection}{\numberline {4.2.5}Alleli letali}{38}{subsection.4.2.5}% 
+\contentsline {subsubsection}{Esempi}{38}{section*.148}% 
+\contentsline {paragraph}{Gatto di Man}{38}{section*.149}% 
+\contentsline {paragraph}{Topo giallo}{38}{section*.150}% 
+\contentsline {subparagraph}{Letalit\`a di un gene responsabile della colorazione del pelo}{38}{section*.151}% 
+\contentsline {subsubsection}{Alleli letali umani}{39}{section*.152}% 
+\contentsline {paragraph}{Sindrome di Tay-Sachs}{39}{section*.153}% 
+\contentsline {subparagraph}{Genetica molecolare}{39}{section*.154}% 
+\contentsline {paragraph}{Interazioni geni-ambiente nella \emph {PKU}}{39}{section*.155}% 
+\contentsline {subsubsection}{Letalit\`a sintetica}{39}{section*.156}% 
+\contentsline {paragraph}{Terapie antitumorali}{40}{section*.157}% 
+\contentsline {section}{\numberline {4.3}Interazioni geniche e rapporti mendeliani modificati}{40}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Interazione genica che produce nuovi fenotipi}{40}{subsection.4.3.1}% 
+\contentsline {subsubsection}{Esempi}{40}{section*.158}% 
+\contentsline {paragraph}{Polli}{40}{section*.159}% 
+\contentsline {paragraph}{Peperoni}{41}{section*.160}% 
+\contentsline {paragraph}{Lenticchie}{41}{section*.161}% 
+\contentsline {paragraph}{Drosophila melanogaster}{41}{section*.162}% 
+\contentsline {subsection}{\numberline {4.3.2}Fenocopia}{42}{subsection.4.3.2}% 
+\contentsline {subsubsection}{Esempi}{42}{section*.163}% 
+\contentsline {paragraph}{Colorazione dell'occhio di Drosophila}{42}{section*.164}% 
+\contentsline {subsection}{\numberline {4.3.3}Interazione genica con epistasi}{42}{subsection.4.3.3}% 
+\contentsline {subsubsection}{Epistasi recessiva}{42}{section*.165}% 
+\contentsline {paragraph}{Esempi}{42}{section*.166}% 
+\contentsline {subparagraph}{Labrador}{42}{section*.167}% 
+\contentsline {subparagraph}{Gruppo sanguigno \emph {AB0} - fenotipo Bombay}{43}{section*.168}% 
+\contentsline {subsubsection}{Epistasi dominante I}{43}{section*.169}% 
+\contentsline {paragraph}{Esempi}{43}{section*.170}% 
+\contentsline {subparagraph}{Zucca}{43}{section*.171}% 
+\contentsline {subparagraph}{Colore dei fiori foxglove}{44}{section*.172}% 
+\contentsline {subsubsection}{Epistasi dominante II}{44}{section*.173}% 
+\contentsline {paragraph}{Esempi}{44}{section*.174}% 
+\contentsline {subparagraph}{Galline livornesi}{44}{section*.175}% 
+\contentsline {subsubsection}{Epistassi recessiva doppia}{44}{section*.176}% 
+\contentsline {paragraph}{Esempi}{44}{section*.177}% 
+\contentsline {subparagraph}{Fiori}{44}{section*.178}% 
+\contentsline {subparagraph}{Lumache d'acqua}{45}{section*.179}% 
+\contentsline {subsection}{\numberline {4.3.4}Complementariet\`a}{45}{subsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4.3.5}Ridondanza genica}{45}{subsection.4.3.5}% 
+\contentsline {subsubsection}{Esempi}{46}{section*.180}% 
+\contentsline {paragraph}{Capsula della pianta borsa del pastore}{46}{section*.181}% 
+\contentsline {subsection}{\numberline {4.3.6}Interazione genetica dominante}{46}{subsection.4.3.6}% 
+\contentsline {subsubsection}{Esempi}{46}{section*.182}% 
+\contentsline {paragraph}{Zucche}{46}{section*.183}% 
+\contentsline {subsection}{\numberline {4.3.7}Sovradominanza o vantaggio dell'eterozigote}{46}{subsection.4.3.7}% 
+\contentsline {subsection}{\numberline {4.3.8}Un soppressore extragenico pu\`o cancellare gli effetti fenotipici di una mutazione}{46}{subsection.4.3.8}% 
+\contentsline {section}{\numberline {4.4}Complementazione}{46}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Drosophila}{47}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Analisi di complementazione}{47}{subsection.4.4.2}% 
+\contentsline {section}{\numberline {4.5}Lievito gemmante S. cerevisiea}{47}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Studio dei mutanti}{48}{subsection.4.5.1}% 
+\contentsline {subsubsection}{Pathway dell'arginina in S. cerevisiae}{48}{section*.184}% 
+\contentsline {chapter}{\numberline {5}Interazioni gene ambiente}{49}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Caratteri autosomici limitati/influenzati dal sesso}{49}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Esempi}{49}{subsection.5.1.1}% 
+\contentsline {subsubsection}{Barba nelle capre}{49}{section*.185}% 
+\contentsline {subsubsection}{Calvizie}{49}{section*.186}% 
+\contentsline {subsection}{\numberline {5.1.2}Limitato al sesso}{50}{subsection.5.1.2}% 
+\contentsline {subsubsection}{Occhio di Drosophila}{50}{section*.187}% 
+\contentsline {subsubsection}{Conchiglie}{50}{section*.188}% 
+\contentsline {subsubsection}{Ereditariet\`a extranucleare}{51}{section*.189}% 
+\contentsline {paragraph}{Eredit\`a citomplasmatica nella pianta bella di notte}{51}{section*.190}% 
+\contentsline {paragraph}{Confermare l'ipotesi}{51}{section*.191}% 
+\contentsline {section}{\numberline {5.2}Probabilit\`a}{51}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Pleiotropia}{52}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}Singed - mutante di Drosophila}{52}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {5.3.2}Pleiotropia nell'anemia falciforme}{52}{subsection.5.3.2}% 
+\contentsline {subsection}{\numberline {5.3.3}Pleiotropia antagonistica}{53}{subsection.5.3.3}% 
+\contentsline {chapter}{\numberline {6}Pedigree}{54}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Simboli dei pedigree}{54}{section.6.1}% 
