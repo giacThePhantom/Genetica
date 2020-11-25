@@ -184,21 +184,21 @@
 \contentsline {subsubsection}{\numberline {3.6.3.4}Resistenza alla malaria}{33}{subsubsection.3.6.3.4}% 
 \contentsline {chapter}{\numberline {4}Estensione dell'analisi genetica mendeliana}{34}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Pathway genetici}{34}{section.4.1}% 
-\contentsline {subsection}{\numberline {4.1.1}Lievito gemmante S. cerevisiea}{34}{subsection.4.1.1}% 
-\contentsline {subsubsection}{\numberline {4.1.1.1}Studio dei mutanti}{35}{subsubsection.4.1.1.1}% 
-\contentsline {paragraph}{\numberline {4.1.1.1.1}Pathway dell'arginina in S. cerevisiae}{36}{paragraph.4.1.1.1.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Lievito gemmante S. cerevisiae e Neurospora crassa}{34}{subsection.4.1.1}% 
+\contentsline {subsubsection}{\numberline {4.1.1.1}Mappatura del pathway biosintetico}{35}{subsubsection.4.1.1.1}% 
+\contentsline {subsubsection}{\numberline {4.1.1.2}Studio dei mutanti}{35}{subsubsection.4.1.1.2}% 
 \contentsline {section}{\numberline {4.2}Fattori addizionali su un singolo locus}{36}{section.4.2}% 
 \contentsline {subsection}{\numberline {4.2.1}Tipi di dominanza}{36}{subsection.4.2.1}% 
 \contentsline {subsubsection}{\numberline {4.2.1.1}Dominanza incompleta}{36}{subsubsection.4.2.1.1}% 
 \contentsline {paragraph}{\numberline {4.2.1.1.1}Esempi}{36}{paragraph.4.2.1.1.1}% 
 \contentsline {subsubsection}{\numberline {4.2.1.2}Codominanza}{36}{subsubsection.4.2.1.2}% 
-\contentsline {paragraph}{\numberline {4.2.1.2.1}Esempi}{37}{paragraph.4.2.1.2.1}% 
+\contentsline {paragraph}{\numberline {4.2.1.2.1}Esempi}{36}{paragraph.4.2.1.2.1}% 
 \contentsline {subsubsection}{\numberline {4.2.1.3}Allelismo multiplo}{37}{subsubsection.4.2.1.3}% 
 \contentsline {paragraph}{\numberline {4.2.1.3.1}Esempi}{37}{paragraph.4.2.1.3.1}% 
 \contentsline {subparagraph}{\numberline {4.2.1.3.1.1}Conigli}{37}{subparagraph.4.2.1.3.1.1}% 
-\contentsline {subparagraph}{\numberline {4.2.1.3.1.2}Eterozigosi composita}{38}{subparagraph.4.2.1.3.1.2}% 
-\contentsline {subsubsection}{\numberline {4.2.1.4}Il livello di fenotipo osservato pu\`o influenzare la dominanza}{38}{subsubsection.4.2.1.4}% 
-\contentsline {paragraph}{\numberline {4.2.1.4.1}Fibrosi cistica}{38}{paragraph.4.2.1.4.1}% 
+\contentsline {subparagraph}{\numberline {4.2.1.3.1.2}Eterozigosi composita}{37}{subparagraph.4.2.1.3.1.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1.4}Il livello di fenotipo osservato pu\`o influenzare la dominanza}{37}{subsubsection.4.2.1.4}% 
+\contentsline {paragraph}{\numberline {4.2.1.4.1}Fibrosi cistica}{37}{paragraph.4.2.1.4.1}% 
 \contentsline {subparagraph}{\numberline {4.2.1.4.1.1}Effetti}{38}{subparagraph.4.2.1.4.1.1}% 
 \contentsline {subparagraph}{\numberline {4.2.1.4.1.2}Analisi molecolare}{38}{subparagraph.4.2.1.4.1.2}% 
 \contentsline {subsubsection}{\numberline {4.2.1.5}Caratteristiche della dominanza}{38}{subsubsection.4.2.1.5}% 
@@ -207,9 +207,9 @@
 \contentsline {subsubsection}{\numberline {4.2.3.1}Esempi}{38}{subsubsection.4.2.3.1}% 
 \contentsline {paragraph}{\numberline {4.2.3.1.1}Polidattilia}{38}{paragraph.4.2.3.1.1}% 
 \contentsline {paragraph}{\numberline {4.2.3.1.2}Hungtington e SLA}{38}{paragraph.4.2.3.1.2}% 
-\contentsline {subsection}{\numberline {4.2.4}Espressivit\`a}{39}{subsection.4.2.4}% 
-\contentsline {subsubsection}{\numberline {4.2.4.1}Esempi}{39}{subsubsection.4.2.4.1}% 
-\contentsline {paragraph}{\numberline {4.2.4.1.1}Polidattilia}{39}{paragraph.4.2.4.1.1}% 
+\contentsline {subsection}{\numberline {4.2.4}Espressivit\`a}{38}{subsection.4.2.4}% 
+\contentsline {subsubsection}{\numberline {4.2.4.1}Esempi}{38}{subsubsection.4.2.4.1}% 
+\contentsline {paragraph}{\numberline {4.2.4.1.1}Polidattilia}{38}{paragraph.4.2.4.1.1}% 
 \contentsline {paragraph}{\numberline {4.2.4.1.2}Gradazioni di pezzatura del mantello del Bracco}{39}{paragraph.4.2.4.1.2}% 
 \contentsline {paragraph}{\numberline {4.2.4.1.3}Mascella Asburgo}{39}{paragraph.4.2.4.1.3}% 
 \contentsline {paragraph}{\numberline {4.2.4.1.4}Sindrome di Waardenburg}{39}{paragraph.4.2.4.1.4}% 
@@ -217,12 +217,12 @@
 \contentsline {subsubsection}{\numberline {4.2.5.1}Esempi}{39}{subsubsection.4.2.5.1}% 
 \contentsline {paragraph}{\numberline {4.2.5.1.1}Gatto di Man}{39}{paragraph.4.2.5.1.1}% 
 \contentsline {paragraph}{\numberline {4.2.5.1.2}Topo giallo}{39}{paragraph.4.2.5.1.2}% 
-\contentsline {subparagraph}{\numberline {4.2.5.1.2.1}Letalit\`a di un gene responsabile della colorazione del pelo}{40}{subparagraph.4.2.5.1.2.1}% 
+\contentsline {subparagraph}{\numberline {4.2.5.1.2.1}Letalit\`a di un gene responsabile della colorazione del pelo}{39}{subparagraph.4.2.5.1.2.1}% 
 \contentsline {subsubsection}{\numberline {4.2.5.2}Alleli letali umani}{40}{subsubsection.4.2.5.2}% 
 \contentsline {paragraph}{\numberline {4.2.5.2.1}Sindrome di Tay-Sachs}{40}{paragraph.4.2.5.2.1}% 
 \contentsline {subparagraph}{\numberline {4.2.5.2.1.1}Genetica molecolare}{40}{subparagraph.4.2.5.2.1.1}% 
 \contentsline {paragraph}{\numberline {4.2.5.2.2}Interazioni geni-ambiente nella \emph {PKU}}{40}{paragraph.4.2.5.2.2}% 
-\contentsline {subsubsection}{\numberline {4.2.5.3}Letalit\`a sintetica}{41}{subsubsection.4.2.5.3}% 
+\contentsline {subsubsection}{\numberline {4.2.5.3}Letalit\`a sintetica}{40}{subsubsection.4.2.5.3}% 
 \contentsline {paragraph}{\numberline {4.2.5.3.1}Terapie antitumorali}{41}{paragraph.4.2.5.3.1}% 
 \contentsline {section}{\numberline {4.3}Interazioni geniche e rapporti mendeliani modificati}{41}{section.4.3}% 
 \contentsline {subsection}{\numberline {4.3.1}Interazione genica che produce nuovi fenotipi}{41}{subsection.4.3.1}% 
@@ -230,7 +230,7 @@
 \contentsline {paragraph}{\numberline {4.3.1.1.1}Polli}{41}{paragraph.4.3.1.1.1}% 
 \contentsline {paragraph}{\numberline {4.3.1.1.2}Peperoni}{42}{paragraph.4.3.1.1.2}% 
 \contentsline {paragraph}{\numberline {4.3.1.1.3}Lenticchie}{42}{paragraph.4.3.1.1.3}% 
-\contentsline {paragraph}{\numberline {4.3.1.1.4}Drosophila melanogaster}{43}{paragraph.4.3.1.1.4}% 
+\contentsline {paragraph}{\numberline {4.3.1.1.4}Drosophila melanogaster}{42}{paragraph.4.3.1.1.4}% 
 \contentsline {subsection}{\numberline {4.3.2}Fenocopia}{43}{subsection.4.3.2}% 
 \contentsline {subsubsection}{\numberline {4.3.2.1}Esempi}{43}{subsubsection.4.3.2.1}% 
 \contentsline {paragraph}{\numberline {4.3.2.1.1}Colorazione dell'occhio di Drosophila}{43}{paragraph.4.3.2.1.1}% 
@@ -248,9 +248,9 @@
 \contentsline {subparagraph}{\numberline {4.3.3.3.1.1}Galline livornesi}{45}{subparagraph.4.3.3.3.1.1}% 
 \contentsline {subsubsection}{\numberline {4.3.3.4}Epistassi recessiva doppia}{45}{subsubsection.4.3.3.4}% 
 \contentsline {paragraph}{\numberline {4.3.3.4.1}Esempi}{45}{paragraph.4.3.3.4.1}% 
-\contentsline {subparagraph}{\numberline {4.3.3.4.1.1}Fiori}{46}{subparagraph.4.3.3.4.1.1}% 
+\contentsline {subparagraph}{\numberline {4.3.3.4.1.1}Fiori}{45}{subparagraph.4.3.3.4.1.1}% 
 \contentsline {subparagraph}{\numberline {4.3.3.4.1.2}Lumache d'acqua}{46}{subparagraph.4.3.3.4.1.2}% 
-\contentsline {subsection}{\numberline {4.3.4}Ridondanza genica}{47}{subsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4.3.4}Ridondanza genica}{46}{subsection.4.3.4}% 
 \contentsline {subsubsection}{\numberline {4.3.4.1}Esempi}{47}{subsubsection.4.3.4.1}% 
 \contentsline {paragraph}{\numberline {4.3.4.1.1}Capsula della pianta borsa del pastore}{47}{paragraph.4.3.4.1.1}% 
 \contentsline {subsection}{\numberline {4.3.5}Interazione genetica dominante}{47}{subsection.4.3.5}% 
@@ -258,28 +258,28 @@
 \contentsline {paragraph}{\numberline {4.3.5.1.1}Zucche}{47}{paragraph.4.3.5.1.1}% 
 \contentsline {subsection}{\numberline {4.3.6}Sovradominanza o vantaggio dell'eterozigote}{47}{subsection.4.3.6}% 
 \contentsline {subsection}{\numberline {4.3.7}Un soppressore extragenico pu\`o cancellare gli effetti fenotipici di una mutazione}{47}{subsection.4.3.7}% 
-\contentsline {subsection}{\numberline {4.3.8}La complementazione - determinare se le mutazioni sono sullo stesso locus o su loci diversi}{48}{subsection.4.3.8}% 
+\contentsline {subsection}{\numberline {4.3.8}La complementazione - determinare se le mutazioni sono sullo stesso locus o su loci diversi}{47}{subsection.4.3.8}% 
 \contentsline {subsection}{\numberline {4.3.9}Drosophila}{48}{subsection.4.3.9}% 
 \contentsline {subsection}{\numberline {4.3.10}Analisi di complementazione}{48}{subsection.4.3.10}% 
 \contentsline {section}{\numberline {4.4}Influenza del sesso su trasmissione ed espressione dei geni}{48}{section.4.4}% 
 \contentsline {subsection}{\numberline {4.4.1}Caratteri influenzati dal sesso}{48}{subsection.4.4.1}% 
-\contentsline {subsubsection}{\numberline {4.4.1.1}Esempi}{49}{subsubsection.4.4.1.1}% 
-\contentsline {paragraph}{\numberline {4.4.1.1.1}Barba nelle capre}{49}{paragraph.4.4.1.1.1}% 
-\contentsline {subparagraph}{\numberline {4.4.1.1.1.1}Incroci}{49}{subparagraph.4.4.1.1.1.1}% 
+\contentsline {subsubsection}{\numberline {4.4.1.1}Esempi}{48}{subsubsection.4.4.1.1}% 
+\contentsline {paragraph}{\numberline {4.4.1.1.1}Barba nelle capre}{48}{paragraph.4.4.1.1.1}% 
+\contentsline {subparagraph}{\numberline {4.4.1.1.1.1}Incroci}{48}{subparagraph.4.4.1.1.1.1}% 
 \contentsline {paragraph}{\numberline {4.4.1.1.2}Calvizie}{49}{paragraph.4.4.1.1.2}% 
 \contentsline {subsection}{\numberline {4.4.2}Caratteri limitati dal sesso}{49}{subsection.4.4.2}% 
 \contentsline {subsubsection}{\numberline {4.4.2.1}Esempi}{49}{subsubsection.4.4.2.1}% 
 \contentsline {paragraph}{\numberline {4.4.2.1.1}Tipologia di piumaggio nel gallo}{49}{paragraph.4.4.2.1.1}% 
 \contentsline {paragraph}{\numberline {4.4.2.1.2}Pubert\`a precoce}{49}{paragraph.4.4.2.1.2}% 
 \contentsline {subsection}{\numberline {4.4.3}Eredit\`a extranucleare - citoplasmatica}{49}{subsection.4.4.3}% 
-\contentsline {subsubsection}{\numberline {4.4.3.1}Esempi}{50}{subsubsection.4.4.3.1}% 
-\contentsline {paragraph}{\numberline {4.4.3.1.1}Eredit\`a citoplasmatica nella pianta bella di notte}{50}{paragraph.4.4.3.1.1}% 
+\contentsline {subsubsection}{\numberline {4.4.3.1}Esempi}{49}{subsubsection.4.4.3.1}% 
+\contentsline {paragraph}{\numberline {4.4.3.1.1}Eredit\`a citoplasmatica nella pianta bella di notte}{49}{paragraph.4.4.3.1.1}% 
 \contentsline {paragraph}{\numberline {4.4.3.1.2}Dimostrazione dell'origine materna dell'eredit\`a citoplasmatica}{50}{paragraph.4.4.3.1.2}% 
 \contentsline {paragraph}{\numberline {4.4.3.1.3}Malattie mitocondriali}{50}{paragraph.4.4.3.1.3}% 
 \contentsline {subparagraph}{\numberline {4.4.3.1.3.1}Neuropatia ottica ereditaria di Leber}{50}{subparagraph.4.4.3.1.3.1}% 
 \contentsline {subsection}{\numberline {4.4.4}Effetto genetico materno}{50}{subsection.4.4.4}% 
-\contentsline {subsubsection}{\numberline {4.4.4.1}Esempi}{51}{subsubsection.4.4.4.1}% 
-\contentsline {paragraph}{\numberline {4.4.4.1.1}Avvolgimento della conchiglia di Lymnaea peregra}{51}{paragraph.4.4.4.1.1}% 
+\contentsline {subsubsection}{\numberline {4.4.4.1}Esempi}{50}{subsubsection.4.4.4.1}% 
+\contentsline {paragraph}{\numberline {4.4.4.1.1}Avvolgimento della conchiglia di Lymnaea peregra}{50}{paragraph.4.4.4.1.1}% 
 \contentsline {subparagraph}{\numberline {4.4.4.1.1.1}Incroci}{51}{subparagraph.4.4.4.1.1.1}% 
 \contentsline {subsection}{\numberline {4.4.5}Imprinting genomico}{51}{subsection.4.4.5}% 
 \contentsline {subsubsection}{\numberline {4.4.5.1}Esempi}{51}{subsubsection.4.4.5.1}% 
@@ -288,7 +288,7 @@
 \contentsline {subparagraph}{\numberline {4.4.5.1.2.1}Sindrome di Prader-Willi}{51}{subparagraph.4.4.5.1.2.1}% 
 \contentsline {subparagraph}{\numberline {4.4.5.1.2.2}Sindrome di Angelman}{51}{subparagraph.4.4.5.1.2.2}% 
 \contentsline {subparagraph}{\numberline {4.4.5.1.2.3}Conclusioni}{51}{subparagraph.4.4.5.1.2.3}% 
-\contentsline {section}{\numberline {4.5}Anticipazione}{52}{section.4.5}% 
+\contentsline {section}{\numberline {4.5}Anticipazione}{51}{section.4.5}% 
 \contentsline {section}{\numberline {4.6}Fattori ambientali}{52}{section.4.6}% 
 \contentsline {subsection}{\numberline {4.6.1}Effetti ambientali sul fenotipo}{52}{subsection.4.6.1}% 
 \contentsline {subsubsection}{\numberline {4.6.1.1}Esempi}{52}{subsubsection.4.6.1.1}% 
@@ -297,13 +297,15 @@
 \contentsline {paragraph}{\numberline {4.6.1.1.3}Fenilchetonuria}{52}{paragraph.4.6.1.1.3}% 
 \contentsline {subsection}{\numberline {4.6.2}Eredit\`a delle caratteristiche continue}{52}{subsection.4.6.2}% 
 \contentsline {subsection}{\numberline {4.6.3}Pleiotropia}{52}{subsection.4.6.3}% 
-\contentsline {subsubsection}{\numberline {4.6.3.1}Esempi}{53}{subsubsection.4.6.3.1}% 
-\contentsline {paragraph}{\numberline {4.6.3.1.1}Singed - mutante di Drosophila}{53}{paragraph.4.6.3.1.1}% 
-\contentsline {subparagraph}{\numberline {4.6.3.1.1.1}Effetti fenotipici}{53}{subparagraph.4.6.3.1.1.1}% 
+\contentsline {subsubsection}{\numberline {4.6.3.1}Esempi}{52}{subsubsection.4.6.3.1}% 
+\contentsline {paragraph}{\numberline {4.6.3.1.1}Singed - mutante di Drosophila}{52}{paragraph.4.6.3.1.1}% 
+\contentsline {subparagraph}{\numberline {4.6.3.1.1.1}Effetti fenotipici}{52}{subparagraph.4.6.3.1.1.1}% 
 \contentsline {subparagraph}{\numberline {4.6.3.1.1.2}Genetica molecolare}{53}{subparagraph.4.6.3.1.1.2}% 
 \contentsline {paragraph}{\numberline {4.6.3.1.2}Anemia falciforme}{53}{paragraph.4.6.3.1.2}% 
 \contentsline {subsubsection}{\numberline {4.6.3.2}Pleiotropia antagonistica}{53}{subsubsection.4.6.3.2}% 
-\contentsline {chapter}{\numberline {5}Interazioni gene ambiente}{54}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Probabilit\`a}{54}{section.5.1}% 
-\contentsline {chapter}{\numberline {6}Pedigree}{55}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Simboli dei pedigree}{55}{section.6.1}% 
+\contentsline {subsection}{\numberline {4.6.4}Probabilit\`a}{53}{subsection.4.6.4}% 
+\contentsline {subsubsection}{\numberline {4.6.4.1}Esempi}{53}{subsubsection.4.6.4.1}% 
+\contentsline {paragraph}{\numberline {4.6.4.1.1}Sindrome di predisposizione al cancro a penetranza incompleta}{53}{paragraph.4.6.4.1.1}% 
+\contentsline {subparagraph}{\numberline {4.6.4.1.1.1}Processo di trasformazione}{53}{subparagraph.4.6.4.1.1.1}% 
+\contentsline {chapter}{\numberline {5}Pedigree}{55}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Simboli dei pedigree}{55}{section.5.1}% 
