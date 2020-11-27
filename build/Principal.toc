@@ -309,3 +309,9 @@
 \contentsline {subparagraph}{\numberline {4.6.4.1.1.1}Processo di trasformazione}{53}{subparagraph.4.6.4.1.1.1}% 
 \contentsline {chapter}{\numberline {5}Pedigree}{55}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Simboli dei pedigree}{55}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Analisi del pedigree}{56}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}I caratteri autosomici recessivi}{56}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}Caratteri autosomici dominanti}{56}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.3}Caratteri recessivi legati al cromosoma $\mathbf {X}$}{56}{subsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.2.4}Caratteri dominanti legati al cromosoma $\mathbf {X}$}{56}{subsection.5.2.4}% 
+\contentsline {subsection}{\numberline {5.2.5}Caratteri legati al cromosoma $\mathbf {Y}$}{57}{subsection.5.2.5}% 
