@@ -364,12 +364,14 @@
 \contentsline {subsubsection}{\numberline {6.3.1.3}Determinazione del sesso $\mathbf {XX}$-$\mathbf {XY}$}{64}{subsubsection.6.3.1.3}% 
 \contentsline {subsubsection}{\numberline {6.3.1.4}Determinazione del sesso $\mathbf {ZZ}$-$\mathbf {ZW}$}{64}{subsubsection.6.3.1.4}% 
 \contentsline {subsection}{\numberline {6.3.2}Determinazione genica del sesso}{64}{subsection.6.3.2}% 
+\contentsline {subsubsection}{\numberline {6.3.2.1}Esempi}{64}{subsubsection.6.3.2.1}% 
+\contentsline {paragraph}{\numberline {6.3.2.1.1}Imenotteri}{64}{paragraph.6.3.2.1.1}% 
 \contentsline {subsection}{\numberline {6.3.3}Determinazione del sesso legata all'ambiente}{64}{subsection.6.3.3}% 
 \contentsline {subsubsection}{\numberline {6.3.3.1}Esempi}{64}{subsubsection.6.3.3.1}% 
 \contentsline {paragraph}{\numberline {6.3.3.1.1}Crepidula fornicata}{64}{paragraph.6.3.3.1.1}% 
 \contentsline {subparagraph}{\numberline {6.3.3.1.1.1}Ermafroditismo sequenziale}{64}{subparagraph.6.3.3.1.1.1}% 
-\contentsline {paragraph}{\numberline {6.3.3.1.2}Tartarughe}{64}{paragraph.6.3.3.1.2}% 
-\contentsline {paragraph}{\numberline {6.3.3.1.3}Alligatori}{64}{paragraph.6.3.3.1.3}% 
+\contentsline {paragraph}{\numberline {6.3.3.1.2}Tartarughe}{65}{paragraph.6.3.3.1.2}% 
+\contentsline {paragraph}{\numberline {6.3.3.1.3}Alligatori}{65}{paragraph.6.3.3.1.3}% 
 \contentsline {paragraph}{\numberline {6.3.3.1.4}Lucertole drago barbute}{65}{paragraph.6.3.3.1.4}% 
 \contentsline {subsection}{\numberline {6.3.4}Determinazione del sesso nella Drosophila melanogaster}{65}{subsection.6.3.4}% 
 \contentsline {subsubsection}{\numberline {6.3.4.1}Rapporto $\mathbf {X:A}$}{65}{subsubsection.6.3.4.1}% 
@@ -377,22 +379,49 @@
 \contentsline {subsection}{\numberline {6.3.5}La determinazione del sesso nell'uomo}{65}{subsection.6.3.5}% 
 \contentsline {subsubsection}{\numberline {6.3.5.1}Patologie legate al sesso}{65}{subsubsection.6.3.5.1}% 
 \contentsline {paragraph}{\numberline {6.3.5.1.1}Sindrome di Turner}{65}{paragraph.6.3.5.1.1}% 
-\contentsline {paragraph}{\numberline {6.3.5.1.2}Sindrome di Klinefelter}{65}{paragraph.6.3.5.1.2}% 
-\contentsline {paragraph}{\numberline {6.3.5.1.3}Femmine poli-$\mathbf {X}$}{65}{paragraph.6.3.5.1.3}% 
+\contentsline {subparagraph}{\numberline {6.3.5.1.1.1}\emph {SHOX}}{66}{subparagraph.6.3.5.1.1.1}% 
+\contentsline {paragraph}{\numberline {6.3.5.1.2}Sindrome di Klinefelter}{66}{paragraph.6.3.5.1.2}% 
+\contentsline {paragraph}{\numberline {6.3.5.1.3}Femmine poli-$\mathbf {X}$}{66}{paragraph.6.3.5.1.3}% 
 \contentsline {paragraph}{\numberline {6.3.5.1.4}Sindrome da insensibilit\`a agli androgeni}{66}{paragraph.6.3.5.1.4}% 
+\contentsline {paragraph}{\numberline {6.3.5.1.5}Displasia ectodermica ipoidrotica}{66}{paragraph.6.3.5.1.5}% 
 \contentsline {subsubsection}{\numberline {6.3.5.2}Il numero dei cromosomi sessuali}{66}{subsubsection.6.3.5.2}% 
 \contentsline {subsubsection}{\numberline {6.3.5.3}il gene che determinali fenotipo maschile nell'uomo}{66}{subsubsection.6.3.5.3}% 
-\contentsline {section}{\numberline {6.4}Le caratteristiche legate al sesso sono determinate da geni presenti su cromosomi sessuali}{66}{section.6.4}% 
-\contentsline {subsection}{\numberline {6.4.1}Occhi bianchi legati al cromosoma $\mathbf {X}$ nella Drosophila}{66}{subsection.6.4.1}% 
+\contentsline {section}{\numberline {6.4}Le caratteristiche legate al sesso sono determinate da geni presenti su cromosomi sessuali}{67}{section.6.4}% 
+\contentsline {subsection}{\numberline {6.4.1}Occhi bianchi legati al cromosoma $\mathbf {X}$ nella Drosophila}{67}{subsection.6.4.1}% 
 \contentsline {subsection}{\numberline {6.4.2}Meccanismo di non-disgiunzione e teoria cromosomica dell'ereditariet\`a}{67}{subsection.6.4.2}% 
 \contentsline {subsubsection}{\numberline {6.4.2.1}Spiegazione di Bridges}{67}{subsubsection.6.4.2.1}% 
-\contentsline {subsection}{\numberline {6.4.3}Daltonismo legato al cromosoma $\mathbf {X}$ nell'uomo}{67}{subsection.6.4.3}% 
-\contentsline {subsection}{\numberline {6.4.4}Caratteri legati al cromosoma $\mathbf {Z}$}{67}{subsection.6.4.4}% 
+\contentsline {subsection}{\numberline {6.4.3}Daltonismo legato al cromosoma $\mathbf {X}$ nell'uomo}{68}{subsection.6.4.3}% 
+\contentsline {subsection}{\numberline {6.4.4}Caratteri legati al cromosoma $\mathbf {Z}$}{68}{subsection.6.4.4}% 
 \contentsline {subsubsection}{\numberline {6.4.4.1}Esempi}{68}{subsubsection.6.4.4.1}% 
 \contentsline {paragraph}{\numberline {6.4.4.1.1}Cameo nel pavone blu indiano}{68}{paragraph.6.4.4.1.1}% 
 \contentsline {subsection}{\numberline {6.4.5}Caratteri legati al cromosoma $\mathbf {Y}$}{68}{subsection.6.4.5}% 
 \contentsline {subsubsection}{\numberline {6.4.5.1}Evoluzione del cromosoma $\mathbf {Y}$}{68}{subsubsection.6.4.5.1}% 
-\contentsline {subsubsection}{\numberline {6.4.5.2}Caratteristiche del cromosoma $\mathbf {Y}$ nell'uomo}{68}{subsubsection.6.4.5.2}% 
-\contentsline {section}{\numberline {6.5}La compensazione di dose uniforma i livelli di proteina prodotti dai geni $\mathbf {X}$-linked e dai geni autosomici}{68}{section.6.5}% 
-\contentsline {subsection}{\numberline {6.5.1}Ipotesi di Lyon}{69}{subsection.6.5.1}% 
-\contentsline {subsection}{\numberline {6.5.2}Meccanismo dell'inattivazione casuale del cromosoma $\mathbf {X}$}{69}{subsection.6.5.2}% 
+\contentsline {subsubsection}{\numberline {6.4.5.2}Caratteristiche del cromosoma $\mathbf {Y}$ nell'uomo}{69}{subsubsection.6.4.5.2}% 
+\contentsline {section}{\numberline {6.5}La compensazione del dosaggio genico uniforma i livelli di proteina prodotti dai geni $\mathbf {X}$-linked e dai geni autosomici}{69}{section.6.5}% 
+\contentsline {subsection}{\numberline {6.5.1}Possibili meccanismi di compensazione}{69}{subsection.6.5.1}% 
+\contentsline {subsubsection}{\numberline {6.5.1.1}Drosophila Melanogaster}{69}{subsubsection.6.5.1.1}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.1}Struttura di \emph {Sxl}}{69}{paragraph.6.5.1.1.1}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.2}Rapporto $\mathbf {X:A}$ e espressione di \emph {Sxl}}{69}{paragraph.6.5.1.1.2}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.3}Modello a soglia per la regolazione del promotore early di \emph {Sxl}}{70}{paragraph.6.5.1.1.3}% 
+\contentsline {subparagraph}{\numberline {6.5.1.1.3.1}Embrioni $\mathbf {XX}$}{70}{subparagraph.6.5.1.1.3.1}% 
+\contentsline {subparagraph}{\numberline {6.5.1.1.3.2}Embrioni $\mathbf {XY}$}{70}{subparagraph.6.5.1.1.3.2}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.4}Blastoderma}{70}{paragraph.6.5.1.1.4}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.5}Regolazione dello splicing alternativo}{70}{paragraph.6.5.1.1.5}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.6}Cascata di regolazione nella determinazione del sesso in Drosophila}{70}{paragraph.6.5.1.1.6}% 
+\contentsline {subparagraph}{\numberline {6.5.1.1.6.1}Isoforme di \emph {Dsx}}{70}{subparagraph.6.5.1.1.6.1}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.7}\emph {Sxl} nel soma \`e essenziale per la fertilit\`a delle cellule germinali}{70}{paragraph.6.5.1.1.7}% 
+\contentsline {paragraph}{\numberline {6.5.1.1.8}Male specific letal \emph {MSL}}{71}{paragraph.6.5.1.1.8}% 
+\contentsline {subparagraph}{\numberline {6.5.1.1.8.1}Specificit\`a per $\mathbf {X}$}{71}{subparagraph.6.5.1.1.8.1}% 
+\contentsline {subsection}{\numberline {6.5.2}Ipotesi di Lyon}{71}{subsection.6.5.2}% 
+\contentsline {subsection}{\numberline {6.5.3}Meccanismo dell'inattivazione casuale del cromosoma $\mathbf {X}$}{71}{subsection.6.5.3}% 
+\contentsline {subsubsection}{\numberline {6.5.3.1}Inattivazione del cromosoma $X$ nei mammiferi}{71}{subsubsection.6.5.3.1}% 
+\contentsline {paragraph}{\numberline {6.5.3.1.1}Regolazioni epigentiche}{72}{paragraph.6.5.3.1.1}% 
+\contentsline {paragraph}{\numberline {6.5.3.1.2}Segnali epigenetici su $X$ inattivato}{72}{paragraph.6.5.3.1.2}% 
+\contentsline {subparagraph}{\numberline {6.5.3.1.2.1}Marsupiali}{72}{subparagraph.6.5.3.1.2.1}% 
+\contentsline {subparagraph}{\numberline {6.5.3.1.2.2}Monotremi}{72}{subparagraph.6.5.3.1.2.2}% 
+\contentsline {paragraph}{\numberline {6.5.3.1.3}Organizzazione spaziale}{72}{paragraph.6.5.3.1.3}% 
+\contentsline {paragraph}{\numberline {6.5.3.1.4}Inattivazione per imprinting}{72}{paragraph.6.5.3.1.4}% 
+\contentsline {paragraph}{\numberline {6.5.3.1.5}Tappe per l'inattivazione del cromosoma $\mathbf {X}$}{72}{paragraph.6.5.3.1.5}% 
+\contentsline {subparagraph}{\numberline {6.5.3.1.5.1}\emph {XIC}}{72}{subparagraph.6.5.3.1.5.1}% 
+\contentsline {subparagraph}{\numberline {6.5.3.1.5.2}\emph {Tsix}}{72}{subparagraph.6.5.3.1.5.2}% 
+\contentsline {subsection}{\numberline {6.5.4}Escapes}{73}{subsection.6.5.4}% 
