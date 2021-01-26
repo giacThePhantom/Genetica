@@ -454,3 +454,125 @@
 			L'interferenza invece:
 			\[interferenza = 1 - coefficiente\ di\ coincidenza\]
 			Questo determina la percentuale di progenie attesa derivante da doppi crossing-over non osservata a causa di interferenza.
+
+\section{Genome wide association study}
+Si intende per genome wide association study un analisi globale che consente di trovare la regione genomica associata ad un fenotipo il cui gene \`e ignoto.
+Viene usata la segregazione degli alleli del marcatore \emph{RFLP} legati a precise porzioni del genoma.
+Questi permettono una mappatura del genoma.
+La combinazione di marcatori e analisi fenotipiche permette di studiare la posizione dei geni responsabili del fenotipo.
+
+	\subsection{Mappatura del gene umano responsabile della sindrome di Nail-Patella}
+	La sindrome di Nail-patella provoca un difetto delle cartilagini.
+
+		\subsubsection{Studio del pedigree}
+		Studiando il pedigree si nota come il capostipite \`e un maschio affetto che trasmette la malattia a figli e figlie, pertanto \`e una malattia autosomica dominante.
+		Si ipotizza che il gene responsabile della patologia sia collocabile vicino al gene responsabile del gruppo sanguigno.
+		In questo caso si dovrebbe notare una coereditabilit\`a del fenotipo legato alla malattia e del gruppo sanguigno.
+
+			\paragraph{Associazione gruppo sanguigno e gene responsabile}
+			Si nota come:
+			\begin{multicols}{2}
+				\begin{itemize}
+					\item La sposa ha gruppo sanguigno $B$ ma \`e eterozigote ed eterozigote recessiva per il gene che causa la patologia.
+					\item Lo sposo \`e affetto e di gruppo sanguigno $A$, pertanto doppio eterozigote.
+					\item L'individuo $II1$ \`e doppio eterozigote di gruppo $B$.
+					\item L'individuo $II3$ \`e eterozigote affetto di gruppo $0$.
+					\item L'individuo $II4$ \`e doppio eterozigote affetto e $B$.
+					\item L'individuo $II7$ \`e sano e di gruppo $A$ eterozigote.
+					\item L'individuo $II8$ \`e malato eterozigote ed omozigote di gruppo $0$.
+				\end{itemize}
+			\end{multicols}
+			Pertanto degli $8$ figli $5$ sono affetti e di questi $3$ hanno gruppo sanguigno $I_B/i$ e gli altri $2$ sono $ii$.
+			Si nota come non esista un individuo affetto di gruppo $A$.
+
+			\paragraph{Considerazioni}
+			Si deve tentare di notare se quando viene trasmessa la patologia viene anche trasmesso un allele compatibile con il gruppo $0$ o $B$ in quanto questi possono derivare dalla madre.
+			Non ci si aspettano individui affetti con gruppo $A$.
+			Questo vale nel caso si noti un'associazione stretta degli alleli $i/N$ in assenza di ricombinanti.
+			In questo caso $I_B$ \`e in cis con $n$< pertanto i figli di $I2$ non dovrebbero avere figli con gruppo $B$ a meno che non siano ricombinanti, come $III2$ e $III3$.
+
+		\subsubsection{Studio molecolare}
+		La malattia \`e associata a una mutazione del gene \emph{LIM}, homebox transcription factor $I$ $\beta$ sul cromosoma $9$.
+		Il gene per il gruppo $AB0$ si trova sul cromosoma $9$ a una distanza di $6Mb$.
+		Questa distanza corrisponde al $6\%$ di ricombinazione e i geni si possono pertanto considerare associati.
+		
+\section{Studio delle probabilit\`a}
+
+	\subsection{Probabilit\`a binomiale}
+	Per indicare l'utilit\`a del marcatore molecolare per mappare la posizione di un gene si calcola la probabilit\`a di avere le classi di ricombinanti come osservato.
+	Si prendono pertanto in considerazione:
+	\begin{multicols}{2}
+		\begin{itemize}
+			\item Il numero di individui osservati $n$.
+			\item Il numero di individui ricombinanti $x$.
+			\item Il numero di individui non ricombinanti $y$.
+			\item Il coefficiente di ricombinazione $RF$.
+		\end{itemize}
+	\end{multicols}
+	Questi dati vengono combinati in una probabilit\`a binomiale:
+	\[P\biggl(\dfrac{x}{n}, RF\biggr)=\dfrac{n!}{x!y!}\cdot\biggl(\dfrac{RF}{2}\biggr)^x\cdot\biggl(\dfrac{1-RF}{2}\biggr)^y\]
+	Che indica la probabilit\`a che la classe ricombinante sia in tale rapporto con la non ricombinante.
+
+	\subsection{Logarithm of odds}
+	Logarithm of odds o \emph{LOD} indica la forza di associazione tra marcatori molecolari e patologie.
+	\`E un rapporto tra la probabilit\`a che i due geni siano ricombinanti e quella che non lo siano.
+	\[LOD = \log_{10}\dfrac{P\bigl(\frac{x}{n}, RF\bigr)}{P\bigl(\frac{x}{n}, 0.5\bigr)}\]
+	Dove $RF$ indica la frequenza di ricombinazione presa in considerazione.
+	Assumendo che due \emph{LOD} siano indipendenti posso combinare i punteggi di due famiglie in modo da rafforzare il risultato.
+	La soglia di sicurezza \`e \emph{LOD$=3$}, ovvero quando \`e $1000$ volte pi\`u probabile che due geni siano associati rispetto a che non lo siano.
+
+\section{Evento citogenetico}
+Si nota come la ricombinazione genetica \`e correlata a un evento citogenetico.
+
+	\subsection{Barbara McClintock}
+	Barbara McClintock insieme a Creighton scopre una variet\`a di granoturco in cui era presente un'anomalia fisica a livello del cromosoma $9$ che presentava una porzione extracromosomica in un certo campione.
+	Conoscendo i geni associati all'anomalia fisica del cromosoma dimostrarono che la ricombinazione genetica \`e correlata ad un evento citogenico di scambio di una porzione di cromosoma.
+	Una cellula eterozigote di grano per il gene che fa diventare i chicchi viola e per un allele dominante dell'aspetto ceroso incrociato con un individuo recessivo $c$ per il colore e eterozigote per $W_c$.
+	Gli allei dominanti dei due geni sono in trans.
+	La presenza in cis dei due alleli dominanti o recessivi \`e un evidenza di crossing-over.
+
+\section{Analisi delle tetradi}
+L'analisi delle tetradi pu\`o essere usata per mappare i geni in incroci a due punti.
+
+	\subsection{Studio dei lieviti}
+	Lo studio dei lieviti \`e vantaggioso in quanto i prodotti di una meiosi rimangono segregati in un asco.
+	Questo permette di isolare i gameti per studiare l'associazione di due geni.
+
+		\subsubsection{Tipologie di aschi}
+		Partendo da uno zigote diploide eterozigote per due geni ottenuto per unione di due cellule aploidi si notano diverse classi:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Ditipo parentale \emph{DP} in cui i geni hanno segregato nelle cellule figlie in base alla loro disposizione nei genitori aploidi.
+				\item Tetratipo \emph{T} in cui due cellule figlie sono parentali e due ricombinanti.
+				\item Ditipo non parentale \emph{DNP} in cui i geni hanno associazione in trans, sono diversi dai genitori e diversi a due a due tra di loro.
+			\end{itemize}
+		\end{multicols}
+
+		\subsubsection{Previsioni sull'associazione}
+		Si possono pertanto fare delle previsioni sull'associazione in base al tipo di asco.
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Se i geni sono associati ci si aspetta un ditipo parentale.
+				\item Se l'assortimento dei geni \`e indipendente ci si aspetta il tetratipo.
+			\end{itemize}
+		\end{multicols}
+
+		\subsubsection{Doppi crossing over}
+		I doppi crossing over possono dare origine a diversi tipi di aschi in base a quanti e quali cromatidi fratelli sono coinvolti.
+		Se sono coinvolti quattro cromatidi questi danno origine a \emph{DNP}, se sono coinvolti $3$ danno origine a tetratipo, se sono coinvolti $2$ a un ditipo parentale.
+		Solo la formazione di un \emph{DNP} non nasconde la sua natura non parentale.
+
+			\paragraph{Perkins}
+			Perkins studia un metodo alternativo per stimare la distanza di mappa che considera i doppi ricombinanti.
+			\[Distanza\ di\ mappa = \dfrac{Tetradi(1\ crossing\ over) + 2Tetradi(2\ crossing\ over)}{Numero\ totale\ di\ aschi}\cdot 0.5\cdot 100\]
+			La moltiplicazione per $0.5$ indica la frequenza di cromosomi ricombinanti in tetradi con crossing over doppi e singoli.
+
+		\subsubsection{Calcolo della quantit\`a di \emph{DP} e \emph{T}}
+		\[T(2x) = 2DNP\]
+		
+		\subsubsection{Stimare il numero di singoli crossing over}
+		\[T-2DNP + 2(4DNP)\]
+
+		\subsubsection{Distanza di mappa}
+		\[Distanza\ di\ mappa = \dfrac{(T-2DNP)+2(4DNP)}{Numero\ totale\ di\ aschi}\cdot 0.5\cdot 100\]
+

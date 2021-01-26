@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  25 JAN 2021 01:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  27 JAN 2021 00:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1053,17 +1053,17 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 ...{3.1.1}Esperimenti}{24}{subsection.3.1.1}
+l.112 ...{3.1.1}Esperimenti}{25}{subsection.3.1.1}
                                                   % [1
 
-] [2] [3])
+] [2] [3] [4])
 \tf@toc=\write4
 \openout4 = `Principal.toc'.
 
 
-(./Chapters/01_Introduzione.tex [4]
+(./Chapters/01_Introduzione.tex [5]
 Capitolo 1.
-[5
+[6
 
 ]
 
@@ -1072,20 +1072,20 @@ Make it at least 12.1638pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[6] [7] [8] [9]) (./Chapters/02_MitosiMeiosi.tex [10] [11]
+[7] [8] [9] [10]) (./Chapters/02_MitosiMeiosi.tex [11] [12]
 Capitolo 2.
-[12
+[13
 
-] [13] [14] [15] [16] [17] [18]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 209.
-
+] [14] [15] [16] [17] [18] [19]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 209.
 
-[19]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 209.
+
+[20]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 232.
@@ -1094,51 +1094,51 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 232.
 
-[20] [21]
+[21] [22]
 Overfull \hbox (8.88249pt too wide) in paragraph at lines 277--281
  \T1/cmr/bx/n/10 2.5.5.1.3.1 Strut-tu-ra e fun-zio-ne di \T1/cmr/bx/it/10 PRDM9
 [] \T1/cmr/m/n/10 La pro-tei-na \T1/cmr/m/it/10 PRDM9 \T1/cmr/m/n/10 è un iston
 -metiltrasferasi
  []
 
-[22]) (./Chapters/03_Mendel.tex [23]
+[23]) (./Chapters/03_Mendel.tex [24]
 Capitolo 3.
-[24
+[25
 
-] [25] [26] [27] [28] [29] [30]
+] [26] [27] [28] [29] [30] [31]
 Overfull \hbox (7.37787pt too wide) in paragraph at lines 208--211
  \T1/cmr/bx/n/10 3.6.2.2.4 Ca-rat-te-ri-sti-che ge-ni-che[] \T1/cmr/m/n/10 La c
 oe-re-di-tà di alfa-talassemia con omo-zi-go-te beta-talassemia
  []
 
-[31] [32] [33]) (./Chapters/04_EstensioneMendeliana.tex [34]
+[32] [33] [34]) (./Chapters/04_EstensioneMendeliana.tex [35]
 Capitolo 4.
-[35
+[36
 
-] [36] [37] [38] [39] [40] [41] [42] [43] [44]
+] [37] [38] [39] [40] [41] [42] [43] [44] [45]
 Underfull \hbox (badness 10000) in paragraph at lines 314--322
 
  []
 
-[45] [46]
+[46] [47]
 Underfull \hbox (badness 10000) in paragraph at lines 358--366
 
  []
 
-[47] [48] [49] [50]
+[48] [49] [50] [51]
 Overfull \hbox (0.74893pt too wide) in paragraph at lines 489--493
  \T1/cmr/bx/n/10 4.4.3.1.2 Di-mo-stra-zio-ne del-l'o-ri-gi-ne ma-ter-na del-l'e
 -re-di-tà ci-to-pla-sma-ti-ca[] \T1/cmr/m/n/10 In que-sto espe-
  []
 
-[51] [52] [53] [54]) (./Chapters/05_Pedigree.tex [55]
+[52] [53] [54] [55]) (./Chapters/05_Pedigree.tex [56]
 Capitolo 5.
 
 Underfull \hbox (badness 6741) in paragraph at lines 19--20
 []\T1/cmr/m/n/10 ``?'' nel sim-bo-lo: sto-ria fa-mi-lia-re
  []
 
-[56
+[57
 
 ]
 
@@ -1165,11 +1165,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 65.
 
-[57] [58] [59]) (./Chapters/06_DetSesso.tex [60]
+[58] [59] [60]) (./Chapters/06_DetSesso.tex [61]
 Capitolo 6.
-[61
+[62
 
-] [62] [63] [64] [65] [66]
+] [63] [64] [65] [66] [67]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 239.
@@ -1184,41 +1184,41 @@ Make it at least 22.48724pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[67]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 271.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 271.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 280.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 280.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 294.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 294.
-
 [68]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 271.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 271.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 280.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 280.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 294.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 294.
+
+[69]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 313.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 313.
 
-[69] [70]
+[70] [71]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 414.
@@ -1227,11 +1227,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 414.
 
-[71]) (./Chapters/07_LinkageGeniAssociati.tex [72] [73]
+[72]) (./Chapters/07_LinkageGeniAssociati.tex [73] [74]
 Capitolo 7.
-[74
+[75
 
-] [75] [76] [77] [78] [79]
+] [76] [77] [78] [79] [80]
 Underfull \hbox (badness 10000) in paragraph at lines 281--283
 
  []
@@ -1241,29 +1241,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--292
 
  []
 
-[80] [81] [82]
+[81] [82] [83]
 Underfull \hbox (badness 10000) in paragraph at lines 421--422
 []\T1/cmr/m/n/10 Un dop-pio cros-sing over pro-du-ce:
  []
 
+[84] [85] [86]) (./Chapters/08_GeneticaBatterica.tex [87]
+Capitolo 8.
+) (./Chapters/09_Replicazione.tex [88
+
+]
+Capitolo 9.
+) (./Chapters/10_Riparazione.tex [89
+
+]
+Capitolo 10.
+) (./Chapters/11_Mutazioni.tex [90
+
+]
+Capitolo 11.
+) (./Chapters/12_IperLocale.tex [91
+
+]
+Capitolo 12.
+) (./Chapters/13_Cancro.tex [92
+
+]
+Capitolo 13.
+) (./Chapters/14_Polimorfismi.tex [93
+
+]
+Capitolo 14.
+) (./Chapters/15_GeneticaPopolazione.tex [94
+
+]
+Capitolo 15.
+) (./Chapters/16_Quantitativa.tex [95
+
+]
+Capitolo 16.
+) (./Chapters/17_Trasposoni.tex [96
+
+]
+Capitolo 17.
+) (./Chapters/18_RicombinazioneOmologa.tex [97
+
+]
+Capitolo 18.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
- [83]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+ [98
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
  (./build/Principal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 25883 strings out of 492615
- 466846 string characters out of 6131390
- 563765 words of memory out of 5000000
- 28958 multiletter control sequences out of 15000+600000
+ 25982 strings out of 492615
+ 468504 string characters out of 6131390
+ 563778 words of memory out of 5000000
+ 28978 multiletter control sequences out of 15000+600000
  558159 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,16n,63p,816b,893s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,16n,63p,816b,896s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
 fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
@@ -1286,10 +1330,10 @@ sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 fti1000.pfb>
-Output written on ./build/Principal.pdf (84 pages, 639686 bytes).
+Output written on ./build/Principal.pdf (99 pages, 661062 bytes).
 PDF statistics:
- 1684 PDF objects out of 1728 (max. 8388607)
- 1558 compressed objects within 16 object streams
- 579 named destinations out of 1000 (max. 500000)
- 1177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1869 PDF objects out of 2073 (max. 8388607)
+ 1726 compressed objects within 18 object streams
+ 625 named destinations out of 1000 (max. 500000)
+ 1337 words of extra memory for PDF output out of 10000 (max. 10000000)
 
