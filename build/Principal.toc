@@ -512,13 +512,27 @@
 \contentsline {subsubsection}{\numberline {7.6.1.5}Stimare il numero di singoli crossing over}{87}{subsubsection.7.6.1.5}% 
 \contentsline {subsubsection}{\numberline {7.6.1.6}Distanza di mappa}{87}{subsubsection.7.6.1.6}% 
 \contentsline {chapter}{\numberline {8}Genetica batterica}{88}{chapter.8}% 
-\contentsline {chapter}{\numberline {9}Replicazione del DNA}{89}{chapter.9}% 
-\contentsline {chapter}{\numberline {10}Riparazione del DNA}{90}{chapter.10}% 
-\contentsline {chapter}{\numberline {11}Mutazioni}{91}{chapter.11}% 
-\contentsline {chapter}{\numberline {12}Ipermutabilit\`a locale}{92}{chapter.12}% 
-\contentsline {chapter}{\numberline {13}Genetica del cancro}{93}{chapter.13}% 
-\contentsline {chapter}{\numberline {14}Polimorfismi}{94}{chapter.14}% 
-\contentsline {chapter}{\numberline {15}Genetica di popolazione}{95}{chapter.15}% 
-\contentsline {chapter}{\numberline {16}Genetica quantitativa - caratteri poligenici}{96}{chapter.16}% 
-\contentsline {chapter}{\numberline {17}Trasposoni}{97}{chapter.17}% 
-\contentsline {chapter}{\numberline {18}Ricombinazione omologa}{98}{chapter.18}% 
+\contentsline {section}{\numberline {8.1}Coniugazione}{88}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Lederberg e Tatum}{88}{subsection.8.1.1}% 
+\contentsline {subsection}{\numberline {8.1.2}Davies}{88}{subsection.8.1.2}% 
+\contentsline {subsection}{\numberline {8.1.3}Hayes}{88}{subsection.8.1.3}% 
+\contentsline {subsection}{\numberline {8.1.4}Processo}{88}{subsection.8.1.4}% 
+\contentsline {section}{\numberline {8.2}Trasformazione}{89}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Trasduzione}{89}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}Trasduzione generalizzata}{89}{subsection.8.3.1}% 
+\contentsline {subsubsection}{\numberline {8.3.1.1}Lederberg e Zinder}{89}{subsubsection.8.3.1.1}% 
+\contentsline {subsubsection}{\numberline {8.3.1.2}Meccanismo}{89}{subsubsection.8.3.1.2}% 
+\contentsline {subsection}{\numberline {8.3.2}Trasduzione specializzata}{89}{subsection.8.3.2}% 
+\contentsline {subsubsection}{\numberline {8.3.2.1}Ciclo lisogenico}{89}{subsubsection.8.3.2.1}% 
+\contentsline {subsubsection}{\numberline {8.3.2.2}Hershey e Rotman}{89}{subsubsection.8.3.2.2}% 
+\contentsline {subsubsection}{\numberline {8.3.2.3}Benzer}{90}{subsubsection.8.3.2.3}% 
+\contentsline {chapter}{\numberline {9}Replicazione del DNA}{91}{chapter.9}% 
+\contentsline {chapter}{\numberline {10}Riparazione del DNA}{92}{chapter.10}% 
+\contentsline {chapter}{\numberline {11}Mutazioni}{93}{chapter.11}% 
+\contentsline {chapter}{\numberline {12}Ipermutabilit\`a locale}{94}{chapter.12}% 
+\contentsline {chapter}{\numberline {13}Genetica del cancro}{95}{chapter.13}% 
+\contentsline {chapter}{\numberline {14}Polimorfismi}{96}{chapter.14}% 
+\contentsline {chapter}{\numberline {15}Genetica di popolazione}{97}{chapter.15}% 
+\contentsline {chapter}{\numberline {16}Genetica quantitativa - caratteri poligenici}{98}{chapter.16}% 
+\contentsline {chapter}{\numberline {17}Trasposoni}{99}{chapter.17}% 
+\contentsline {chapter}{\numberline {18}Ricombinazione omologa}{100}{chapter.18}% 
