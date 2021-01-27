@@ -1,1 +1,209 @@
 \chapter{Riparazione del DNA}
+
+\section{Panoramica}
+
+	\subsection{Tasso di errore nella replicazione}
+	La fedelt\`a della replicazione viene caratterizzata dal tasso di errore della DNA polimerasi.
+	La capacit\`a della polimerasi varia in base al complesso specifico.
+	Si nota inoltre un'attivit\`a di proofreading svolta da un endonucleasi e un esonucleasi.
+	Un sistema di riparazione coaudiva il processo di replicazione.
+
+	\subsection{Rischio di malappaiamento}
+	Il rischio di creare un malappaiamento aumenta nel caso di danni al DNA.
+	Una volta generato tale appaiamento pu\`o essere corretto.
+	Se invece persiste la situazione diventa una mutazione.
+	Il sistema di riconoscimento e riparazione dei mismatch elimina il nucleotide errato permettendo alla polimerasi una sintesi corretta.
+
+	\subsection{Checkpoint}
+	Esistono dei checkpoint durante la replicazione capaci di riconoscere gravi errori al DNA individuando una forcella di replicazione in stallo.
+	Questi innescano sistemi di compensazione come regressione, sintesi traslesione o la riparazione ricombinazionale.
+
+	\subsection{Tipologie di risposte cellulari al danno al DNA}
+	\begin{multicols}{2}
+		\begin{itemize}
+			\item Reversione del danno alla base.
+			\item Escissione di basi scorrette, malappaiate o danneggiate:
+				\begin{itemize}
+					\item Base excision repair \emph{BER}.
+					\item Nucleotide excision repair \emph{NER}.
+					\item Transcription-coupled nucleotide excision repair \emph{TC-NER}.
+					\item Alternative excision repair \emph{AER}.
+					\item Mismatch repair \emph{MMR}.
+				\end{itemize}
+			\item Riparazione di rotture al filamento:
+				\begin{itemize}
+					\item Single-strand break repair \emph{SSBR}.
+					\item Double-strand break repair \emph{DSBR}.
+				\end{itemize}
+			\item Tolleranza al danno di basi:
+				\begin{itemize}
+					\item Sintesi del DNA translesione \emph{TLS}.
+					\item Gap filling post replicativo.
+					\item Replicazione nella progressione della forcella.
+				\end{itemize}
+			\item Attivazione dei checkpoint del ciclo cellulare.
+			\item Apoptosi.
+		\end{itemize}
+	\end{multicols}
+
+\section{Sintesi del DNA translesione}
+
+	\subsection{Panoramica}
+	La sintesi del DNA translesione \emph{TLS} \`e un meccanismo di sintesi del DNA attivato nel caso di danni chimici al DNA come dimeri di pirimidina formati da raggi UV.
+	In questi luoghi la polimerasi non riesce a svolgere l'attivit\`a di sintesi a causa di ingombro sterico.
+
+	\subsection{Cambio di polimerasi}
+	Il meccanismo consiste nell'utilizzo di una DNA polimerasi poco fedele in grado di copiare il frammento modificato in modo errato.
+	Questa \`e poco processiva e si stacca dopo le due basi permettendo il continuo della normale replicazione.
+
+		\subsubsection{Sito catalitico}
+		Il sito catalitico di questa DNA polimerasi \`e pi\`u ampio in modo da tollerare appaiamenti errati.
+
+		\subsubsection{Caricamento}
+		Il caricamento della DNA polimerasi specializzata avviene attraverso modifiche post-traduzionali della \emph{PCNA}.
+		L'assenza di queste modifiche consente un normale processo di replicazione.
+
+	\subsection{Danni drammatici}
+	In caso di danni troppo estesi la \emph{PCNA} viene poli-ubiquitinata causando una retrocessione del replisosoma.
+	Pu\`o essere usato un nuovo stampo non danneggiato in modo da ottenere una copia \emph{chicken foot}.
+
+\section{Mismatch repair}
+
+	\subsection{Panoramica}
+	Il sistema di mismatch repair \emph{MMR} si occupa di trovare e correggere malappaiamenti.
+
+	\subsection{Fissazione dei malappaiamenti}
+	Nel caso di replicazione completa con un malappaiamento dopo un secondo ciclo di mutazione diventa complicato correggere questo errore.
+	L'errore \`e recuperabile e richiede un sistema specifico che scansiona il DNA.
+
+	\subsection{Sistema di mismatch}
+	Il sistema di mismatch si compone di una proteina omodimerica con un sito di legame per \emph{ATP} in grado di misurare la geometria del DNA.
+	
+		\subsubsection{Attivazione}
+		Quando la proteina riconosce una variazione recluta \emph{MutL/H/S} che riconoscono il filamento di nuova sintesi, rompono un legame fosfodiestere formando un nick.
+		
+		\subsubsection{Riparazione del danno}
+		Il taglio permette l'attivit\`a di un'esonucleasi che digerisce il filamento in una direzione.
+		Successivamente viene reclutata una DNA polimerasi che riempie il gap e ripara il danno.
+
+		\subsubsection{Riconoscimento del filamento di nuova sintesi}
+
+			\paragraph{Procarioti}
+			Negli eucarioti la replicazione porta alla formazione di DNA emimetilato: il filamento non metilato \`e quello di nuova sintesi.
+			A questo si lega \emph{MutH}.
+			Questo avviene in quanto la metilazione avviene successivamente alla replicazione, creando un intervallo di tempo di emimetilazione.
+			Questo permette a \emph{MutS} di riconoscere il malappaiameento.
+			La distanza del taglio \`e influenzata dalla metilazione.
+			L'emitelazione si crea grazie a due proteine che competono per il legame al DNA.
+
+			\paragraph{Eucarioti}
+			Negli eucarioti il filamento di nuova sintesi lagging pu\`o essere riconosciuto grazie ai numerosi nick che intervallano i frammenti.
+			L'altro filamento pu\`o essere riconosciuto da nick creati dall'errato inserimento di ribonucleotidi rimossi da \emph{ribonucleasiH}.
+			Gli analoghi di \emph{MutS} e \emph{MutL} sono \emph{MSH2/6}, omodimeri che creano un sistema pi\`u preciso e specializzato.
+			Questi reclutano una polimerasi processiva per risintetizzare il filamento.
+
+\section{Nucleotide excision repair}
+
+	\subsection{Panoramica}
+	Il nucleotide excision repair \emph{NER} \`e un sistema di riparazione che agisce prima dell'arrivo della forcella di replicazione.
+	Il processo consiste di un escissione di un piccolo frammento di DNA.
+	Percepisce e rimuove distorsioni dell'elica come quelle dovute ai raggi UV.
+	Sorveglia il filamento trascritto dai geni attivi ed \`e una parte del global genome repair \emph{GGR}.
+
+	\subsection{Escissione}
+	Il meccanismo riconosce addotti ingombranti nella doppia elica, punti in cui \`e distortaa.
+	Complessi proteici \emph{AAB} la legano e cambiano la conformazione della doppia elica.
+	Questi reclutano un'endonucleasi \emph{CC} che rompe un legame fosfodiestere in due punti del filamento.
+	Le elicasi svolgono il filamento che viene escisso.
+	A questo punto una DNA polimerasi fedele e processiva pu\`o subentrare e sintetizzare il filamento mancante.
+
+	\subsection{Eucarioti}
+
+		\subsubsection{Reclutamento}
+		Il reclutamento del sistema \emph{NER} avviene grazie allo stallo di una RNA polimerasi che incontra una distorsione.
+		Questa recluta \emph{CSA} e \emph{CSB} che rimuovono la RNA polimerasi.
+
+		\subsubsection{Processo}
+		\emph{XPCHR23B} riconosce \emph{CSA} e \emph{CSB} e recluta \emph{TFIIH} associato a \emph{XPD} e \emph{XPB}, elicasi con polarit\`a opposta.
+		\emph{XPG} e \emph{XPF} incidono a monte e a valle uno dei due filamenti escindendone un frammento.
+		Una polimerasi pu\`o pertanto ora resintetizzare il filamento.
+
+	\subsection{Confronto con \emph{MMR}}
+	\emph{NER} e \emph{MMR} si differenziano per la lunghezza del frammento escisso, pi\`u lungo per \emph{MMR} e per il fatto che \emph{NER} non discrimina secondo l'et\`a del filamento.
+
+		\subsubsection{Fotoriattivazione}
+		La fotoriattivazione \`e un metodo di riparazione diretto dei dimeri di timina.
+		I batteri possiedono un enzima fotoliasi in grado di riconoscere e riparare il dimero utilizzando energia luminosa.
+		In queste cellule la luce attiva anche il \emph{NER} meno specifico.
+
+\section{Base excision repair}
+
+	\subsection{Panoramica}
+	Il base excision repair \emph{BER} \`e un processo di riparazione per escissione di basi.
+
+		\subsubsection{Rimozione delle basi azotate}
+		Le glicolasi si occupano di rimuovere le basi azotate modificate chimicamente.
+		Lo fanno idrolizzando il legame glicosidico tra la base e lo zucchero.
+		IL taglio lascia un sito apurinico o apirimidinico.
+		\emph{AP-endonucleasi}  riconoscono il sito senza base e rimuovono i due legami fosfodiestere permettendo l'attivit\`a della DNA polimerasi $\beta$.
+
+		\subsubsection{Riconoscimento dell'errore}
+		Le glicolasi riconoscono l'errore di basi danneggiate grazie alla percezione della stabilit\`a del legame tra due basi di diversi filamenti.
+		Se la base \`e giusta e debolmente associata alla complementare viene rimossa.
+
+		\subsubsection{Long patch \emph{BER}}
+		Pu\`o essere che venga reclutata una polimerasi pi\`u processiva che formi dei flap, tagliati da un'endonucleasi e sigillati da una DNA ligasi nella long patch \emph{BER}.
+
+	\subsection{Guanina ossidata}
+	La guanina ossidata pu\`o essere fonte di un errore in quanto la $8$-idrossiguanosina incorpora un'adenina durante la replicazione del DNA.
+	Questo evento pu\`o non essere corretto dalla DNA polimerasi.
+
+		\subsubsection{Glicosilasi fail-safe}
+		Una glicosilasi fail safe pu\`o intervenire in questo caso andando a rimuovere la base $A$ normale con una $C$ riducendo il tasso di errore, complementare alla guanosina ossidata.
+		Viene anche detta glicosilasi di guardia.
+
+		\subsubsection{$\mathbf{8}$-idrossiguanina}
+		La $8$-idrossiguanina o dGTPasi si occupa di salvaguardare i GTP impedendo loro di inserire guanine ossidate nella sintesi del DNA.
+
+		\subsubsection{Glicosilasi \emph{OGG1}}
+		\emph{OGG1} \`e una glicosilasi deputata a staccare le guanine ossidate.
+
+	\subsection{Isole CpG}
+	Le isole CpG sono isole substrato per enzimi di modifiche epigenetiche come metiltrasferasi che metilano la citosina.
+	La modifica chimica pu\`o portare alla variazione di una $C$ in una $T$.
+
+		\subsubsection{Sistema di riparazione}
+		Il sistema di riparazione coinvolge la glicosilasi \emph{MBI4}.
+		Questa stacca le $T$ appaiate con $G$ nonostante siano entrambe basi naturali e avvia il sistema di riparazione.
+
+\section{Rottura di entrambi i filamenti della doppia elica}
+
+	\subsection{Panoramica}
+	La rottura di entrambi i filamenti della doppia elica o \emph{DSB} pu\`o essere riparata attraverso diversi meccanismi.
+	Tutti questi hanno in comune il substrato: un estremit\`a che espone il \emph{$3'$-OH} complementare a uno integro usato come stampo.
+
+		\subsubsection{Formazione delle rotture}
+		Le rotture a doppia elica possono generarsi in caso di replicazione incompleta durante la segregazione dei cromosomi o durante la replicazione in base al danno alle basi.
+
+	\subsection{Non homologous end joining}
+	Non homnologous end joining \emph{NHEJ} \`e un processo in cui nel punto di rottura vengono reclutate \emph{Ku70/80} alle terminazioni in modo da evitare la loro digesione.
+	Queste reclutano \emph{DNA-PKcs} che tiene unite le due estremit\`a che vengono sigillate da una ligasi.
+	Le due estremit\`a possono essere generate attraverso endonucleasi.
+
+		\subsubsection{\emph{DNA-PKcs}}
+		\emph{DNA-PKcs} \`e una grande proteina con molte eliche in grado di associarsi alle estremit\`a del DNA che devono essere vicine.
+
+	\subsection{Ricombinazione omologa}
+	La ricombinazione omologa \`e un processo attivo solo quando \`e presente un filamento omologo, ovvero successivamente alla replicazione del genoma.
+	Se \emph{Ku70/80} non arrivano in tempo alle estremit\`a endonucleasi espongono \emph{$3'$-OH} su cui si aggregano proteine che attivano una strand invasion al cromatidio fratello.
+	In questo modo viene recuperata l'informazione pera a causa della digestione.
+	Avviene uno strand displacement che sigilla il doppio filamento.
+	Il processo \`e preciso e fedele, ma pu\`o avere errori quando a monte e valle del sito di taglio sono presenti sequenze parzialmente ripetute che portano a appaiamenti di sequenze complementari erronee che diventano flaps e rimossi.
+	I filamenti vengono uniti da ligasi.
+
+	\subsection{Metodi di mantenimento della rottura}
+	Ibridi a RNA-DNA o molecole di RNA sono utili per riparare le rotture di DNA.
+	Il complesso \emph{MRN} \`e un'alternativa a \emph{Ku70/80}.
+	\`E formato da tre subunit\`a con un dominio esonucleasico che digerisce una delle due molecole di DNA rotto.
+	Alla rottura viene attivato un processo di trascrizione generando un ibrido DNA-RNA grazie a \emph{RNAPII}.
+	\emph{RNAasiH} rimuove i ribonucleotidi che possono essere sostituiti dal DNA.
