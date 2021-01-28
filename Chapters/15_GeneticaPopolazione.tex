@@ -1,1 +1,75 @@
 \chapter{Genetica di popolazione}
+
+\section{Panoramica}
+
+	\subsection{Definizione}
+	La genetica di popolazione si occupa di capire l'entit\`a di una variazione genetica nelle popolazioni, come esiste e si modifica nel corso di generazione.
+	Vengono studiati pool di geni.
+	Studia polimorfismi.
+
+	\subsection{Frequenza genotipica}
+	Frequenza di genotipo nella popolazione.
+	Numero di individui con un genotiupo su $N$.
+	\[f(AA)+f(Aa)+f(aa) = 1\]
+
+	\subsection{Frequenza allelica}
+	Numero di individuoi con un certo allele su $N$.
+	\[p=f(A)=\dfrac{2n_{aa} + n_{Aa}}{2N}\]
+	\[q=f(a)=\dfrac{2n_{aa} + n_{Aa}}{2N}\]
+	Si pu\`o derivare dalla frequenza genotipica come somma della frequenza in omozigosi pi\`u un mezzo della frequenza in eterozigosi.
+
+		\subsubsection{Tre alleli}
+		\[p = f(A1) = \dfrac{2n_{A1A1} + n_{A1A2} + n_{A1A3}}{2N}\]
+		\[q = f(A2) = \dfrac{2n_{A2A2} + n_{A2A1} + n_{A2A3}}{2N}\]
+		\[r = f(A3) = \dfrac{2n_{A3A3} + n_{A3A1} + n_{A3A2}}{2N}\]
+
+		\subsubsection{Geni $X$ linked}
+		\[p = f(X^D) = \dfrac{2n_{X^DX^D} + n_{X^DX^d} + n_{X^DY}}{2N_{XX} + n_{XY}}\]
+		\[p = f(X^D) = f(X^DX^D) + \frac{1}{2}f(X^Dx^d) + f(X^DY)\]
+
+\section{Equilibrio di Hardy-Weinberg}
+Definisce rapporto genotipico tra le frequenze alleliche attese in una popolazione ampia, caratterizzata da accoppiamento casuale, non influenzata da mutazioni, migrazioni o selezione naturale.
+Le frequenze allele non c'ambiano e le frequenze genotipiche dopo una genrazione:
+\[p^2+2pq+q^2=1\]
+Con $p = f(A)$ e $q = F(a)$ e $p^2$, $q^2$ e $2pq$ rappresentano le frequenze genotipiche attese.
+Il test del $\chi^2$ confronta osservati e eattesi, gradi di libert\`a pari al numero di classi genotipiche attese meno il numero di alleli coinvolti.
+
+\section{Alterazioni dell'equilibrio Hardy-Weinberg}
+
+	\subsection{Mutazioni casuali}
+	Azione sui meccanismi evolutivi.
+
+	\subsection{Migrazione}
+	Tra popolazioni che differiscono per frequenze alleliche.
+	Altera frequenza genotipica nella generazione dopo.
+
+	\subsection{Deriva genica}
+	Cambiamento nella variabilit\`a genica.
+	Errori di campionamento.
+	Perdita o fissazione di un allele.
+	Dimensione della popolazione.
+
+	\subsection{Effetto collo di bottiglia}
+	POpolazione di pochi individui fondatori di un'altra con minore divrsit\`a.
+	Inincrocio: individui imparetnati,
+	Aumento di omozigoti. coefficiente di inincrocio. Tra $0$ e $1$.
+
+	\subsection{Accoppiamento non casuale}
+	Assortativo, scelta di accoppiamento in base a fenotipi.
+	Altera proprozione di omozigoti e eterozigoti ma non frequenza allelico.
+
+	\subsection{Selezione naturale}
+	Determinati caratteri pressione selettiva. Fiteness.
+	Ogni genotipo d\`a contributo proporzionale alla popolazione $p^2W_{AA}$ $q^2W_{aa}$ e $2pqW_{Aa}$ dove $W$ \`e la misura della fitness o numero medio di prolegenerata diviso il numero massimo tra i medi.
+	Con selezione naturale la frequenza genotipica relativa dopo la selezione \`e data dal contributo proporionale diviso la sommatoria dei contributi di tutti i genotipi possibili.
+
+	\subsection{Polimorfismo bilanciato}
+	Presenza di forze che mantengono gli allei in requenza equilibrata.
+	Vantaggio dell'eterozigote.
+
+	\subsection{Selezione direzoinale}
+	Aumetno di frequenza a causa di maggiore fitness.
+
+	\subsection{Selezione contro eterozigoti}
+	Condizione pi\`u svantaggiata.
+
