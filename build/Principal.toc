@@ -699,5 +699,25 @@
 \contentsline {subsection}{\numberline {15.3.8}Selezione direzoinale}{114}{subsection.15.3.8}% 
 \contentsline {subsection}{\numberline {15.3.9}Selezione contro eterozigoti}{114}{subsection.15.3.9}% 
 \contentsline {chapter}{\numberline {16}Genetica quantitativa - caratteri poligenici}{115}{chapter.16}% 
-\contentsline {chapter}{\numberline {17}Trasposoni}{116}{chapter.17}% 
-\contentsline {chapter}{\numberline {18}Ricombinazione omologa}{117}{chapter.18}% 
+\contentsline {section}{\numberline {16.1}Caratteri continui e norma di reazione}{115}{section.16.1}% 
+\contentsline {subsection}{\numberline {16.1.1}Norma di reazione}{115}{subsection.16.1.1}% 
+\contentsline {section}{\numberline {16.2}Ipotesi poligenica per l'ereditariet\`a continuativa}{115}{section.16.2}% 
+\contentsline {section}{\numberline {16.3}Descrizione della distribuzione dei fenotipi di un carattere continuo}{115}{section.16.3}% 
+\contentsline {section}{\numberline {16.4}Segregazione allelica nella produzione dei tratti quantitativi}{116}{section.16.4}% 
+\contentsline {section}{\numberline {16.5}Ipotesi multifattoriale di Fisher}{116}{section.16.5}% 
+\contentsline {subsection}{\numberline {16.5.1}Retta di regressione}{117}{subsection.16.5.1}% 
+\contentsline {section}{\numberline {16.6}Effetti soglia ed espressione di caratteri discontinui multifattoriali}{117}{section.16.6}% 
+\contentsline {section}{\numberline {16.7}Analisi dei caratteri quantitativi}{117}{section.16.7}% 
+\contentsline {subsection}{\numberline {16.7.1}Ereditabilit\`a di un carattere}{117}{subsection.16.7.1}% 
+\contentsline {subsubsection}{\numberline {16.7.1.1}Senso lato}{117}{subsubsection.16.7.1.1}% 
+\contentsline {subsubsection}{\numberline {16.7.1.2}Senso stretto}{117}{subsubsection.16.7.1.2}% 
+\contentsline {section}{\numberline {16.8}Regressione verso la media}{117}{section.16.8}% 
+\contentsline {subsection}{\numberline {16.8.1}Selezione artificiale}{118}{subsection.16.8.1}% 
+\contentsline {subsection}{\numberline {16.8.2}Drosophila}{118}{subsection.16.8.2}% 
+\contentsline {section}{\numberline {16.9}Quantitative trait loci}{118}{section.16.9}% 
+\contentsline {subsection}{\numberline {16.9.1}Ereditabilit\`a dell'obesit\`a}{118}{subsection.16.9.1}% 
+\contentsline {subsection}{\numberline {16.9.2}QTL}{118}{subsection.16.9.2}% 
+\contentsline {subsection}{\numberline {16.9.3}Identificazione dei QTL}{118}{subsection.16.9.3}% 
+\contentsline {subsection}{\numberline {16.9.4}Eterosi}{118}{subsection.16.9.4}% 
+\contentsline {chapter}{\numberline {17}Trasposoni}{119}{chapter.17}% 
+\contentsline {chapter}{\numberline {18}Ricombinazione omologa}{120}{chapter.18}% 
