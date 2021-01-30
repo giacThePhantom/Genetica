@@ -1,0 +1,155 @@
+\input{prefix_article}
+
+\title{\Huge \textbf{Genetica}}
+
+\author{
+  Giacomo Fantoni \\
+  \small Telegram: \href{https://t.me/GiacomoFantoni}{@GiacomoFantoni} \\[3pt]
+  \small Github: \href{https://github.com/giacThePhantom/Genetica}{https://github.com/giacThePhantom/Genetica}}
+\begin{document}
+\maketitle
+\begin{multicols}{2}
+\paragraph*{Mendel}
+\begin{itemize}
+	\item Incroci monoibridi $3:1$.
+	\item Incroci diibridi $9:6:1$.
+	\item Testcross $1:2:1$.
+	\item $\chi^2$, probabilit\`a che la differenza tra valori osservati e attesi dovuta al caso: $\chi^2 = \nsum\dfrac{(obs-exp)^2}{exp}$.
+	\item Gradi di libert\`a: $n-1$, $n$ numero di fenotipi attesi.
+\end{itemize}
+
+\paragraph*{Estensione Mendel}
+\begin{itemize}
+	\item Dominanza incompleta $1:2:1$.
+	\item Codominanza.
+	\item Allelismo multiplo.
+	\item Penetranza.
+	\item Espressivit\`a.
+	\item Alleli letali $2:3$.
+	\item Epistasi recessiva $9:3:4$.
+	\item Epistasi dominante $I$ $12:3:1$.
+	\item Epistasi dominante $II$ $13:3$.
+	\item Epistasi recssiva doppia $9:7$.
+	\item Ridondanza genica $15:1$.
+	\item Interazione genica dominante $9:6:1$.
+\end{itemize}
+
+\paragraph*{Pedigree}
+\begin{itemize}
+	\item Caratteri autosomici recessivi:
+		\begin{itemize}
+			\item Stessa frequenza in entrambi i sessi.
+			\item Un allele per genitore.
+			\item Raro genitori eterozigoti non affetti.
+			\item Salta generazioni.
+			\item Entrambi i genitori affetti tutta progenie.
+			\item Rato partner esterno figli non manifestano, eterozigoti.
+		\end{itemize}
+	\item Caratteri autosomici dominanti:
+		\begin{itemize}
+			\item Stessa frequenza in entrambi i sessi.
+			\item Trasmissione diretta, individuo ereditato allele da un genitore.
+			\item Non saltano generazioni.
+			\item Raro individui eterozigoti.
+		\end{itemize}
+	\item Caratteri recessivi legati al $X$:
+		\begin{itemize}
+			\item Pi\`u frequenti nei maschi.
+			\item Femmine due.
+			\item Maschi madri non affette ma portatrici e padri affetti.
+			\item Salta generazioni.
+			\item Donna eterozigote met\`a figli affetti e met\`a figlie portatrici.
+			\item No trasmissione da padre a figlio.
+			\item Figlie di uomo affetto portatrici.
+			\item Figli di donna omozigote affetti.
+		\end{itemize}
+	\item Caratteri dominanti legati al $X$:
+		\begin{itemize}
+			\item Maggiore frequenza in femmine.
+			\item Genitore affetto, non saltano generazioni.
+			\item Maschi affetti a figlie non figli.
+			\item Donne affetti met\`a figli e met\`a figlie.
+			\item Maschi solo dalla madre.
+		\end{itemize}
+	\item Caratteri legati al $Y$:
+		\begin{itemize}
+			\item Solo i maschi.
+			\item Da padre a figlio completamente.
+			\item No rapporto dominanza.
+			\item Figlie sane.
+		\end{itemize}
+\end{itemize}
+
+\paragraph*{Determinazione sesso}
+\begin{multicols}{2}
+\begin{itemize}
+	\item $XX$-$X0$.
+	\item $ZZ$-$ZW$.
+	\item $XX$-$XY$.
+	\item $X:A$.
+	\item Genica.
+	\item Ambiente.
+\end{itemize}
+\end{multicols}
+
+\paragraph*{Linkage}
+\begin{itemize}
+	\item Frequenza di ricombinazione e distanza di mappa: $\dfrac{nprog_{ric}}{nprog_{tot}}\cdot 100$.
+	\item Test $\chi^2$ indipendenza:
+		\begin{itemize}
+			\item Tabella valori osservati e totali righe e colonne, generale.
+			\item $EXP = \dfrac{TOT_{riga} \cdot TOT_{colonna}}{TOT_{generale}}$.
+			\item $\chi^2$.
+			\item $gl = (numero\ righe -1)\cdot(numero\ colonne - 1)$.
+		\end{itemize}
+	\item Mappe genetiche tre punti:
+		\begin{itemize}
+			\item Ordine dei geni, centrale.
+			\item Localizzazione dei crossing over.
+			\item Frequenza di ricombinazione.
+			\item Coefficiente di coincidenza: $\dfrac{OBS_{2Xcrossover}}{EXP_{2Xcrossover}}$.
+			\item Interferenza = $1 - coefficiente\ di\ coincidenza$.
+		\end{itemize}
+	\item Probabilit\`a associazione: $P(\frac{x}{n}, RF) = \frac{n!}{x!y!}\cdot (\frac{RF}{2})^x\cdot(\frac{1-RF}{2})^y$.
+	\item Logarithm of odds = $\log_10 \dfrac{P(\frac{x}{n}, RF)}{P(\frac{x}{n}, 0.5)}$.
+	\item Analisi delle tetradi.
+		\begin{itemize}
+			\item Ditipo parentale no ricombinanti.
+			\item Tetratipo 2 parentali due ricombinanti.
+			\item Ditipo non parentale tutti ricombinanti, a due a due uguali.
+			\item Distanza di mappa $\dfrac{(T-2DNP) + 2(4DNP)}{TOT}\cdot 0.5\cdot 100$.
+		\end{itemize}
+\end{itemize}
+
+\paragraph*{Polimorfismi}
+\begin{itemize}
+	\item Aplotipi: siti polimorfici con due varianti alleliche.
+		Associazione di nucleotidi polimorfici presenti in una porzione di cromosoma che tendono ad essere ereditati insieme.
+	\item Linkage disequilibrium: misura della coereditabilit\`a di elementi genetici.
+\end{itemize}
+
+\paragraph*{Genetica di popolazione}
+\begin{itemize}
+	\item Frequenza genotipica.
+	\item Frequenza allelica.
+	\item Equilibrio di Hardy-Weinberg:
+		\begin{itemize}
+			\item $q^2+2pq+p^2 = 1$.
+			\item $p = f(A) = \dfrac{2n_{aa} + n_{Aa}}{2N}$.
+			\item $q = f(a) = \dfrac{2n_{aa}+n_{Aa}}{2N}$.
+			\item $f(AA) = p^2$.
+			\item $f(Aa) = 2pq$.
+			\item $f(aa) = q^2$.
+		\end{itemize}
+	\item Fitness genotipi moltiplicati per $W_{AA}$ numero medio di prole generata diviso numero massimo tra i medi.
+\end{itemize}
+
+\paragraph*{Genetica quantitativa}
+\begin{itemize}
+	\item Probabilit\`a genotipi omozigoti parentali $(\dfrac{1}{4})^2$, $n$ geni coinvolti.
+	\item Norma di reazione
+
+\end{itemize}
+\end{multicols}
+
+\end{document}
