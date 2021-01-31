@@ -111,7 +111,7 @@
 			\item Interferenza = $1 - coefficiente\ di\ coincidenza$.
 		\end{itemize}
 	\item Probabilit\`a associazione: $P(\frac{x}{n}, RF) = \frac{n!}{x!y!}\cdot (\frac{RF}{2})^x\cdot(\frac{1-RF}{2})^y$.
-	\item Logarithm of odds = $\log_10 \dfrac{P(\frac{x}{n}, RF)}{P(\frac{x}{n}, 0.5)}$.
+	\item Logarithm of odds = $\log_{10} \dfrac{P(\frac{x}{n}, RF)}{P(\frac{x}{n}, 0.5)}$.
 	\item Analisi delle tetradi.
 		\begin{itemize}
 			\item Ditipo parentale no ricombinanti.
@@ -146,9 +146,21 @@
 
 \paragraph*{Genetica quantitativa}
 \begin{itemize}
-	\item Probabilit\`a genotipi omozigoti parentali $(\dfrac{1}{4})^2$, $n$ geni coinvolti.
-	\item Norma di reazione
-
+	\item Probabilit\`a genotipi omozigoti parentali $(\dfrac{1}{4})^n$, $n$ geni coinvolti in $F_2$.
+	\item Distribuzione di frequenza: normale, simmetrica, asimmetrica, bimodale.
+	\item Media $\bar{x} = \frac{\sum\limits_{i = 1}^n x_i}{n}$.
+	\item Varianza: $s^2 = \frac{\sum\limits_{i = 1}^n(x_i - \bar{x})^2}{n-1}$.
+	\item Deviazione standard $s = \sqrt{s^2}$.
+	\item Correlazione $cov_{xy} = \frac{\sum\limits_{i = 1}^n(x_i - \bar{x})(y_i - \bar{y}}{n-1}$.
+	\item Coefficiente di correlazione $r = \frac{cov_{xy}}{s_xs_y}$.
+	\item Retta di regressione:
+		\begin{itemize}
+			\item $b=\frac{cov_{xy}}{s^2_x}$.
+			\item $a=\bar{y}-b\bar{x}$.
+		\end{itemize}
+	\item Varianza fenotipica: $V_P = V_A+V_D+V_I+V_E+V_{GE}$.
+	\item Ereditabilit\`a in senso lato $H^2=\frac{V_G}{V_P}$.
+	\item Ereditabilit\`a in senso stretto $h^2=\frac{V_A}{V_P}$.
 \end{itemize}
 \end{multicols}
 
