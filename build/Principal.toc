@@ -72,7 +72,7 @@
 \contentsline {subsubsection}{\numberline {2.4.2.3}Conclusioni}{22}{subsubsection.2.4.2.3}% 
 \contentsline {subsection}{\numberline {2.4.3}Endoreplicazione, la poliploidia con uno scopo}{22}{subsection.2.4.3}% 
 \contentsline {subsubsection}{\numberline {2.4.3.1}Meccanismi di endoreplicazione}{22}{subsubsection.2.4.3.1}% 
-\contentsline {paragraph}{\numberline {2.4.3.1.1}Endociti}{22}{paragraph.2.4.3.1.1}% 
+\contentsline {paragraph}{\numberline {2.4.3.1.1}Endocicli}{22}{paragraph.2.4.3.1.1}% 
 \contentsline {paragraph}{\numberline {2.4.3.1.2}Rereplicazione}{22}{paragraph.2.4.3.1.2}% 
 \contentsline {paragraph}{\numberline {2.4.3.1.3}Endomitosi}{22}{paragraph.2.4.3.1.3}% 
 \contentsline {subsubsection}{\numberline {2.4.3.2}Esempi di tessuti endociclanti}{22}{subsubsection.2.4.3.2}% 
