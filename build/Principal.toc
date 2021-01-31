@@ -1,28 +1,35 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
 \contentsline {chapter}{\numberline {1}Introduzione}{9}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Il DNA come base molecolare dell'ereditariet\`a}{9}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Isolamento del DNA}{10}{subsection.1.1.1}% 
-\contentsline {subsection}{\numberline {1.1.2}Caratterizzazione chimica e prima teorizzazione della struttura}{10}{subsection.1.1.2}% 
-\contentsline {subsection}{\numberline {1.1.3}Determinazione del rapporto tra le basi}{10}{subsection.1.1.3}% 
-\contentsline {subsection}{\numberline {1.1.4}Studi del pneumococco}{10}{subsection.1.1.4}% 
-\contentsline {subsubsection}{\numberline {1.1.4.1}Griffith}{10}{subsubsection.1.1.4.1}% 
-\contentsline {subsubsection}{\numberline {1.1.4.2}Dawson e Sia}{11}{subsubsection.1.1.4.2}% 
-\contentsline {subsubsection}{\numberline {1.1.4.3}Avery}{11}{subsubsection.1.1.4.3}% 
-\contentsline {subsection}{\numberline {1.1.5}Studi dei batteriofagi}{11}{subsection.1.1.5}% 
-\contentsline {subsection}{\numberline {1.1.6}Alternative al DNA a doppio filamento}{11}{subsection.1.1.6}% 
-\contentsline {section}{\numberline {1.2}La rivoluzione del DNA}{12}{section.1.2}% 
-\contentsline {subsection}{\numberline {1.2.1}Leggere il DNA}{12}{subsection.1.2.1}% 
-\contentsline {subsection}{\numberline {1.2.2}Contare il DNA}{12}{subsection.1.2.2}% 
-\contentsline {subsection}{\numberline {1.2.3}Scrivere il DNA}{12}{subsection.1.2.3}% 
-\contentsline {subsubsection}{\numberline {1.2.3.1}Terapia genica}{12}{subsubsection.1.2.3.1}% 
-\contentsline {subsubsection}{\numberline {1.2.3.2}Clonaggio}{13}{subsubsection.1.2.3.2}% 
-\contentsline {subsubsection}{\numberline {1.2.3.3}Editing genomico}{13}{subsubsection.1.2.3.3}% 
-\contentsline {paragraph}{\numberline {1.2.3.3.1}Prevenzione della distrofia muscolare nei topi attraverso editing del DNA germinale mediato da CRISPR/Cas9}{13}{paragraph.1.2.3.3.1}% 
-\contentsline {paragraph}{\numberline {1.2.3.3.2}Utilizzo in medicina}{14}{paragraph.1.2.3.3.2}% 
-\contentsline {subsubsection}{\numberline {1.2.3.4}Biologia sintetica}{14}{subsubsection.1.2.3.4}% 
-\contentsline {subsection}{\numberline {1.2.4}Interazioni gene e ambiente}{14}{subsection.1.2.4}% 
-\contentsline {paragraph}{\numberline {1.2.4.0.1}L'attivazione ambientale e genetica di un asse di segnalazione BDNF/Leptina causa remissione ed inibizione del cancro}{14}{paragraph.1.2.4.0.1}% 
+\contentsline {section}{\numberline {1.1}Panoramica}{9}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Genetica}{9}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Informazione genica}{9}{subsection.1.1.2}% 
+\contentsline {subsubsection}{\numberline {1.1.2.1}DNA}{9}{subsubsection.1.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1.1.2.2}Mutazioni de novo}{9}{subsubsection.1.1.2.2}% 
+\contentsline {subsection}{\numberline {1.1.3}Sistemi modello}{9}{subsection.1.1.3}% 
+\contentsline {subsubsection}{\numberline {1.1.3.1}Tipologie}{9}{subsubsection.1.1.3.1}% 
+\contentsline {section}{\numberline {1.2}Il DNA come base molecolare dell'ereditariet\`a}{10}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Isolamento del DNA}{10}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Caratterizzazione chimica e prima teorizzazione della struttura}{10}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}Determinazione del rapporto tra le basi}{11}{subsection.1.2.3}% 
+\contentsline {subsection}{\numberline {1.2.4}Studi del pneumococco}{11}{subsection.1.2.4}% 
+\contentsline {subsubsection}{\numberline {1.2.4.1}Griffith}{11}{subsubsection.1.2.4.1}% 
+\contentsline {subsubsection}{\numberline {1.2.4.2}Dawson e Sia}{11}{subsubsection.1.2.4.2}% 
+\contentsline {subsubsection}{\numberline {1.2.4.3}Avery}{11}{subsubsection.1.2.4.3}% 
+\contentsline {subsection}{\numberline {1.2.5}Studi dei batteriofagi}{11}{subsection.1.2.5}% 
+\contentsline {subsection}{\numberline {1.2.6}Alternative al DNA a doppio filamento}{12}{subsection.1.2.6}% 
+\contentsline {section}{\numberline {1.3}La rivoluzione del DNA}{12}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Leggere il DNA}{12}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}Contare il DNA}{13}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.3}Scrivere il DNA}{13}{subsection.1.3.3}% 
+\contentsline {subsubsection}{\numberline {1.3.3.1}Terapia genica}{13}{subsubsection.1.3.3.1}% 
+\contentsline {subsubsection}{\numberline {1.3.3.2}Clonaggio}{13}{subsubsection.1.3.3.2}% 
+\contentsline {subsubsection}{\numberline {1.3.3.3}Editing genomico}{14}{subsubsection.1.3.3.3}% 
+\contentsline {paragraph}{\numberline {1.3.3.3.1}Prevenzione della distrofia muscolare nei topi attraverso editing del DNA germinale mediato da CRISPR/Cas9}{14}{paragraph.1.3.3.3.1}% 
+\contentsline {paragraph}{\numberline {1.3.3.3.2}Utilizzo in medicina}{14}{paragraph.1.3.3.3.2}% 
+\contentsline {subsubsection}{\numberline {1.3.3.4}Biologia sintetica}{14}{subsubsection.1.3.3.4}% 
+\contentsline {subsection}{\numberline {1.3.4}Interazioni gene e ambiente}{15}{subsection.1.3.4}% 
+\contentsline {subsubsection}{\numberline {1.3.4.1}L'attivazione ambientale e genetica di un asse di segnalazione BDNF/Leptina causa remissione ed inibizione del cancro}{15}{subsubsection.1.3.4.1}% 
 \contentsline {chapter}{\numberline {2}Mitosi e meiosi}{16}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Riproduzione cellulare}{16}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Riproduzione procariote}{16}{subsection.2.1.1}% 
